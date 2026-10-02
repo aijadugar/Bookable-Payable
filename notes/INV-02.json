@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_number": "#9972-907",
+    "taxes": [
+      "Käibemaks 24%: rate only"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
