@@ -1,0 +1,18 @@
+[
+  {
+    "invoice_number": "5900366703",
+    "taxes": [
+      "VAT 20%: rate only",
+      "VAT 20%: rate only",
+      "VAT 20 %: rate only"
+    ],
+    "derived": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "days 30",
+    "po": "no match"
+  }
+]
