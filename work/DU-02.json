@@ -1,0 +1,1333 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "Customs Consolidated Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Consolidated Invoice",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "REA,DIAG,POLY CHAIN REACT,",
+        "REA,DIAG,POLY CHAIN REACT,",
+        "PLSTS,GSKTS, WASHERS, OTHE",
+        "OTH.PLSTIC MAT,OTH, OTH,OTH",
+        "GLASSWARE,LAB,HYG, PHARM,OTH",
+        "FILT/PURIF MACH PARTS, OTH",
+        "FLOUR MILL AND GRAIN MILL",
+        "OTH PRTS/MECH APPS,W/ IND F",
+        "OTH PRTS/MECH APPS,W/ IND F",
+        "TUNGSTEN HALGN LMP <= 100V,OTHER",
+        "ULTRAVIOLET LAMP",
+        "ULTRAVIOLET LAMP",
+        "ELNDLEEBBN TERS/G",
+        "ELNDLEEBBN TERS/G",
+        "PRT ELEC INSTRUMENT,902720",
+        "PRT ELEC INSTRUMENT,902720",
+        "PRT ELEC INSTRUMENT,902720",
+        "PRT ELEC INSTRUMENT,902730",
+        "PT ELC INST, OT,902720/30/5",
+        "PT ELC INST, OT,902720/30/5",
+        "PT ELC INST, OT,902720/30/5"
+      ],
+      "line_quantities": [
+        "2",
+        "1",
+        "3",
+        "8",
+        "8",
+        "1",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "8",
+        "2",
+        "3",
+        "6",
+        "2"
+      ],
+      "line_uoms": [
+        "PC",
+        "PC",
+        "PC",
+        "PC",
+        "PC",
+        "PC",
+        "EA",
+        "EA",
+        "PC",
+        "PC",
+        "PC",
+        "PC",
+        "EA",
+        "PC",
+        "PC",
+        "PC",
+        "PC",
+        "EA",
+        "EA",
+        "EA",
+        "PC"
+      ],
+      "line_unit_prices": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "21,22",
+        "37,19",
+        "91,40",
+        "11,67",
+        "10,83",
+        "162,94",
+        "6.216,19",
+        "115,97",
+        "261,28",
+        "107,53",
+        "327,79",
+        "264,89",
+        "20.850,22",
+        "4.359,50",
+        "465,45",
+        "434,37",
+        "9,84",
+        "412,44",
+        "630,10",
+        "2.287,88",
+        "456,24"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "37.534,94",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "37.534,94"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Standard to TR",
+        "Delivered at Place"
+      ]
+    },
+    {
+      "page_numbers": [
+        3
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419603/66691406",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "Ref. sample Glutomatic"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "1.872,11"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "1.872,11"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        3
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "1.872,11",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505419603/66691406",
+        "Delivery Group 5191407",
+        "Delivery 830920460",
+        "Sales Order 5229664",
+        "ULTIMATE CONSIGNEE: Novatek Sağlık ve Çevre Bilim.LTDŞTİ, c/o MeridianEXPRESS GENEL MERKEZ NSN DEPO, High Street 21 -19988682121, 34764 ÜMRANIYE, TURKEY",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        4,
+        5
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419505/5229132",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "Vial Diffuser Molding",
+        "13 mm Black Plastic Screw Cap",
+        "4 mL Clr Scr Vial 15 x 45 13-425 PER PC."
+      ],
+      "line_quantities": [
+        "8",
+        "8",
+        "8"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "61,92",
+        "73,46",
+        "68,14"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "495,36",
+        "587,68",
+        "545,12"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        4,
+        4,
+        4
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "1.628,16",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505419505/5229132",
+        "Delivery Group 5191407",
+        "Delivery 830920463",
+        "Sales Order 5229596",
+        "ULTIMATE CONSIGNEE: Novatek Sağlık ve Çevre Bilim.LTDŞTİ, c/o MeridianEXPRESs GENEL MERKEZ NSN DEPO, High Street 21, 34764 ÜMRANIYE, TURKEY",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419825/5222652",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "PFA-ST Nebulizer for prepFAST"
+      ],
+      "line_quantities": [
+        "2"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "46.183,48"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "92.366,96"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        6
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "92.366,96",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505419825/5222652",
+        "Delivery Group 5191407",
+        "Delivery 830920464",
+        "Sales Order 5229801",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        7,
+        8
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419739/5229131",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "Nickel Skimmer Cone for NexION",
+        "HyperSkimmer Cone for NexION",
+        "Nickel Sampler Cone for NexION"
+      ],
+      "line_quantities": [
+        "4",
+        "4",
+        "4"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "4.896,42",
+        "3.033,16",
+        "5.700,66"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "19.585,68",
+        "12.132,64",
+        "22.802,64"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        7,
+        7,
+        7
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "54.520,96",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505419739/5229131",
+        "Delivery Group 5191407",
+        "Delivery 830920466",
+        "Sales Order 5229803",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505416600/66690602",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "OEM- Deuterium lamp"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "16.500,40"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "16.500,40"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        9
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "16.500,40",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505416600/66690602",
+        "Delivery Group 5191407",
+        "Delivery 830920470",
+        "Sales Order 5227704",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        10
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419906/5229766",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "MPLC Concept Holder, 10 cm"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "8.202,20"
+      ],
+      "line_price_units": [],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "8.202,20"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        10
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "8.202,20",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Customer PO 5505419906/5229766",
+        "Delivery Group 5191407",
+        "Delivery 830920465",
+        "Sales Order 5229802",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        11,
+        12
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419741/5229612",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+        "Hybrid XLT 3-Slot Organics Torch Avio HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
+        "PFA-ST MicroFlow Nebulizer for Optima HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+        "STD - PHOSPHORUS 1000 uG/ML 125ML HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other"
+      ],
+      "line_quantities": [
+        "1",
+        "2",
+        "1",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "360.80",
+        "10.380,94",
+        "13.152,75",
+        "707,46"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "360,80",
+        "20.761,88",
+        "13.152,75",
+        "707,46"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        11,
+        11,
+        11,
+        12
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "34.982,89",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "34.982,89"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920468",
+        "Sales Order 5229805",
+        "Standard to TR",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        13
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505418938/66691189",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "KIT - SQ8 HEADAMP HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories"
+      ],
+      "line_quantities": [
+        "2"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "11.483,22"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "22.966,44"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        13
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "22.966,44",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "22.966,44"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920471",
+        "Sales Order 5229134",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        14
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505420114/66691592",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "GASKET HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
+        "HS-40 SS Needle HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
+      ],
+      "line_quantities": [
+        "3",
+        "2"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "1.533.74",
+        "11.715,24"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "4.601,22",
+        "23.430,48"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        14,
+        14
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "28.031,70",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "28.031,70"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920472",
+        "Sales Order 5229907",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        15
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505420246/66691631",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "BRAZE ASSY ASXL CHARCOAL TRAP HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
+      ],
+      "line_quantities": [
+        "2"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "10.932,91"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "21.865,82"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        15
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "21.865,82",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "21.865,82"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920473",
+        "Sales Order 5230031",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        16
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505417511/5228031",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRES GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "Avio 220 Max Base Instrument HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "1.049.579,86"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "1.049.579,86"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        16
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "1.049.579,86",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "1.049.579,86"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920461",
+        "Sales Order 5228208",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        17
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419356/5229129",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "1000uL wide bore tips, QTY 2304 HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "5.838,05"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "5.838,05"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        17
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "5.838,05",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "5.838,05"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920462",
+        "Sales Order 5229520",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        18
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505419742/5229609",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRES GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "ELP UV Lamp Complete HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
+        "Tungsten Halogen Lamp Assembly HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V"
+      ],
+      "line_quantities": [
+        "1",
+        "2"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "13.334,17",
+        "2.706,40"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "13.334,17",
+        "5.412,80"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        18,
+        18
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "18.746,97",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL:"
+      ],
+      "other_total_amounts": [
+        "18.746,97"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920467",
+        "Sales Order 5229804",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    },
+    {
+      "page_numbers": [
+        19,
+        20
+      ],
+      "title_text": "Customs Detailed Invoice",
+      "invoice_number": "554701215",
+      "invoice_date": "01/06/2026",
+      "due_date": "",
+      "invoice_type_text": "Customs Detailed Invoice",
+      "payment_terms_text": "",
+      "po_number": "5505420084",
+      "currency_text": "TRY",
+      "price_basis_text": "",
+      "supplier_name": "Novatek U.S. LLC",
+      "supplier_address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+      "supplier_vat_id": "BE2480635349",
+      "supplier_tax_id": "BE2480635349",
+      "supplier_iban": "",
+      "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
+      "buyer_address": "PamPamminh@22102\nKadaka tee 711\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
+      "buyer_vat_id": "TR6917179205",
+      "line_descriptions": [
+        "GLUTOMATIC 2000 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+        "CENTRIFUG 2010 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+        "LactoScope 300 HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
+      ],
+      "line_quantities": [
+        "1",
+        "1",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "239.833.40",
+        "73.083,50",
+        "219.453,16"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [],
+      "line_discount_percents": [],
+      "line_totals": [
+        "239.833,40",
+        "73.083,50",
+        "219.453,16"
+      ],
+      "line_tax_names": [],
+      "line_tax_rates": [],
+      "line_tax_amounts": [],
+      "line_page_numbers": [
+        19,
+        19,
+        19
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "532.370,06",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "TOTAL"
+      ],
+      "other_total_amounts": [
+        "532.370,06"
+      ],
+      "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920469",
+        "Sales Order 5229908",
+        "Delivered at Place",
+        "2083596115"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}
