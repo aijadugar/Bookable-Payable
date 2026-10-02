@@ -1,0 +1,17 @@
+[
+  {
+    "invoice_number": "6265-K",
+    "taxes": [
+      "? 22: rate only",
+      "KM 22% 22%: rate only"
+    ],
+    "derived": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
