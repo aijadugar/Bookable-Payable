@@ -237,8 +237,13 @@ def apply_basis(doc, lines, calc, header, header_amounts, gross, notes):
         return
     header_rates = {num(t["tax_rate"]) for t in header if t["tax_rate"]}
     fallback = next(iter(header_rates)) if len(header_rates) == 1 else None
-    rates = [c["rate"] if c["rate"] is not None else fallback for c in calc]
-    if any(r is None for r in rates) or all(r == 0 for r in rates):
+    rates = []
+    for c in calc:
+        r = c["rate"] if c["rate"] is not None else fallback
+        if r is None:
+            return
+        rates.append(r)
+    if all(r == 0 for r in rates):
         return
     sum_t = sum(c["T"] for c in calc)
     net_sum = sum(c["T"] / (1 + r / 100) for c, r in zip(calc, rates))
@@ -296,7 +301,7 @@ def build_payable(doc):
         "gross_total": money(doc.get("printed_gross_total") or doc.get("printed_amount_due"), credit),
         "subtotal": money(doc.get("printed_subtotal"), credit),
         "total_tax_amount": money(doc.get("printed_total_tax"), credit),
-        "discount_amount": money(doc.get("printed_discount_amount"), credit) and fmt(abs(hdisc)),
+        "discount_amount": "" if hdisc is None else fmt(abs(hdisc)),
         **ch,
         "taxes": header,
         "line_items": lines,
