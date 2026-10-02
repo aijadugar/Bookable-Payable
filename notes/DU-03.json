@@ -1,0 +1,35 @@
+[
+  {
+    "invoice_number": "74.Nov.0534",
+    "taxes": [
+      "0% GST on sales 0.00 %: ambiguous (rate only)"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '1.28' does not foot)",
+      "line 2: unit price taken from printed total (printed '0.10' does not foot)",
+      "line 3: unit price taken from printed total (printed '45.00' does not foot)",
+      "line 4: unit price taken from printed total (printed '0.04' does not foot)",
+      "line 5: unit price taken from printed total (printed '0.18' does not foot)",
+      "line 6: unit price taken from printed total (printed '7.50' does not foot)",
+      "line 7: unit price taken from printed total (printed '15.00' does not foot)",
+      "line 8: unit price taken from printed total (printed '15.00' does not foot)",
+      "line 9: unit price taken from printed total (printed '5.00' does not foot)",
+      "line 10: unit price taken from printed total (printed '0.08' does not foot)"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "days 60",
+    "po": "no match"
+  },
+  {
+    "invoice_number": "",
+    "taxes": [],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
