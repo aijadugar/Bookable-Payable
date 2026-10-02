@@ -1,0 +1,10 @@
+{
+  "file": "INV-07.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "TAX INVOICE\nInvoice Date Larkspur Distribution Meridian Print\n30 Apr 2025\nLarkspur Distribution Meridian Print\nGartenweg 173\nNorthwind Services ZA (Pty) Meridian Print Ltd\nINV7097292303\nM5 Office Park\nF04, Kiepersol House\nBahnhofstrasse 300\nUnit 7, Block B\nGartenweg 60\nINV7097292303 Darrenwood\nGauteng\nMaitland\n2195\nWESTERN CAPE CAPE TOWN 7405\n8690782647\nSouth Africa\nSOUTH AFRICA\nVAT Number: 9446639440\nDescription\nQuantity Unit Price VAT Amount ZAR\nStandard Criminal Verification\n133.00 129.00 15% 17,157.00\nSubtotal 17,157.00\nTOTAL VAT 2,573.55\nTOTAL ZAR 19,730.55\nLess Amount Credited 13,110.00\nAMOUNT DUE ZAR 6,620.55\nDue Date: 31 May 2025\nOakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV\nPlease use your invoice number as reference when making payment.\nCompany Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa.",
+      "reason": "no printed total (pages [1])"
+    }
+  ]
+}

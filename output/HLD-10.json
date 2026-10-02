@@ -1,0 +1,108 @@
+{
+  "file": "HLD-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "UNA IN 13",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Northwind Operations OÜ",
+        "supplier_id": "",
+        "address": "Northwind Operations OÜ",
+        "vat_id": "27044945"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "254.52",
+      "subtotal": "157.62",
+      "total_tax_amount": "30.54",
+      "discount_amount": "",
+      "freight_charges": "157.62",
+      "insurance_charges": "",
+      "extra_charges": "66.36",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "",
+          "tax_name": "A",
+          "tax_rate": "24",
+          "tax_amount": "30.54",
+          "tax_type_code": "EST_240_VAT"
+        },
+        {
+          "tax_type": "",
+          "tax_name": "B",
+          "tax_rate": "0",
+          "tax_amount": "0.00",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "nondoc",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "24.1825",
+          "total": "96.73",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "B",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "38",
+          "unit_price": "4.152105",
+          "total": "157.78",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "A",
+              "tax_rate": "24",
+              "tax_amount": "30.53",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        },
+        {
+          "description": "UMVARDAIVIINE",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "0.01",
+          "total": "0.01",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

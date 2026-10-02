@@ -1,0 +1,190 @@
+{
+  "file": "INV-37.pdf",
+  "payables": [
+    {
+      "invoice_number": "5568",
+      "invoice_date": "2018-12-06",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "USD",
+      "supplier": {
+        "name": "1120 VERMONT AVENUE ASSOCIATES, LLP",
+        "supplier_id": "",
+        "address": "1120 VERMONT AVENUE ASSOCIATES, LLP",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "17816",
+      "po_id": "",
+      "gross_total": "2487.73",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "23.18",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "VAT",
+          "tax_name": "Sales tax at 0.0575 on utility bills",
+          "tax_rate": "0.0575",
+          "tax_amount": "105.60",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "Sales tax at 0.0575 on utility bills",
+          "tax_rate": "0.0575",
+          "tax_amount": "0.00",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "Sales tax at 0.0575 on building services",
+          "tax_rate": "0.0575",
+          "tax_amount": "7.02",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "SM #0201 Actual 497649 - 497625 = 24 x 1 = 24 at 2nd fl North Mech Room",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "24",
+          "unit_price": "0.097958",
+          "total": "2.35",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Demand at 2nd fl North Mech Room",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "11.470001",
+          "total": "11.47",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "SM #0202 Actual 434313 - 434122 = 191 x 1 = 191 at 2nd fl North Mech Room",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "191",
+          "unit_price": "0.097958",
+          "total": "18.71",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Demand at 2nd fl North Mech Room",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "0.7",
+          "unit_price": "11.470001",
+          "total": "8.03",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "SM #0206 Actual 703329 - 687513 = 15816 x 1 = 15816 at",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "15816",
+          "unit_price": "0.097958",
+          "total": "1549.31",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Demand",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "21.5",
+          "unit_price": "11.470001",
+          "total": "246.61",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "#4369148 815 - 815 = 0 x 1 = 0",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "0",
+          "unit_price": "2.76",
+          "total": "0.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "2.1 CCH-042 07/23/03 Standby 42,000 / 12,000 = 3.500",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "3500",
+          "unit_price": "0.017637",
+          "total": "61.73",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "2.5 WCMS.1.024 07/23/03 24 Hour 24,000 / 12,000 = 2.000",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2000",
+          "unit_price": "0.017635",
+          "total": "35.27",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "2.9 CCH-024 01/01/14 24 Hour 60,000 / 12,000 = 5.000",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "5000",
+          "unit_price": "0.06393",
+          "total": "319.65",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

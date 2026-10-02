@@ -1,0 +1,122 @@
+{
+  "file": "INV-11.pdf",
+  "payables": [
+    {
+      "invoice_number": "18109293",
+      "invoice_date": "2026-04-07",
+      "due_date": "2026-04-28",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Meridian Media",
+        "supplier_id": "",
+        "address": "Gartenweg 12\nDos Hermanas\nE-M lena.tamm@blackpine-media.ee\n+(052) 3729 958\nWWW https://cloverdale-mobility.ee",
+        "vat_id": "EE063536009"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "EE398766194",
+      "po_id": "",
+      "gross_total": "83.21",
+      "subtotal": "67.10",
+      "total_tax_amount": "16.11",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "AGREED PICKUP FEE",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5.00",
+          "total": "5.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM VAT",
+              "tax_rate": "24",
+              "tax_amount": "",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        },
+        {
+          "description": "TARNEKULUD",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "53.40",
+          "total": "53.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM VAT",
+              "tax_rate": "24",
+              "tax_amount": "",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        },
+        {
+          "description": "AGREED DELIVERY FEE",
+          "item_type": "FREIGHT",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5.00",
+          "total": "5.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM VAT",
+              "tax_rate": "24",
+              "tax_amount": "",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        },
+        {
+          "description": "BAF 6,93% (16.03-29.03)",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "3.70",
+          "total": "3.70",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM VAT",
+              "tax_rate": "24",
+              "tax_amount": "",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}
