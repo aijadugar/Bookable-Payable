@@ -360,11 +360,7 @@ def parsed_result(message):
     parsed = getattr(message, "parsed", None)
     if parsed is None:
         return json.loads(message.content)
-    if isinstance(parsed, dict):
-        return parsed
-    if hasattr(parsed, "model_dump"):
-        return parsed.model_dump()
-    return json.loads(json.dumps(parsed))
+    return parsed.model_dump() if hasattr(parsed, "model_dump") else parsed
 
 
 def run_job(client, name, data):
