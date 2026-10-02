@@ -5,6 +5,7 @@ from collections import Counter
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
+import build
 from erp import erp_book
 
 WORK, OUT, NOTES = Path("work"), Path("output"), Path("notes")
@@ -32,7 +33,7 @@ def find_doc(work_docs, payable):
 
 
 def printed_currencies(doc):
-    texts = [doc.get(k, "") for k in AMOUNT_FIELDS] + list(doc.get("other_total_amounts") or [])
+    texts = [doc.get(k, "") for k in AMOUNT_FIELDS + ("currency_text",)] + list(doc.get("other_total_amounts") or [])
     found = set()
     for t in texts:
         found.update(re.findall(r"\b[A-Z]{3}\b", str(t)))
@@ -60,19 +61,26 @@ def cross_checks(payable, doc):
 
 
 def check_payable(payable, note, work_docs):
-    printed = dec(payable["gross_total"])
-    entry = {"invoice_number": payable["invoice_number"], "po_number": payable["po_number"], "printed_gross": payable["gross_total"]}
-    if printed is None:
-        entry.update(status="skipped", detail="no printed gross_total")
+    doc = find_doc(work_docs, payable)
+    entry = {"invoice_number": payable["invoice_number"], "po_number": payable["po_number"], "work_doc": "matched" if doc else "missing"}
+    raw = (doc.get("printed_gross_total") or doc.get("printed_amount_due")) if doc else ""
+    printed = build.num(raw)
+    emitted = dec(payable["gross_total"])
+    entry["printed_gross"] = raw if printed is not None else payable["gross_total"]
+    anchor = printed if printed is not None else emitted
+    if anchor is None:
+        entry.update(status="skipped", detail="no printed gross and no emitted gross")
         return entry
+    if printed is not None and emitted is not None and abs(printed - emitted) > TOL:
+        entry["emitted_vs_printed"] = f"emitted {emitted} vs printed '{raw}' ({printed})"
     try:
         booked = Decimal(str(erp_book(copy.deepcopy(payable))["will_book_gross"]))
     except Exception as e:
         entry.update(status="skipped", detail=f"erp_book failed: {e}")
         return entry
-    diff = abs(booked) - abs(printed)
+    diff = abs(booked) - abs(anchor)
     entry.update(status="ok" if abs(diff) <= TOL else "mismatch", booked_gross=str(booked), difference=str(diff))
-    entry["cross_checks"] = cross_checks(payable, find_doc(work_docs, payable))
+    entry["cross_checks"] = cross_checks(payable, doc)
     entry["build_notes"] = note
     return entry
 
@@ -80,7 +88,7 @@ def check_payable(payable, note, work_docs):
 def main():
     files, counts = {}, Counter()
     for path in sorted(OUT.glob("*.json")):
-        data = load(path)
+        data = json.loads(path.read_text(encoding="utf-8"))
         notes = load(NOTES / path.name) or []
         work_docs = (load(WORK / path.name) or {}).get("documents", [])
         entries = []
