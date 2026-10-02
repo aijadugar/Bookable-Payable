@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_number": "11768395",
+    "taxes": [
+      "? 0: ambiguous (rate only)",
+      "? 0: ambiguous (rate only)",
+      "VAT amount : no match"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 1: quantity not printed, 1 used",
+      "line 2: unit price taken from printed total (none printed)",
+      "line 2: quantity not printed, 1 used"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
