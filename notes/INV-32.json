@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_number": "72",
+    "taxes": [
+      "Includes TAX 0%: ambiguous (rate only)"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "name exact",
+    "po": "no match"
+  }
+]

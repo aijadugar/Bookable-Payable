@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_number": "32917ALS55",
+    "taxes": [
+      "Std : no match",
+      "Std : no match",
+      "Std : no match",
+      "Std : no match",
+      "Std : no match",
+      "Std : no match",
+      "Std : no match",
+      "VAT @ 16% 16%: rate only"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

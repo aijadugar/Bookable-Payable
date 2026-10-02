@@ -1,0 +1,15 @@
+[
+  {
+    "invoice_number": "20423591",
+    "taxes": [
+      "VAT 8.10%: rate only",
+      "VAT 8.10%: rate only"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

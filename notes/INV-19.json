@@ -1,0 +1,17 @@
+[
+  {
+    "invoice_number": "",
+    "taxes": [
+      "NHIL 2.5%: ambiguous (rate only)",
+      "GETFund Levy 2.5%: ambiguous (rate only)",
+      "COVID-19 Levy 1%: rate only",
+      "VAT 15%: ambiguous (rate only)"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "invoice_number": "TLLIR72836045",
+    "taxes": [
+      "A : no match",
+      "A : no match",
+      "A 22,00%: rate only"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '18,87' does not foot)",
+      "line 2: unit price taken from printed total (none printed)",
+      "line 2: quantity not printed, 1 used"
+    ],
+    "warnings": [
+      "charge 'FUEL SURCHARGE' 2.83 not placed: extra_charges already filled"
+    ],
+    "price_basis": "tax-inclusive prices converted to net: printed subtotal equals lines with tax removed, not lines as printed",
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

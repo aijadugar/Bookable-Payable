@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_number": "0248727220",
+    "taxes": [
+      "Sales Tax : no match"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 1: quantity not printed, 1 used",
+      "line 2: unit price taken from printed total (none printed)",
+      "line 2: quantity not printed, 1 used",
+      "line 4: unit price taken from printed total (none printed)",
+      "line 4: quantity not printed, 1 used"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "days 30",
+    "po": "no match"
+  }
+]
