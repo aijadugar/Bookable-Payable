@@ -1,0 +1,25 @@
+[
+  {
+    "invoice_number": "9884313366",
+    "taxes": [
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "IVA : no match"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '34,69' does not foot)",
+      "line 3: unit price taken from printed total (printed '10,01' does not foot)",
+      "line 4: unit price taken from printed total (printed '8,30' does not foot)",
+      "line 5: unit price taken from printed total (printed '2,94' does not foot)",
+      "line 6: unit price taken from printed total (printed '2,94' does not foot)"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

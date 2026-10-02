@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_number": "FAC A98/712",
+    "taxes": [
+      "IVA 23 %: ambiguous (rate only)",
+      "IVA 23 %: ambiguous (rate only)",
+      "IVA 23 %: ambiguous (rate only)",
+      "IVA 23,0 %: ambiguous (rate only)"
+    ],
+    "derived": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
+    "price_basis": "tax-inclusive prices converted to net: printed subtotal equals lines with tax removed, not lines as printed",
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

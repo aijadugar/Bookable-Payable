@@ -1,0 +1,22 @@
+[
+  {
+    "invoice_number": "FN 05/80906935",
+    "taxes": [
+      "IVA 23,00%: ambiguous (rate only)",
+      "IVA 6,00%: rate only",
+      "IVA 6,00%: rate only",
+      "IVA 6,00%: rate only",
+      "IVA 6,00%: rate only",
+      "Incidência 23,00%: ambiguous (rate only)",
+      "Incidência 6,00%: rate only"
+    ],
+    "derived": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

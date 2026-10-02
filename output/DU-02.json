@@ -1,0 +1,784 @@
+{
+  "file": "DU-02.pdf",
+  "payables": [
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419603/66691406",
+      "po_id": "",
+      "gross_total": "1872.11",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Ref. sample Glutomatic",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "1872.11",
+          "total": "1872.11",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419505/5229132",
+      "po_id": "",
+      "gross_total": "1628.16",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Vial Diffuser Molding",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "8",
+          "unit_price": "61.92",
+          "total": "495.36",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "13 mm Black Plastic Screw Cap",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "8",
+          "unit_price": "73.46",
+          "total": "587.68",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "4 mL Clr Scr Vial 15 x 45 13-425 PER PC.",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "8",
+          "unit_price": "68.14",
+          "total": "545.12",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419825/5222652",
+      "po_id": "",
+      "gross_total": "92366.96",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "PFA-ST Nebulizer for prepFAST",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "46183.48",
+          "total": "92366.96",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419739/5229131",
+      "po_id": "",
+      "gross_total": "54520.96",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Nickel Skimmer Cone for NexION",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "4896.42",
+          "total": "19585.68",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "HyperSkimmer Cone for NexION",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "3033.16",
+          "total": "12132.64",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Nickel Sampler Cone for NexION",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "5700.66",
+          "total": "22802.64",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505416600/66690602",
+      "po_id": "",
+      "gross_total": "16500.40",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "OEM- Deuterium lamp",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "16500.40",
+          "total": "16500.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419906/5229766",
+      "po_id": "",
+      "gross_total": "8202.20",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "MPLC Concept Holder, 10 cm",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "8202.20",
+          "total": "8202.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419741/5229612",
+      "po_id": "",
+      "gross_total": "34982.89",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "360.80",
+          "total": "360.80",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Hybrid XLT 3-Slot Organics Torch Avio HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "10380.94",
+          "total": "20761.88",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "PFA-ST MicroFlow Nebulizer for Optima HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "13152.75",
+          "total": "13152.75",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "STD - PHOSPHORUS 1000 uG/ML 125ML HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "707.46",
+          "total": "707.46",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505418938/66691189",
+      "po_id": "",
+      "gross_total": "22966.44",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "KIT - SQ8 HEADAMP HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "11483.22",
+          "total": "22966.44",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505420114/66691592",
+      "po_id": "",
+      "gross_total": "28031.70",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "GASKET HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "3",
+          "unit_price": "1533.74",
+          "total": "4601.22",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "HS-40 SS Needle HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "11715.24",
+          "total": "23430.48",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505420246/66691631",
+      "po_id": "",
+      "gross_total": "21865.82",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "BRAZE ASSY ASXL CHARCOAL TRAP HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "10932.91",
+          "total": "21865.82",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRES GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505417511/5228031",
+      "po_id": "",
+      "gross_total": "1049579.86",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Avio 220 Max Base Instrument HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "1049579.86",
+          "total": "1049579.86",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419356/5229129",
+      "po_id": "",
+      "gross_total": "5838.05",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "1000uL wide bore tips, QTY 2304 HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5838.05",
+          "total": "5838.05",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRES GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505419742/5229609",
+      "po_id": "",
+      "gross_total": "18746.97",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "ELP UV Lamp Complete HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "13334.17",
+          "total": "13334.17",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Tungsten Halogen Lamp Assembly HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "2706.40",
+          "total": "5412.80",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    },
+    {
+      "invoice_number": "554701215",
+      "invoice_date": "2026-06-01",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "TRY",
+      "supplier": {
+        "name": "Novatek U.S. LLC",
+        "supplier_id": "",
+        "address": "Redwater Mobility BV\nc/o MeridianEXPRESS GENEL MERKEZ NSN DEPO\nAvenida Central 455\nHigh Street 21\n1950 KRAAINEM\nBELGIUM",
+        "vat_id": "BE2480635349"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "5505420084",
+      "po_id": "",
+      "gross_total": "532370.06",
+      "subtotal": "",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "GLUTOMATIC 2000 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "239833.40",
+          "total": "239833.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "CENTRIFUG 2010 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "73083.50",
+          "total": "73083.50",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "LactoScope 300 HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "219453.16",
+          "total": "219453.16",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "Customs Consolidated Invoice",
+      "reason": "summary of the detailed invoices in the same PDF (same invoice number, no PO, no unit prices) (pages [1, 2])"
+    }
+  ]
+}

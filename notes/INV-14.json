@@ -1,0 +1,18 @@
+[
+  {
+    "invoice_number": "INV-1587",
+    "taxes": [
+      "VAT 20%: rate only",
+      "VAT No VAT: no match",
+      "VAT 20%: rate only",
+      "Total No VAT : no match",
+      "Total VAT 20% 20%: rate only"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

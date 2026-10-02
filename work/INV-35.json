@@ -1,0 +1,148 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "INVOICE",
+      "invoice_number": "0248727220",
+      "invoice_date": "6/27/2018",
+      "due_date": "",
+      "invoice_type_text": "INVOICE",
+      "payment_terms_text": "within 30 days of the receipt of this invoice",
+      "po_number": "1000020040",
+      "currency_text": "USD",
+      "price_basis_text": "",
+      "supplier_name": "Ciox Health",
+      "supplier_address": "P.O. Box 409875\nAtlanta, GA 30384-9875",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "58 - 2659941",
+      "supplier_iban": "",
+      "buyer_name": "QUALITY MANAGEMENT DEPT AMERIHEALTH CARITAS LA",
+      "buyer_address": "PO BOX 83580\nBATON ROUGE, LA 70884-3580",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "Basic Fee",
+        "Retrieval Fee",
+        "Per Page Copy (Paper) 1",
+        "Electronic Data Archive Fee"
+      ],
+      "line_quantities": [
+        "",
+        "",
+        "13",
+        ""
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "",
+        "",
+        "0.00",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "25.50",
+        "0.00",
+        "0.00",
+        "2.00"
+      ],
+      "line_tax_names": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "Sales Tax"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "2.75"
+      ],
+      "header_tax_base_amounts": [
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "27.50",
+      "printed_total_discount": "",
+      "printed_total_tax": "2.75",
+      "printed_gross_total": "30.25",
+      "printed_amount_due": "30.25",
+      "other_total_labels": [
+        "Invoice Total",
+        "Balance Due"
+      ],
+      "other_total_amounts": [
+        "30.25",
+        "30.25"
+      ],
+      "notes": [
+        "Requested By: AMERIHEALTH CARITAS",
+        "DOB: 040712",
+        "Patient Name: LOUISCHARLES DARSEY",
+        "CLAIM NUMBER: 91021194",
+        "Your request for copies of medical records has been processed. Full payment in advance is required and must be received within 30 days of the receipt of this invoice, before your copies will be released. Promptly return the bottom portion of this invoice along with a check for the balance due. To expedite the request or to pay by credit card. please call 800 - 367 - 1500.",
+        "FULL PAYMENT REQUIRED PRIOR TO RELEASE OF RECORDS",
+        "Customer #: 1817680",
+        "Records from: QUALITY MANAGEMENT DEPT TULANE UNIVERSITY HOSPITAL CL 1415 TULANE AVENUE NEW ORLEANS, LA 70112"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

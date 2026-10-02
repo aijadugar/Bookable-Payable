@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_number": "852566",
+    "taxes": [
+      "MwSt 0 %: ambiguous (rate only)"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

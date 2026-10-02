@@ -1,0 +1,149 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "TAX INVOICE",
+      "invoice_number": "INV-1587",
+      "invoice_date": "01 May 2026",
+      "due_date": "31 May 2026",
+      "invoice_type_text": "TAX INVOICE",
+      "payment_terms_text": "Due Date: 31 May 2026",
+      "po_number": "",
+      "currency_text": "GBP",
+      "price_basis_text": "",
+      "supplier_name": "Northwind Services UK Ltd",
+      "supplier_address": "Rua do Ouro 175\nTaper Studio\nLondon\nSE1 4GT",
+      "supplier_vat_id": "474927490",
+      "supplier_tax_id": "18823 19423",
+      "supplier_iban": "GB84 FAQA 54689987784014",
+      "buyer_name": "Silverbrook Media Limited",
+      "buyer_address": "Attention: Finance\n2nd Floor\nParnu mnt 117\nParnu mnt 26\nLondon\nMiddlesex\nN1 9RY\nUNITED KINGDOM",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "2nd Floor",
+        "Management Fee for June 2026",
+        "Business Rates for June 2026",
+        "Utilities for June 2026"
+      ],
+      "line_quantities": [
+        "",
+        "1.00",
+        "1.00",
+        "1.00"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "",
+        "14,620.18",
+        "9,987.50",
+        "1,435.00"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        "14,620.18",
+        "9,987.50",
+        "1,435.00"
+      ],
+      "line_tax_names": [
+        "",
+        "VAT",
+        "VAT",
+        "VAT"
+      ],
+      "line_tax_rates": [
+        "",
+        "20%",
+        "No VAT",
+        "20%"
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "Total No VAT",
+        "Total VAT 20%"
+      ],
+      "header_tax_rates": [
+        "",
+        "20%"
+      ],
+      "header_tax_amounts": [
+        "0.00",
+        "3,211.04"
+      ],
+      "header_tax_base_amounts": [
+        "",
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "26,042.68",
+      "printed_total_discount": "",
+      "printed_total_tax": "3,211.04",
+      "printed_gross_total": "29,253.72",
+      "printed_amount_due": "29,253.72",
+      "other_total_labels": [
+        "Total Net Payments GBP"
+      ],
+      "other_total_amounts": [
+        "0.00"
+      ],
+      "notes": [
+        "Reference June 2026 - Kadaka tee 119 Northwłahagement Fee",
+        "Bank name: Meridian Bank",
+        "Sort code: 20-41-50",
+        "Account number: 21823016",
+        "Swift code: SKYYOU10",
+        "IBAN: GB84 FAQA 54689987784014",
+        "Company Registration No: 43214229. Registered Office: 2nd Floor, Parnu mnt 117 , Parnu mnt 26 , London, Middlesex, N1 9RY, United Kingdom"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

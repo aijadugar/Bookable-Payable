@@ -1,0 +1,159 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "europastry",
+      "invoice_number": "FN 05/80906935",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-07-16",
+      "invoice_type_text": "Fatura",
+      "payment_terms_text": "Transf. bancaria",
+      "po_number": "80120853",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Blackpine Supply S.A",
+      "supplier_address": "Qta da Mendanha, OTAPARK,, Fração AN, 2580-490 Carregado",
+      "supplier_vat_id": "785255159",
+      "supplier_tax_id": "785255159",
+      "supplier_iban": "PT28909636405289370959536",
+      "buyer_name": "Northwind SUPPORT SERVICES PT, UNIPESSOAL",
+      "buyer_address": "Bahnhofstrasse 224\n1250-148 LISBOA",
+      "buyer_vat_id": "353598648",
+      "line_item_numbers": [
+        "62782",
+        "67110",
+        "67322",
+        "85101",
+        "85102"
+      ],
+      "line_descriptions": [
+        "Empanadilha Atum Cozida (50u)",
+        "Pao Burger Brioch LeBrio14px4u",
+        "Chapata Cristallino 28px2u",
+        "Pao Maestra Classica 7u",
+        "Pao Maestra Cereais 7u"
+      ],
+      "line_quantities": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "41,68",
+        "28,43",
+        "25,94",
+        "13,43",
+        "15,29"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "41,68",
+        "28,43",
+        "25,94",
+        "26,86",
+        "15,29"
+      ],
+      "line_tax_names": [
+        "IVA",
+        "IVA",
+        "IVA",
+        "IVA",
+        "IVA"
+      ],
+      "line_tax_rates": [
+        "23,00%",
+        "6,00%",
+        "6,00%",
+        "6,00%",
+        "6,00%"
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "Incidência",
+        "Incidência"
+      ],
+      "header_tax_rates": [
+        "23,00%",
+        "6,00%"
+      ],
+      "header_tax_amounts": [
+        "9,59",
+        "5,79"
+      ],
+      "header_tax_base_amounts": [
+        "41,68",
+        "96,52"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "6",
+      "printed_subtotal": "138,20",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "153,58",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Empresa Certificada RSPO nº BMC-RSPO-000188",
+        "A responsabilidade pela gestão de resíduos de embalagens foi transferida para a Entidade Gestora: Silverbrook Mobility Silverbrook Mobility . Mais informações, incluindo os valores das prestações financeiras fixadas a favor daquela, em www.northwind-technologbeps foram colocados à disposição do adquirente na data da descarga - art.36º, nº5, f/ do CIVA.",
+        "Data Transporte 2026-06-15 Hora de início de transporte 00:00 h",
+        "Local Carga Qta Medanha, / 2580-491, CARREGADO / Espaļa",
+        "Local Descarga Morada entrega cliente",
+        "AHm8-Processado por programa certificado n.º 6847/AT",
+        "Reference: REF-841468"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

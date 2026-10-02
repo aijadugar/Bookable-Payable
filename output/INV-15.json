@@ -1,0 +1,10 @@
+{
+  "file": "INV-15.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "TAX INVOICE\nInvoice Date\nSilverbrook Media Limited\n01 Apr 2026\nAttention: Finance\n2nd Floor\nNorthwind Services UK Ltd\nInvoice Number\nParnu mnt 117\nRua do Ouro 175\nINV-8935\nParnu mnt 26\nTaper Studio\nLondon\nLondon\nReference\nMiddlesex\nSE1 4GT\nMay 2026 - Kadaka tee 119 N1 9RY\nNorthwłahagement Fee\nUNITED KINGDOM\nVAT Number\n474927490\nUTR Number\n18823 19423\nDescription\nQuantity Unit Price VAT Amount GBP\n2nd Floor\nManagement Fee for May 2026\n1.00 14,620.18 20%\n14,620.18\nBusiness Rates for May 2026\n1.00 9,987.50 No VAT\n9,987.50\nUtilities for May 2026\n1.00 1,435.00 20%\n1,435.00\nSubtotal\n26,042.68\nTotal No VAT\n0.00\nTotal VAT 20%\n3,211.04\nInvoice Total GBP\n29,253.72\nTotal Net Payments GBP\n0.00\nAmount Due GBP\n29,253.72\nDue Date: 30 Apr 2026\nBank name: Meridian Bank\nSort code: 20-41-50\nAccount number: 21823016\nSwift code: SKYYOU10\nIBAN: GB84 FAQA 54689987784014\nCompany Registration No: 43214229. Registered Office: 2nd Floor, Parnu mnt 117 , Parnu mnt 26\n, London, Middlesex, N1 9RY, United Kingdom",
+      "reason": "no printed total (pages [1])"
+    }
+  ]
+}

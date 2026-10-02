@@ -1,0 +1,38 @@
+[
+  {
+    "invoice_number": "7769922058",
+    "taxes": [
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 13: ambiguous (rate only)",
+      "? 13: ambiguous (rate only)",
+      "? 13: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "? 23: ambiguous (rate only)",
+      "IVA 13 % 13: ambiguous (rate only)",
+      "IVA 23 % 23: ambiguous (rate only)"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '14,76' does not foot)",
+      "line 2: unit price taken from printed total (printed '24.53' does not foot)",
+      "line 3: unit price taken from printed total (printed '24.96' does not foot)",
+      "line 4: unit price taken from printed total (printed '20,80' does not foot)",
+      "line 5: unit price taken from printed total (printed '20,40' does not foot)",
+      "line 6: unit price taken from printed total (printed '6,72' does not foot)",
+      "line 8: unit price taken from printed total (printed '14,64' does not foot)",
+      "line 10: unit price taken from printed total (printed '48,00' does not foot)",
+      "line 11: unit price taken from printed total (printed '18,72' does not foot)",
+      "line 12: unit price taken from printed total (printed '24.96' does not foot)",
+      "line 13: unit price taken from printed total (printed '20,80' does not foot)"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "invoice_number": "SI6675/02/467",
+    "taxes": [
+      "Vat 7 %: ambiguous (rate only)",
+      "ภาษีหัก ณ ที่จ่าย (WITHHOLDING TAX) 3%: rate only"
+    ],
+    "derived": [],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

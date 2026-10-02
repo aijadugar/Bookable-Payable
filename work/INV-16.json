@@ -1,0 +1,128 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "Arve",
+      "invoice_number": "TLLIR72836045",
+      "invoice_date": "09-06-25",
+      "due_date": "07-07-25",
+      "invoice_type_text": "Arve",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Speedwell Express Estonia AS",
+      "supplier_address": "Bahnhofstrasse 32\n11415 Tallinn\nESTONIA",
+      "supplier_vat_id": "EE445462205",
+      "supplier_tax_id": "10451175",
+      "supplier_iban": "EE989745485604538087",
+      "buyer_name": "Northwind Operations OÜ",
+      "buyer_address": "VANA-LÕUNA TN 15\n10134 TALLINN\nESTONIA",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "6757799188",
+        ""
+      ],
+      "line_descriptions": [
+        "MHN, MANNHEIM WAW, WARSAW ECONOMY SELECT",
+        "FUEL SURCHARGE"
+      ],
+      "line_quantities": [
+        "1,00",
+        ""
+      ],
+      "line_uoms": [
+        "V",
+        ""
+      ],
+      "line_unit_prices": [
+        "18,87",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "23,02",
+        "3,45"
+      ],
+      "line_tax_names": [
+        "A",
+        "A"
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "4,15",
+        "0,62"
+      ],
+      "line_page_numbers": [
+        2,
+        2
+      ],
+      "header_tax_names": [
+        "A"
+      ],
+      "header_tax_rates": [
+        "22,00%"
+      ],
+      "header_tax_amounts": [
+        "4,77"
+      ],
+      "header_tax_base_amounts": [
+        "21,70"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "18,87",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "2,83",
+      "printed_excise_duties": "",
+      "charge_labels": [
+        "FUEL SURCHARGE"
+      ],
+      "charge_amounts": [
+        "2,83"
+      ],
+      "printed_total_quantity": "1,00",
+      "printed_subtotal": "21,70",
+      "printed_total_discount": "",
+      "printed_total_tax": "4,77",
+      "printed_gross_total": "26,47",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Kokku (v.a. KM)",
+        "KM",
+        "Kokku (KM-ga)"
+      ],
+      "other_total_amounts": [
+        "21,70",
+        "4,77",
+        "26,47"
+      ],
+      "notes": [
+        "Päringud arvete kohta",
+        "Telefon: +372 6 808 455",
+        "E-post: luis.roth@speedwell.com",
+        "E-arve operaator Unifiedpost",
+        "Palume: * markida oma maksekorraldusele makstava arve number ja kuupäev",
+        "* märkida saatelehele saatja nimi",
+        "A = Kliendi poolt arvutatud tegelik kaal V = Kliendi poolt arvutatud mahukaal B = DHLi poolt arvutatud tegelik kaal W = DHLi poolt arvutatud mahukaal M = sega"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

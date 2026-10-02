@@ -1,0 +1,119 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Arve nr .:",
+      "invoice_number": "18533",
+      "invoice_date": "25.03.2026",
+      "due_date": "24.04.2026",
+      "invoice_type_text": "Arve",
+      "payment_terms_text": "30 pv neto",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "Larkspur Print OÜ",
+      "supplier_address": "Jalan Ampang 60\naosa\nTallinn\nHarju maakond\n10412",
+      "supplier_vat_id": "EE755780626",
+      "supplier_tax_id": "77060059",
+      "supplier_iban": "EE684837406967098266",
+      "buyer_name": "Northwind Operations OÜ",
+      "buyer_address": "Rua do Ouro 15\nTallinn\nHarju maakond\n10134",
+      "buyer_vat_id": "EE398766194",
+      "line_item_numbers": [
+        "001",
+        "YM"
+      ],
+      "line_descriptions": [
+        "17/03 Toitlustus",
+        "Ümardus"
+      ],
+      "line_quantities": [
+        "1",
+        "1"
+      ],
+      "line_uoms": [
+        "kord",
+        ""
+      ],
+      "line_unit_prices": [
+        "479,28",
+        "-0,01"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "479,28",
+        "-0,01"
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "Käibemaks"
+      ],
+      "header_tax_rates": [
+        "24%"
+      ],
+      "header_tax_amounts": [
+        "115,03"
+      ],
+      "header_tax_base_amounts": [
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "479,27",
+      "printed_total_discount": "",
+      "printed_total_tax": "115,03",
+      "printed_gross_total": "594,30",
+      "printed_amount_due": "594,30",
+      "other_total_labels": [
+        "Kokku:"
+      ],
+      "other_total_amounts": [
+        "479,27"
+      ],
+      "notes": [
+        "Kliendi nr .: 5207",
+        "Viivis: 0,5% päevas",
+        "Kontaktisik: Marco Lind",
+        "Summa sõnadega: Viissada üheksakümmend neli ja 30",
+        "Kontakt: +190 2609 0057",
+        "SWIFT XYQXPY30",
+        "Harbor Savings"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

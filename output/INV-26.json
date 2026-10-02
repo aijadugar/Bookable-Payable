@@ -1,0 +1,760 @@
+{
+  "file": "INV-26.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2025-02-08",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "MYR",
+      "supplier": {
+        "name": "Meridian Paint Sdn Bhd",
+        "supplier_id": "",
+        "address": "Bahnhofstrasse 1\nLindenstrasse 1\n47810 JAYA\nMalaysia",
+        "vat_id": "W48-3290-37482248"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "873.53",
+      "subtotal": "873.53",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "",
+          "tax_name": "KDOON",
+          "tax_rate": "0",
+          "tax_amount": "0.00",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "VMC WIPES",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "14.20",
+          "total": "28.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "28.40",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "(VG M-CITY) 5X905",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "10.95",
+          "total": "21.90",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "21.90",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "PEEL FRESH MANGO 1L",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "6.90",
+          "total": "13.80",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "13.80",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "NOI MIXED ROOT CHIPS 65G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "3.60",
+          "total": "7.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "7.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "POP SWEET N SALTY 120G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "15.90",
+          "total": "63.60",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "63.60",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "(+/-1KG)",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "7.20",
+          "total": "7.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "7.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CHINA SHINE GRAPE 500G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "11.80",
+          "total": "23.60",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "23.60",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CHIPS SALT N 142G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "15.50",
+          "total": "31.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "31.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "TONG NUT MIX HONEY 140GM",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "17.00",
+          "total": "34.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "34.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "150G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "12.20",
+          "total": "24.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "24.40",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "2F SHARE BAG 10X17G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "12.10",
+          "total": "24.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "24.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "BAR 138G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "15.20",
+          "total": "30.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "30.40",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CREAM 300G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "5.95",
+          "total": "5.95",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "5.95",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CEO WHITE 500G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "4.90",
+          "total": "4.90",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "4.90",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "DAIRY THICK 150G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "6",
+          "unit_price": "9.50",
+          "total": "57.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "57.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CAFE OAT MILK 300G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "28.50",
+          "total": "57.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "57.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "GREEK FIT 160G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "12.60",
+          "total": "25.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "25.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "THINS CHIPS SOUR CREAM & 175G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "15.90",
+          "total": "31.80",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "31.80",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "9.00",
+          "total": "18.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "18.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "GLICO PRETZ SWEET CORN 31G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "2.00",
+          "total": "8.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "8.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "CAMPBELL'S INST WILD SOUP 3X16.8G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "6",
+          "unit_price": "5.45",
+          "total": "32.70",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "32.70",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "PREGO MAC 71G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "5",
+          "unit_price": "4.85",
+          "total": "24.25",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "24.25",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "LAY'S CHIPS 170G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "14.60",
+          "total": "29.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "29.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "120G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "10.50",
+          "total": "10.50",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "10.50",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "WHITE",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "3",
+          "unit_price": "21.90",
+          "total": "65.70",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "65.70",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "HONEY TEA 1150G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "44.85",
+          "total": "44.85",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "44.89",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "ORG CHIA SEEDS 200G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "19.90",
+          "total": "19.90",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "19.90",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "3IN1 GREEN TEA",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "12.60",
+          "total": "25.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "25.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "DRIED & 130G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "2",
+          "unit_price": "6.60",
+          "total": "13.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "13.20",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "(BUY 2 @RM68.80) L 15S",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "33.88",
+          "total": "33.88",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "33.88",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "GREEK FIT PASSIONFRUIT 160G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "12.60",
+          "total": "12.60",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "12.60",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "GREEK FIT 160G",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "12.60",
+          "total": "12.60",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "12.60",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "BAG",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "10",
+          "unit_price": "0.20",
+          "total": "2.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "2.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "BAG",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "4",
+          "unit_price": "0.50",
+          "total": "2.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "",
+              "tax_amount": "2.00",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

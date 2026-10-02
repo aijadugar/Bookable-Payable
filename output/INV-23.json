@@ -1,0 +1,102 @@
+{
+  "file": "INV-23.pdf",
+  "payables": [
+    {
+      "invoice_number": "# EST-259684",
+      "invoice_date": "2025-12-31",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "GHS",
+      "supplier": {
+        "name": "Kingsley Supply LIMITED",
+        "supplier_id": "",
+        "address": "Rua do Ouro 88\nGhana",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "13724.19",
+      "subtotal": "13646.04",
+      "total_tax_amount": "",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "",
+          "tax_name": "GETFund (2.5%)",
+          "tax_rate": "2.5",
+          "tax_amount": "8.92",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "",
+          "tax_name": "NHIL (2.5%)",
+          "tax_rate": "2.5",
+          "tax_amount": "8.92",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "",
+          "tax_name": "Covid Levy (1%)",
+          "tax_rate": "1",
+          "tax_amount": "3.57",
+          "tax_type_code": "TAX030"
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "VAT Output-15 (15%)",
+          "tax_rate": "15",
+          "tax_amount": "56.74",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "Custom Duties - IAS001\nCustom Duties",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "13289.19",
+          "total": "13289.19",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Service Charges - FDX0001\nService Charges",
+          "item_type": "GOODS",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "356.85",
+          "total": "356.85",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": [
+    {
+      "doc_type": "unreadable",
+      "reason": "page 2 has no readable content"
+    },
+    {
+      "doc_type": "unreadable",
+      "reason": "page 3 has no readable content"
+    }
+  ]
+}

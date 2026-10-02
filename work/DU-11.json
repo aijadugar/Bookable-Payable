@@ -1,0 +1,103 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Kreeditarve nr 6265-K",
+      "invoice_number": "6265-K",
+      "invoice_date": "16.03.2025",
+      "due_date": "16.03.2025",
+      "invoice_type_text": "Kreeditarve",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Tavolo OU",
+      "supplier_address": "Tavolo OU www.Tavolo.ee Nordbank AS | paul.haas@tavolo.ee",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "78885507",
+      "supplier_iban": "",
+      "buyer_name": "Northwind Operations OU",
+      "buyer_address": "Paul Costa\nRua do Ouro 15\n10134 Kesklinna\nTallinn, Harju maakond\nEesti",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "Toitlustamine Tavolo 11.03.25"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        "tk"
+      ],
+      "line_unit_prices": [
+        "-327,868852"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "-327,87"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        "22"
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [
+        "KM 22%"
+      ],
+      "header_tax_rates": [
+        "22%"
+      ],
+      "header_tax_amounts": [
+        "-72,13"
+      ],
+      "header_tax_base_amounts": [
+        "-327,87"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "-327,87",
+      "printed_total_discount": "",
+      "printed_total_tax": "-72,13",
+      "printed_gross_total": "-400,00",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Arve kokku (EUR)"
+      ],
+      "other_total_amounts": [
+        "-400,00"
+      ],
+      "notes": [
+        "Viitenumber 795977",
+        "Viivis 0,03% päevas",
+        "Kreeditarve arvele nr. 6265.",
+        "Täname õigeaegselt tasutud arve eest!"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

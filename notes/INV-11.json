@@ -1,0 +1,29 @@
+[
+  {
+    "invoice_number": "18109293",
+    "taxes": [
+      "KM VAT 24,0 %: rate only",
+      "KM VAT 24,0 %: rate only",
+      "KM VAT 24,0 %: rate only",
+      "KM VAT 24,0 %: rate only",
+      "KM 24,0 %: rate only"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 1: quantity not printed, 1 used",
+      "line 2: unit price taken from printed total (none printed)",
+      "line 2: quantity not printed, 1 used",
+      "line 3: unit price taken from printed total (none printed)",
+      "line 3: quantity not printed, 1 used",
+      "line 4: unit price taken from printed total (none printed)",
+      "line 4: quantity not printed, 1 used"
+    ],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "invoice_number": "39015",
+    "taxes": [],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 1: quantity not printed, 1 used"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  },
+  {
+    "invoice_number": "92990-35018",
+    "taxes": [
+      "Gross Receipts Tax : no match",
+      "Sales Tax : no match",
+      "State Tax Adjustment : no match",
+      "Sales Tax : no match"
+    ],
+    "derived": [],
+    "warnings": [
+      "charge 'Distribution Charges' 2265.75 not placed: extra_charges already filled",
+      "charge 'Distribution Charges' -219.74 not placed: extra_charges already filled",
+      "charge 'Distribution System Improvement Charge' 13.98 not placed: extra_charges already filled",
+      "charge 'Energy Eff & Nonbypassable Trans' 392.98 not placed: extra_charges already filled",
+      "charge 'ADJUSTMENT' -0.01 not placed: extra_charges already filled",
+      "charge 'ENERGY CHARGE: 219744 KH * $0.0595/KH' 13074.77 not placed: extra_charges already filled"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]

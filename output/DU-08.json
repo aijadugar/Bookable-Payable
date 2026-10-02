@@ -1,0 +1,10 @@
+{
+  "file": "DU-08.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "Mahnung",
+      "reason": "heading 'Mahnung' is not a payable document (pages [1])"
+    }
+  ]
+}

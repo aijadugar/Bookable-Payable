@@ -1,0 +1,282 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "INVOICE",
+      "invoice_number": "39015",
+      "invoice_date": "6/1/2018",
+      "due_date": "6/1/2018",
+      "invoice_type_text": "INVOICE",
+      "payment_terms_text": "Please pay by due date to avoid late charges.",
+      "po_number": "16299",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "100 Airport KPG III, LLC.",
+      "supplier_address": "125 E Elm Street\nSuite 400\nConshohocken, PA 19428",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "AmeriHealth Caritas",
+      "buyer_address": "200 Stevens Drive\nSuite 100\nLester, PA 19113",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "100"
+      ],
+      "line_descriptions": [
+        "Electric 04/27/18-05/16/18"
+      ],
+      "line_quantities": [
+        ""
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "17,657.53"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "17,657.53",
+      "printed_amount_due": "17,657.53",
+      "other_total_labels": [
+        "Balance:"
+      ],
+      "other_total_amounts": [
+        "17,657.53"
+      ],
+      "notes": [
+        "Billing Contact: Meashirl Brown",
+        "Email Contact: mbrown1@amerihealthcaritas.com",
+        "Please detach and enclose this portion with your payment to Ensure Proper Application of your Payment.",
+        "Remit payment to: 100 Airport KPG III, LLC. PO Box 713847 Cincinnati, OH 45271-3847",
+        "If you have any questions please contact: Tenzin Yeshi at 610-980-7000"
+      ]
+    },
+    {
+      "page_numbers": [
+        2,
+        3
+      ],
+      "title_text": "PECO",
+      "invoice_number": "92990-35018",
+      "invoice_date": "05/23/2018",
+      "due_date": "06/18/2018",
+      "invoice_type_text": "",
+      "payment_terms_text": "",
+      "po_number": "16299",
+      "currency_text": "$",
+      "price_basis_text": "",
+      "supplier_name": "PECO",
+      "supplier_address": "2301 Market Street\nPhiladelphia, PA 19103-1380",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "100 AIRPORT KPG III LLC",
+      "buyer_address": "125 E ELM ST STE 400\nCONSHOHOCKEN, PA 19428-4154",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "General Service Power Factor",
+        "General Service Pk kW",
+        "General Service Tot kWh",
+        "General Service GS Off Pk kW",
+        "General Service On Pk Kw"
+      ],
+      "line_quantities": [
+        "0.978",
+        "475.20",
+        "219,744",
+        "427.20",
+        "475.20"
+      ],
+      "line_uoms": [
+        "",
+        "kW",
+        "kWh",
+        "kW",
+        "Kw"
+      ],
+      "line_unit_prices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_names": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "header_tax_names": [
+        "Gross Receipts Tax",
+        "Sales Tax",
+        "State Tax Adjustment",
+        "Sales Tax"
+      ],
+      "header_tax_rates": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_tax_amounts": [
+        "819.80",
+        "845.35",
+        " -0.28",
+        "165.15"
+      ],
+      "header_tax_base_amounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [
+        "Customer Charge",
+        "Distribution Charges",
+        "Distribution Charges",
+        "Distribution System Improvement Charge",
+        "Energy Eff & Nonbypassable Trans",
+        "ADJUSTMENT",
+        "ENERGY CHARGE: 219744 KH * $0.0595/KH"
+      ],
+      "charge_amounts": [
+        "299.78",
+        "2,265.75",
+        " -219.74",
+        "13.98",
+        "392.98",
+        " -0.01",
+        "13,074.77"
+      ],
+      "printed_total_quantity": "219,744",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "17,657.53",
+      "printed_amount_due": "17,657.53",
+      "other_total_labels": [
+        "PECO ELECTRIC DELIVERY",
+        "ELECTRIC SUPPLY",
+        "TAXES & FEES",
+        "Total Current Charges"
+      ],
+      "other_total_amounts": [
+        "2,752.75",
+        "14,739.91",
+        "164.87",
+        "17,657.53"
+      ],
+      "notes": [
+        "Service Address: 100 Stevens Dr, A1 1, Lester",
+        "Emergency and Repair 800-841-4141",
+        "Next scheduled meter reading:06/19/2018",
+        "5.90% estimated Gross Receipts Tax of $982.20 included in new charges.",
+        "Service Period 04/17/2018 to 05/16/2018 - 29 days"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

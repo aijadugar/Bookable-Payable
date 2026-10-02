@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_number": "5568",
+    "taxes": [
+      "Sales tax at 0.0575 on utility bills 0.0575: no match",
+      "Sales tax at 0.0575 on utility bills 0.0575: no match",
+      "Sales tax at 0.0575 on building services 0.0575: no match"
+    ],
+    "derived": [
+      "line 8: unit price taken from printed total (printed '63.93' does not foot)",
+      "line 9: unit price taken from printed total (printed '63.93' does not foot)",
+      "line 10: unit price taken from printed total (printed '63.93' does not foot)"
+    ],
+    "warnings": [],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
