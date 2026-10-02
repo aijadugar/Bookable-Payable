@@ -44,6 +44,7 @@ FIELDS = {
     },
 }
 
+# system can compare company names by their actual business identity
 LEGAL_WORDS = {
     "gmbh", "llc", "ltd", "limited", "inc", "incorporated", "corp", "corporation", "co", "company",
     "sa", "bv", "nv", "ag", "kg", "ug", "srl", "spa", "sas", "sarl", "plc", "llp", "pvt", "private",
@@ -131,8 +132,8 @@ class NameIndex(Index):
         super().__init__()
         self.postings = defaultdict(set)
 
-    def add(self, name, code):
-        n = norm_name(name)
+    def add(self, key, code):
+        n = norm_name(key)
         if not n or not code:
             return
         self.d[n].add(code)
@@ -193,7 +194,7 @@ _PT_TEXT, _PT_DAYS = NameIndex(), Index()
 for r in load_rows("payment_terms"):
     f = FIELDS["payment_terms"]
     code, name = pick(r, f["code"]), pick(r, f["name"])
-    aliases = next((r.get(a) for a in f["aliases"] if isinstance(r.get(a), list)), [])
+    aliases = next((v for a in f["aliases"] if isinstance(v := r.get(a), list)), [])
     for t in [code, name] + [str(a) for a in aliases]:
         _PT_TEXT.add(t, code)
     _PT_DAYS.add(pick(r, f["days"]) or days_in(name) or days_in(code), code)
