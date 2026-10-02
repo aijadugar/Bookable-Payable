@@ -13,15 +13,15 @@
       "payment_terms_text": "",
       "po_number": "75884754",
       "currency_text": "",
-      "price_basis_text": "Sub-total incl. VAT",
+      "price_basis_text": "(incl vat)",
       "supplier_name": "Northwind Services ZA (Pty) Ltd",
-      "supplier_address": "Unit 7 Block B\nM5 Office Park, Unit 7, Block B,\nEastman\nMaitland\nCape Town\n7405",
+      "supplier_address": "Northwind Services ZA (Pty) Ltd\nUnit 7 Block B\nM5 Office Park, Unit 7, Block B,\nEastman\nMaitland\nCape Town\n7405\nTel: 8897228016\nCell: 1044936483",
       "supplier_vat_id": "9446639440",
-      "supplier_tax_id": "6765/218606/15",
-      "supplier_iban": "4026863135",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
       "buyer_name": "Maria Reis , Alex",
       "buyer_address": "Stand alone building\n1A Bahnhofstrasse 185\nKadaka tee 20\nCape Town",
-      "buyer_vat_id": "5471258869",
+      "buyer_vat_id": "",
       "line_item_numbers": [
         "",
         "",
@@ -414,7 +414,7 @@
       "printed_total_discount": "",
       "printed_total_tax": "169.83",
       "printed_gross_total": "1,683.98",
-      "printed_amount_due": "1,683.98",
+      "printed_amount_due": "",
       "other_total_labels": [
         "Rands earned this order",
         "Rands left to spend"
@@ -432,10 +432,9 @@
         "Bank details: Crestline Bank , Wynberg, Branch Code 022982 , Account 4026863135",
         "Please note that this invoice reflects the final charge for this shop. The amount may differ from the original estimated order value due to variable weight items, the addition of shopping bags, and any substitute items included in this order. Queries? Call our Online Shopping Help on 0860 30 30 30.",
         "Thank you for shopping at www.oakhaven-trading.za",
-        "Liquor License: WCP 035808 007095",
+        "Meridian Mobility Ltd | Jalan Ampang 23087 |Co.Reg.No:6765/218606/15 | VatReg.No:5471258869 Liquor License: WCP 035808 007095",
         "# - VAT Zero Rated",
-        "* - Substitute",
-        "Not supplied"
+        "* - Substitute"
       ]
     }
   ],

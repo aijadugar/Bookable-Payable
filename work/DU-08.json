@@ -14,20 +14,20 @@
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "Kingsley Trading Gmbh & Co. KG",
-      "supplier_address": "Vidal+16 37106114015\nGeschäftsführer: Nina Reis , Elena Lind Lena Novak · Amtsgericht Bremen, HRA 28216 . Komplementärin: Cloverdale Distribution GntbAmtsgericht Bremen, HRB 33717\nStadtbank · BLZ: 29050101 · Konto: 80141314 · BIC: YSTTFV26AKT· IBAN: DE65 8339 7329 2725 2446 71 lommerzbank\nDE65 8339 7329726 8448 12: 29040090niKonto: 5653843829 . BIC: UWHVFXQSMN+ IBAN: DE47 3221 2282 8473 6223 94 Oank OT79 3686",
+      "supplier_address": "Kingsley Trading Gmbh & Co. KG\n· Vidal+16 37106114015\nGeschäftsführer: Nina Reis , Elena Lind Lena Novak · Amtsgericht Bremen, HRA 28216 . Komplementärin: Cloverdale Distribution GntbAmtsgericht Bremen, HRB 33717\nStadtbank · BLZ: 29050101 · Konto: 80141314 · BIC: YSTTFV26AKT· IBAN: DE65 8339 7329 2725 2446 71 lommerzbank\nDE65 8339 7329726 8448 12: 29040090niKonto: 5653843829 . BIC: UWHVFXQSMN+ IBAN: DE47 3221 2282 8473 6223 94 Oank OT79 3686",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
-      "supplier_iban": "DE47 3221 22010470082: 35 35 250179 3686",
+      "supplier_iban": "DE65 8339 7329 2725 2446 71",
       "buyer_name": "Northwind Services DE GmbH",
-      "buyer_address": "Karl-Liebknecht-Str. 29\n10178 Berlin\nDeutschland",
+      "buyer_address": "Northwind Services DE GmbH\nKarl-Liebknecht-Str. 29\n10178 Berlin\nDeutschland",
       "buyer_vat_id": "",
       "line_item_numbers": [
         "",
         ""
       ],
       "line_descriptions": [
-        "29.01.25 Zahlung 25COBK-20-005 29.01.25 1",
-        "12.05.25 Rechnung VRB700A6126940 22.05.25 1"
+        "Zahlung 25COBK-20-005",
+        "Rechnung VRB700A6126940"
       ],
       "line_quantities": [
         "",
@@ -96,13 +96,11 @@
         "Sehr geehrte Damen und Herren,",
         "bei der Fülle der täglichen Arbeit ist es verständlich, dass trotz aller Sorgfalt einmal ein Zahlungstermin übersehen wird. Wir haben die Leistung wie vereinbart erbracht.",
         "Wir bitten Sie daher, den Zahlungsausgleich für die nachstehend aufgeführte Forderung bis zum 10.06.2025 auf unser Konto zu überweisen.",
-        "Sollten Sie inzwischen bezahlt haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.",
-        "Zahlungseingänge wurden berücksichtigt bis zum 03.06.25.",
+        "Sollten Sie inzwischen bezahlt haben, betrachten Sie dieses Schreiben bitte als gegenstandslos. Zahlungseingänge wurden berücksichtigt bis zum 03.06.25.",
         "Rg.VRB519A2890964 wurde storniert. Guthaben EUR 44,84",
         "Lassen Sie uns an dieser Stelle noch erwähnen, dass wir eine 2. Mahnung mit Mahngebühren und Zinsen ausstellen werden.",
         "Ausgehend davon, dass Sie die Erinnerung als solche nutzen, verbleiben wir mit freundlichen Grüßen",
         "Silverbrook Media Gmbh & Co.KG",
-        "Ansprechpartner Paul : Frau Marco Reis Vidal 2948 / 90099 - 6096 e-mail: martin.kask@larkspur-consulting.com",
         "Wir möchten Sie darauf hinweisen, dass ab dem 01.01.2025 alle Rechnungen ausschließlich per E-Mail versendet werden.",
         "Bitte stellen Sie sicher, dass uns Ihre aktuelle E-Mail-Adresse vorliegt, um einen reibungslosen Ablauf zu gewährleisten."
       ]

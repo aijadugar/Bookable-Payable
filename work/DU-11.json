@@ -14,7 +14,7 @@
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "Tavolo OU",
-      "supplier_address": "Tavolo OU www.Tavolo.ee Nordbank AS | paul.haas@tavolo.ee",
+      "supplier_address": "Tavolo OU www.Tavolo.ee | paul.haas@tavolo.ee",
       "supplier_vat_id": "",
       "supplier_tax_id": "78885507",
       "supplier_iban": "",
@@ -94,8 +94,10 @@
       "notes": [
         "Viitenumber 795977",
         "Viivis 0,03% päevas",
+        "Registrikood: 27044945",
         "Kreeditarve arvele nr. 6265.",
-        "Täname õigeaegselt tasutud arve eest!"
+        "Täname õigeaegselt tasutud arve eest!",
+        "Registrikood: 78885507"
       ]
     }
   ],

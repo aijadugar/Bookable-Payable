@@ -4,7 +4,7 @@
     "taxes": [
       "? 0: ambiguous (rate only)",
       "? 0: ambiguous (rate only)",
-      "VAT amount : no match"
+      "Käibemaks VAT amount : no match"
     ],
     "derived": [
       "line 1: unit price taken from printed total (none printed)",

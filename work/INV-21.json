@@ -4,7 +4,7 @@
       "page_numbers": [
         1
       ],
-      "title_text": "",
+      "title_text": "FATURA",
       "invoice_number": "9884313366",
       "invoice_date": "06/04/2026",
       "due_date": "06/05/2026",
@@ -12,14 +12,14 @@
       "payment_terms_text": "Até dia 06/05/2026",
       "po_number": "FTOU368444",
       "currency_text": "Euros",
-      "price_basis_text": "",
+      "price_basis_text": "UNIT.",
       "supplier_name": "Oakhaven Partners LDA",
       "supplier_address": "High Street 8\n2799-554 LINDA-A-VELHA",
       "supplier_vat_id": "PT 059 909 082",
-      "supplier_tax_id": "",
+      "supplier_tax_id": "PT 059 909 082",
       "supplier_iban": "PT76698391551688438577388",
       "buyer_name": "Northwind SUPPORT SERVICES PT, UNIPESSOAL LDA",
-      "buyer_address": "Avenida Central 224\n1250-148 Lisboa",
+      "buyer_address": "NorthEscritório\nAvenida Central 224\n1250-148 Lisboa",
       "buyer_vat_id": "PT668715865",
       "line_item_numbers": [
         "12422850",
@@ -48,10 +48,10 @@
       "line_uoms": [
         "UND",
         "",
-        "",
-        "",
-        "",
-        ""
+        "UND",
+        "UND",
+        "UND",
+        "UND"
       ],
       "line_unit_prices": [
         "34,69",
@@ -64,10 +64,10 @@
       "line_price_units": [
         "UNIT.",
         "",
-        "",
-        "",
-        "",
-        ""
+        "UNIT.",
+        "UNIT.",
+        "UNIT.",
+        "UNIT."
       ],
       "line_discounts": [
         "",
@@ -94,12 +94,12 @@
         "8,82"
       ],
       "line_tax_names": [
+        "IVA",
         "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "IVA",
+        "IVA",
+        "IVA",
+        "IVA"
       ],
       "line_tax_rates": [
         "23",
@@ -126,15 +126,19 @@
         1
       ],
       "header_tax_names": [
+        "IVA",
         "IVA"
       ],
       "header_tax_rates": [
+        "",
         ""
       ],
       "header_tax_amounts": [
-        "100,19"
+        "100,19",
+        "0,19"
       ],
       "header_tax_base_amounts": [
+        "",
         ""
       ],
       "printed_discount_amount": "",
@@ -146,20 +150,23 @@
       "charge_amounts": [],
       "printed_total_quantity": "",
       "printed_subtotal": "",
-      "printed_total_discount": "432,91",
+      "printed_total_discount": "",
       "printed_total_tax": "100,19",
       "printed_gross_total": "535,79",
-      "printed_amount_due": "",
+      "printed_amount_due": "535,79",
       "other_total_labels": [
         "VALOR BRUTO",
+        "DESC. PROM./QNT",
         "DESC. FIQSIZVKAO"
       ],
       "other_total_amounts": [
         "868,51",
-        "0,19"
+        "432,91",
+        ""
       ],
       "notes": [
-        "programa certificado n.º631/AT Os bens foram colocados à disposição do ad a mencionada;"
+        "Capital Social : 30.000.000 Euros, Nr. Registo SIRER: PT12964656",
+        "programa certificado n.º631/AT Os bens foram colocados à disposição do ad\na mencionada;"
       ]
     }
   ],

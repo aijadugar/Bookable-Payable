@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Silverbrook Print",
         "supplier_id": "",
-        "address": "Rua do Ouro 40\n2605 Brøndby",
+        "address": "Rua do Ouro 40\n2605 Brøndby\nTelefon +5506340887\nCVR nr. DK74347584",
         "vat_id": "DK74347584"
       },
       "buyer": {
@@ -288,8 +288,8 @@
           "item_type": "GOODS",
           "uom": "STK",
           "quantity": "1",
-          "unit_price": "120.00",
-          "total": "120.00",
+          "unit_price": "",
+          "total": "",
           "discount": "",
           "discount_percentage": "",
           "tax_rate": "",

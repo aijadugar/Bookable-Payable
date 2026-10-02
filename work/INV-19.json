@@ -13,13 +13,13 @@
       "payment_terms_text": "",
       "po_number": "",
       "currency_text": "GHC",
-      "price_basis_text": "(i) Tax Exclusive Value",
+      "price_basis_text": "Tax Exclusive Value",
       "supplier_name": "Redwater Technologies",
       "supplier_address": "Bank Name: Stadtbank\nBranch: Lindenstrasse 111\nAccount No. 1028243888660\nSORT code: 240124\nSWIFT code: GMOEYYPUFGV",
       "supplier_vat_id": "",
       "supplier_tax_id": "C9765403675",
       "supplier_iban": "",
-      "buyer_name": "Northwind HOLDINGS OU",
+      "buyer_name": "Northwind HOLDINGS OÜ",
       "buyer_address": "High Street 10\nP.O",
       "buyer_vat_id": "",
       "line_item_numbers": [
@@ -78,7 +78,7 @@
         "NHIL",
         "GETFund Levy",
         "COVID-19 Levy",
-        "VAT"
+        "VAT (15%)"
       ],
       "header_tax_rates": [
         "2.5%",
@@ -118,10 +118,8 @@
         "6,996.00"
       ],
       "notes": [
-        "Account No: 1028243888660",
-        "SORT code: 240124 SWIFT\ncode: GMOEYYPUFGV",
-        "Manager Name : Alex MeyeMoreau\nAbutiate",
-        "Signature : .."
+        "Manager Name : Alex MeyeMoreau Abutiate",
+        "Account No: 1028243888660 SORT code: 240124 SWIFT code: GMOEYYPUFGV"
       ]
     }
   ],

@@ -10,11 +10,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3057199",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -25,7 +25,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4111401 F:WSA_10950635_HSS (N1) H3550 SLV Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4111401\nF:WSA_10950635_HSS (N1) H3550 SLV"
       ],
       "line_quantities": [
         "100"
@@ -86,10 +86,19 @@
         ""
       ],
       "notes": [
-        "final delivery",
-        "Order number 3057199",
+        "clara.kask@vantek.com",
+        "Contact Luis",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3057199",
+        "Quantity ordered 1,000",
+        "final delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -102,11 +111,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3060775",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -118,8 +127,8 @@
         "20"
       ],
       "line_descriptions": [
-        "4122467 F:WSA_10980649_FRAME COVER H3820 (C6)BLK Net weight 0.000 KG Gross weight 15.400 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
-        "4122469 F:WSA_21017686_FRAME MAIN H3820 (C6) BLK Net weight 0.000 KG Gross weight 1.100 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4122467\nF:WSA_10980649_FRAME COVER H3820 (C6)BLK",
+        "4122469\nF:WSA_21017686_FRAME MAIN H3820 (C6) BLK"
       ],
       "line_quantities": [
         "7,000",
@@ -191,10 +200,24 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3060775",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3060775",
+        "Quantity ordered 60,000",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 15.400 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:",
+        "Quantity ordered 60,000",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 1.100 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -207,11 +230,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3057604",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -223,8 +246,8 @@
         "20"
       ],
       "line_descriptions": [
-        "4103236 F:WSA_10956542_HSS (N) H3552 DGT Net weight 0.000 Gross weight 0.000 Cust. mat-no 10956542 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
-        "4103165 F:WSA_10950632_HSS (N) H3550 GNT Net weight 0.000 Gross weight 0.000 Cust. mat-no 10950632 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4103236\nF:WSA_10956542_HSS (N) H3552 DGT",
+        "4103165\nF:WSA_10950632_HSS (N) H3550 GNT"
       ],
       "line_quantities": [
         "100",
@@ -290,11 +313,26 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
-        "final delivery",
-        "Partial Delivery",
-        "Order number 3057604",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3057604",
+        "Quantity ordered 500",
+        "final delivery",
+        "Net weight 0.000",
+        "Gross weight 0.000",
+        "Cust. mat-no 10956542",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:",
+        "Quantity ordered 500",
+        "Partial Delivery",
+        "Net weight 0.000",
+        "Gross weight 0.000",
+        "Cust. mat-no 10950632",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -307,11 +345,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3056096",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -322,7 +360,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4111404 F:WSA_10956547_HSS (N1) H3552 SB Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4111404\nF:WSA_10956547_HSS (N1) H3552 SB"
       ],
       "line_quantities": [
         "100"
@@ -383,10 +421,18 @@
         ""
       ],
       "notes": [
-        "final delivery",
-        "Order number 3056096",
+        "clara.kask@vantek.com",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3056096",
+        "Quantity ordered 1,000",
+        "final delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -399,11 +445,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3057451",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -415,8 +461,8 @@
         "20"
       ],
       "line_descriptions": [
-        "4110072 F:WSA_10974232_HSS (N) H3690 DBR Net weight 0.000 KG Gross weight 1.560 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
-        "4130030 F:WSA_10977817_HSS (N) H3640 DBR MDF2 Net weight 0.000 KG Gross weight 2.680 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4110072\nF:WSA_10974232_HSS (N) H3690 DBR",
+        "4130030\nF:WSA_10977817_HSS (N) H3640 DBR MDF2"
       ],
       "line_quantities": [
         "400",
@@ -488,10 +534,24 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3057451",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3057451",
+        "Quantity ordered 500",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 1.560 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:",
+        "Quantity ordered 1,000",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 2.680 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -504,11 +564,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3057199",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -520,8 +580,8 @@
         "30"
       ],
       "line_descriptions": [
-        "4107945 F:WSA_10944435_HSS (N) H2940 GNT Net weight 0.000 KG Gross weight 0.780 KG Cust. mat-no 10944435 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch",
-        "4103162 F:WSA_10950627_HSS (N) H3550 BLK Net weight 0.000 KG Gross weight 0.780 KG Cust. mat-no 10950627 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4107945\nF:WSA_10944435_HSS (N) H2940 GNT",
+        "4103162\nF:WSA_10950627_HSS (N) H3550 BLK"
       ],
       "line_quantities": [
         "100",
@@ -593,10 +653,26 @@
         ""
       ],
       "notes": [
-        "final delivery",
-        "Order number 3057199",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3057199",
+        "Quantity ordered 500",
+        "final delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Cust. mat-no 10944435",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch",
+        "Quantity ordered 500",
+        "final delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Cust. mat-no 10950627",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -609,11 +685,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3060775",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -624,7 +700,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4122469 F:WSA_21017686_FRAME MAIN H3820 (C6) BLK Net weight 0.000 KG Gross weight 1.100 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4122469\nF:WSA_21017686_FRAME MAIN H3820 (C6) BLK"
       ],
       "line_quantities": [
         "500"
@@ -685,10 +761,18 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3060775",
+        "clara.kask@vantek.com",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3060775",
+        "Quantity ordered 60,000",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 1.100 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -701,11 +785,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3061229",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -716,7 +800,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4141982 F:WSA_21043685_HSS (C6) H3994 SLV Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4141982\nF:WSA_21043685_HSS (C6) H3994 SLV"
       ],
       "line_quantities": [
         "100"
@@ -777,10 +861,18 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3061229",
+        "clara.kask@vantek.com",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3061229",
+        "Quantity ordered 500",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -793,11 +885,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3061562",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -808,7 +900,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4146090 F:WSA_21044210_HSS (C6) H3942 BG Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4146090\nF:WSA_21044210_HSS (C6) H3942 BG"
       ],
       "line_quantities": [
         "200"
@@ -869,10 +961,18 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3061562",
+        "clara.kask@vantek.com",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3061562",
+        "Quantity ordered 500",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
@@ -885,11 +985,11 @@
       "due_date": "",
       "invoice_type_text": "Delivery note",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "3061564",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
-      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -900,7 +1000,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4138891 F:WSA_21038247_HSS (C6) H3990 PRLP Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+        "4138891\nF:WSA_21038247_HSS (C6) H3990 PRLP"
       ],
       "line_quantities": [
         "100"
@@ -961,24 +1061,35 @@
         ""
       ],
       "notes": [
-        "Partial Delivery",
-        "Order number 3061564",
+        "clara.kask@vantek.com",
+        "alex.novak@vantek.com",
         "Delivery EXW BATAM",
-        "Customer reference Luis"
+        "Shipping type Luis",
+        "Goods issue date 3061564",
+        "Quantity ordered 500",
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000",
+        "Batch:"
       ]
     },
     {
       "page_numbers": [
-        11
+        11,
+        13,
+        14,
+        15
       ],
       "title_text": "Delivery note",
-      "invoice_number": "",
-      "invoice_date": "",
+      "invoice_number": "3057199",
+      "invoice_date": "30.06.2026",
       "due_date": "",
       "invoice_type_text": "Delivery note",
-      "payment_terms_text": "EXW BATAM",
-      "po_number": "3057199",
-      "currency_text": "",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "SGD",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
       "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
@@ -992,7 +1103,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4108044 F:WSA_10944450_HSS (N) H2940 DKC"
+        "4108044 F:WSA_10944450_HSS (N) H2940 DKC Net weight 0.000 KG Gross weight 0.780 KG Cust. mat-no 10944450 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
       ],
       "line_quantities": [
         "100"
@@ -1038,7 +1149,7 @@
       "printed_excise_duties": "",
       "charge_labels": [],
       "charge_amounts": [],
-      "printed_total_quantity": "",
+      "printed_total_quantity": "100",
       "printed_subtotal": "",
       "printed_total_discount": "",
       "printed_total_tax": "",
@@ -1046,19 +1157,18 @@
       "printed_amount_due": "",
       "other_total_labels": [
         "Weight",
-        "Number of packets"
+        "Declared Value"
       ],
       "other_total_amounts": [
         "0.780 KG",
-        ""
+        "52,542.97"
       ],
       "notes": [
         "final delivery",
-        "Net weight 0.000 KG",
-        "Gross weight 0.780 KG",
-        "Cust. mat-no 10944450",
-        "Country of origin: Indonesia",
-        "Customs tariff nr .: 3926.9000"
+        "EXW BATAM",
+        "Shipping type Luis",
+        "Reference: 9257347, 9257348",
+        "Description of Contents OF HSG SET / FRAME COVER / FRAME MAIN"
       ]
     },
     {
@@ -1066,12 +1176,12 @@
         12
       ],
       "title_text": "Delivery note",
-      "invoice_number": "",
-      "invoice_date": "",
+      "invoice_number": "3061229",
+      "invoice_date": "15.07.2026",
       "due_date": "",
       "invoice_type_text": "Delivery note",
-      "payment_terms_text": "EXW BATAM",
-      "po_number": "3061229",
+      "payment_terms_text": "",
+      "po_number": "",
       "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "nd Vantek Pte Ltd.",
@@ -1086,7 +1196,7 @@
         "10"
       ],
       "line_descriptions": [
-        "4144895 F:WSA_21044711_HSS (C6) H3992 BLK"
+        "4144895 F:WSA_21044711_HSS (C6) H3992 BLK Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
       ],
       "line_quantities": [
         "200"
@@ -1132,130 +1242,22 @@
       "printed_excise_duties": "",
       "charge_labels": [],
       "charge_amounts": [],
-      "printed_total_quantity": "",
+      "printed_total_quantity": "200",
       "printed_subtotal": "",
       "printed_total_discount": "",
       "printed_total_tax": "",
       "printed_gross_total": "",
       "printed_amount_due": "",
       "other_total_labels": [
-        "Weight",
-        "Number of packets"
+        "Weight"
       ],
       "other_total_amounts": [
-        "0.780 KG",
-        ""
+        "0.780 KG"
       ],
       "notes": [
         "Partial Delivery",
-        "Net weight 0.000 KG",
-        "Gross weight 0.780 KG",
-        "Country of origin: Indonesia",
-        "Customs tariff nr .: 3926.9000"
-      ]
-    },
-    {
-      "page_numbers": [
-        15
-      ],
-      "title_text": "Shipment Receipt",
-      "invoice_number": "",
-      "invoice_date": "",
-      "due_date": "Thursday, 02 Jul, 2026",
-      "invoice_type_text": "Shipment Receipt",
-      "payment_terms_text": "EXW",
-      "po_number": "",
-      "currency_text": "SGD",
-      "price_basis_text": "",
-      "supplier_name": "PT.Vantek",
-      "supplier_address": "Kadaka tee 323\nPARK,\nMUKA\n29433 BATAM indonesia\nIndonesia",
-      "supplier_vat_id": "",
-      "supplier_tax_id": "",
-      "supplier_iban": "",
-      "buyer_name": "MICRO-ELECTRONICS INC.",
-      "buyer_address": "ZONE, BINAN\n4024 Binan\nPhilippines, the",
-      "buyer_vat_id": "",
-      "line_item_numbers": [
-        ""
-      ],
-      "line_descriptions": [
-        "OF HSG SET / FRAME COVER / FRAME MAIN"
-      ],
-      "line_quantities": [
-        ""
-      ],
-      "line_uoms": [
-        ""
-      ],
-      "line_unit_prices": [
-        ""
-      ],
-      "line_price_units": [
-        ""
-      ],
-      "line_discounts": [
-        ""
-      ],
-      "line_discount_percents": [
-        ""
-      ],
-      "line_totals": [
-        ""
-      ],
-      "line_tax_names": [
-        ""
-      ],
-      "line_tax_rates": [
-        ""
-      ],
-      "line_tax_amounts": [
-        ""
-      ],
-      "line_page_numbers": [
-        15
-      ],
-      "header_tax_names": [],
-      "header_tax_rates": [],
-      "header_tax_amounts": [],
-      "header_tax_base_amounts": [],
-      "printed_discount_amount": "",
-      "printed_freight_charges": "",
-      "printed_insurance_charges": "",
-      "printed_extra_charges": "",
-      "printed_excise_duties": "",
-      "charge_labels": [
-        "Fuel Surcharge/Duties and Taxes Paid/Overweight Piece ( weight)/Paperless Trade"
-      ],
-      "charge_amounts": [
-        ""
-      ],
-      "printed_total_quantity": "",
-      "printed_subtotal": "",
-      "printed_total_discount": "",
-      "printed_total_tax": "",
-      "printed_gross_total": "",
-      "printed_amount_due": "",
-      "other_total_labels": [
-        "Declared Value:",
-        "Total Weight:",
-        "Dimensional:",
-        "Chargeable:"
-      ],
-      "other_total_amounts": [
-        "52,542.97 SGD",
-        "161.10kg",
-        "506.88kg",
-        "507.50kg"
-      ],
-      "notes": [
-        "Waybill Number:",
-        "Duties&taxes acct: Third party",
-        "Service Type:",
-        "Dutiable Status: Dutiable",
-        "Packaging Type: Your Own Package",
-        "Estimated Del date: Thursday, 02 Jul, 2026",
-        "Number of Pieces: 2",
-        "Reference: 9257347, 9257348"
+        "EXW BATAM",
+        "Shipping type Luis"
       ]
     }
   ],

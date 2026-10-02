@@ -3,18 +3,16 @@
     {
       "page_numbers": [
         1,
-        2,
-        3,
         4,
         5,
         6
       ],
       "title_text": "ESTIMATE",
-      "invoice_number": "# EST-259684",
+      "invoice_number": "EST-259684",
       "invoice_date": "31 Dec 2025",
       "due_date": "",
       "invoice_type_text": "ESTIMATE",
-      "payment_terms_text": "",
+      "payment_terms_text": "PLEASE BE INFORMED THAT A DEPOSIT OF GHC13,000 IS REQUIRED TO ENABLE US TO PROCEED WITH THE CUSTOMS DUTY.",
       "po_number": "",
       "currency_text": "GHS",
       "price_basis_text": "",
@@ -31,7 +29,7 @@
         "2"
       ],
       "line_descriptions": [
-        "Custom Duties - IAS001\nCustom Duties",
+        "- Custom Duties - IAS001\nCustom Duties",
         "Service Charges - FDX0001\nService Charges"
       ],
       "line_quantities": [
@@ -79,10 +77,10 @@
         1
       ],
       "header_tax_names": [
-        "GETFund (2.5%)",
-        "NHIL (2.5%)",
-        "Covid Levy (1%)",
-        "VAT Output-15 (15%)"
+        "GETFund",
+        "NHIL",
+        "Covid Levy",
+        "VAT Output-15"
       ],
       "header_tax_rates": [
         "2.5%",
@@ -113,13 +111,12 @@
       "printed_subtotal": "13,646.04",
       "printed_total_discount": "",
       "printed_total_tax": "",
-      "printed_gross_total": "GHS13,724.19",
+      "printed_gross_total": "13,724.19",
       "printed_amount_due": "",
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
         "Looking forward for your business.",
-        "PLEASE BE INFORMED THAT A DEPOSIT OF GHC13,000 IS REQUIRED TO ENABLE US TO PROCEED WITH THE CUSTOMS DUTY.",
         "Awb No.7778 8290 8336",
         "Weight - 6.20 KG"
       ]

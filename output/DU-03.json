@@ -8,9 +8,9 @@
       "invoice_type": "INVOICE",
       "currency": "USD",
       "supplier": {
-        "name": "Blueharbor Logistics & Services",
+        "name": "Blueharbor Logistics & Services Singapore Pte. Ltd.",
         "supplier_id": "",
-        "address": "Blueharbor Logistics & Services Singapore Pte. Ltd.\nBrightside Trading Pte. Ltd\nChangi Airfreight Centre\nGartenweg 7\nCargo Agents Building E\n819834 Singapore",
+        "address": "Brightside Trading Pte. Ltd\nChangi Airfreight Centre\nGartenweg 7\nCargo Agents Building E\n819834 Singapore",
         "vat_id": "M2-0029161-1"
       },
       "buyer": {
@@ -66,7 +66,7 @@
           "taxes": []
         },
         {
-          "description": "Documentation\nFee",
+          "description": "Documentation Fee",
           "item_type": "GOODS",
           "uom": "EA",
           "quantity": "1000",
@@ -105,7 +105,7 @@
           "taxes": []
         },
         {
-          "description": "Customs DEJTWOXDBWJ -\nExport",
+          "description": "Customs DEJTWOXDBWJ Export",
           "item_type": "GOODS",
           "uom": "EA",
           "quantity": "1000",
@@ -131,7 +131,7 @@
           "taxes": []
         },
         {
-          "description": "Customs DEJTWOXDBWJ -\nImport",
+          "description": "Customs DEJTWOXDBWJ Import",
           "item_type": "GOODS",
           "uom": "EA",
           "quantity": "1000",
@@ -157,7 +157,7 @@
           "taxes": []
         },
         {
-          "description": "DEHVZCKRPYE Terminal\nHandling",
+          "description": "DEHVZCKRPYE Terminal Handling",
           "item_type": "GOODS",
           "uom": "KG",
           "quantity": "567000",

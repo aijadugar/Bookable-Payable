@@ -4,22 +4,22 @@
       "page_numbers": [
         1
       ],
-      "title_text": "ZF1",
+      "title_text": "Original",
       "invoice_number": "",
       "invoice_date": "02.12.2025",
       "due_date": "01.01.2026",
-      "invoice_type_text": "Original",
+      "invoice_type_text": "Factura/GR",
       "payment_terms_text": "",
       "po_number": "",
       "currency_text": "€",
       "price_basis_text": "",
-      "supplier_name": "Vinora",
-      "supplier_address": "Gartenweg 5\n6.500.000€ C.R.C. DE V.N. DE GAIA Nº",
+      "supplier_name": "Northw Larkspur Print ou Blackpine Unipessoal Lda",
+      "supplier_address": "Kadaka tee 224 1250-148 Lisboa",
       "supplier_vat_id": "PT241 235 054",
       "supplier_tax_id": "",
-      "supplier_iban": "0033 0000 05",
-      "buyer_name": "Blackpine Unipessoal Lda",
-      "buyer_address": "Kadaka tee 224\n1250-148 Lisboa",
+      "supplier_iban": "0033 0000",
+      "buyer_name": "Oakhaven Services ou Bolt Alc",
+      "buyer_address": "Rua de 32 1350-017 Lisboa",
       "buyer_vat_id": "",
       "line_item_numbers": [
         "1"
@@ -46,13 +46,13 @@
         "51,76 %"
       ],
       "line_totals": [
-        "123,36"
+        "59,51"
       ],
       "line_tax_names": [
         ""
       ],
       "line_tax_rates": [
-        ""
+        "13,00"
       ],
       "line_tax_amounts": [
         ""
@@ -72,7 +72,7 @@
       "header_tax_base_amounts": [
         "59,51"
       ],
-      "printed_discount_amount": "63,85",
+      "printed_discount_amount": "",
       "printed_freight_charges": "",
       "printed_insurance_charges": "",
       "printed_extra_charges": "",
@@ -84,7 +84,7 @@
       "printed_total_discount": "63,85",
       "printed_total_tax": "7,74",
       "printed_gross_total": "67,25",
-      "printed_amount_due": "67,25",
+      "printed_amount_due": "",
       "other_total_labels": [
         "IVA Adiantamento"
       ],
@@ -92,10 +92,9 @@
         ""
       ],
       "notes": [
-        "Nota: Sobre estes produtos incidem ainda, os Descontos Promocionais referente ao mês em curso.",
-        "com o disposto no Decreto-Lei n.º 166/2013, de 27.12.",
-        "Os bens desta Factura/GR foram colocados à disposição na data da factura",
-        "Processado por programa certificado n.º2563/AT"
+        "Sobre estes produtos incidem ainda, os de fornecimento, bem dos demais com o disposto no Decreto-Lei n.º 166/2013, de 27.12.",
+        "* Descontos Promocionais referente ao mês em curso.",
+        "Os bens desta Factura/GR foram colocados à disposição na data da factura"
       ]
     }
   ],

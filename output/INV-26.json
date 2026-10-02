@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Meridian Paint Sdn Bhd",
         "supplier_id": "",
-        "address": "Bahnhofstrasse 1\nLindenstrasse 1\n47810 JAYA\nMalaysia",
+        "address": "Lindenstrasse 1 47810 JAYA Malaysia",
         "vat_id": "W48-3290-37482248"
       },
       "buyer": {
@@ -21,9 +21,9 @@
       "payment_term_id": "",
       "po_number": "",
       "po_id": "",
-      "gross_total": "873.53",
-      "subtotal": "873.53",
-      "total_tax_amount": "",
+      "gross_total": "873.50",
+      "subtotal": "873.50",
+      "total_tax_amount": "0.00",
       "discount_amount": "",
       "freight_charges": "",
       "insurance_charges": "",
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "description": "(VG M-CITY) 5X905",
+          "description": "5X905 (VG M-CITY)",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -76,7 +76,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "",
-              "tax_amount": "21.90",
+              "tax_amount": "2190.00",
               "tax_type_code": ""
             }
           ]
@@ -418,7 +418,7 @@
           ]
         },
         {
-          "description": "",
+          "description": "2",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -628,7 +628,7 @@
           ]
         },
         {
-          "description": "DRIED & 130G",
+          "description": "DRIED 130G",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -691,7 +691,7 @@
           ]
         },
         {
-          "description": "GREEK FIT 160G",
+          "description": "GREEK FIT 1600",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",

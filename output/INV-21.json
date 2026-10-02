@@ -36,6 +36,13 @@
           "tax_rate": "",
           "tax_amount": "100.19",
           "tax_type_code": ""
+        },
+        {
+          "tax_type": "VAT",
+          "tax_name": "IVA",
+          "tax_rate": "",
+          "tax_amount": "0.19",
+          "tax_type_code": ""
         }
       ],
       "line_items": [
@@ -52,8 +59,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "",
-              "tax_name": "",
+              "tax_type": "VAT",
+              "tax_name": "IVA",
               "tax_rate": "23",
               "tax_amount": "",
               "tax_type_code": ""
@@ -76,7 +83,7 @@
         {
           "description": "Vireo Chocolate Quente 12(25x20g) N1",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "UND",
           "quantity": "1000",
           "unit_price": "0.01001",
           "total": "10.01",
@@ -86,8 +93,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "",
-              "tax_name": "",
+              "tax_type": "VAT",
+              "tax_name": "IVA",
               "tax_rate": "23",
               "tax_amount": "",
               "tax_type_code": ""
@@ -97,7 +104,7 @@
         {
           "description": "NESCAFE Acucar Std 1x2.8kg PT",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "UND",
           "quantity": "1000",
           "unit_price": "0.0083",
           "total": "8.30",
@@ -107,8 +114,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "",
-              "tax_name": "",
+              "tax_type": "VAT",
+              "tax_name": "IVA",
               "tax_rate": "23",
               "tax_amount": "",
               "tax_type_code": ""
@@ -118,7 +125,7 @@
         {
           "description": "AHMAD Inf MentaHrtLim 6(20x1,5g)N1PT",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "UND",
           "quantity": "3000",
           "unit_price": "0.00294",
           "total": "8.82",
@@ -128,8 +135,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "",
-              "tax_name": "",
+              "tax_type": "VAT",
+              "tax_name": "IVA",
               "tax_rate": "23",
               "tax_amount": "",
               "tax_type_code": ""
@@ -139,7 +146,7 @@
         {
           "description": "AHMAD Inf Camomila 6(20x1.5g)N1PT",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "UND",
           "quantity": "3000",
           "unit_price": "0.00294",
           "total": "8.82",
@@ -149,8 +156,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "",
-              "tax_name": "",
+              "tax_type": "VAT",
+              "tax_name": "IVA",
               "tax_rate": "23",
               "tax_amount": "",
               "tax_type_code": ""

@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Northwind Operations OÜ",
         "supplier_id": "",
-        "address": "Northwind Operations OÜ",
+        "address": "Lindenstrasse 20 CWH\nPL-01-940, Warsaw",
         "vat_id": "27044945"
       },
       "buyer": {
@@ -22,12 +22,12 @@
       "po_number": "",
       "po_id": "",
       "gross_total": "254.52",
-      "subtotal": "157.62",
+      "subtotal": "223.98",
       "total_tax_amount": "30.54",
       "discount_amount": "",
-      "freight_charges": "157.62",
+      "freight_charges": "",
       "insurance_charges": "",
-      "extra_charges": "66.36",
+      "extra_charges": "64.04",
       "excise_duties": "",
       "taxes": [
         {
@@ -47,9 +47,9 @@
       ],
       "line_items": [
         {
-          "description": "nondoc",
+          "description": "STK-EE003-26-00182 05-05-26 WAW OSL Northwind Ou CWH Meyer nondoc Clara Hans Lindenstrasse 20 CWH Market Road 67 PL-01-940, Warsaw NO-0196, FUEL PLUS - 0,80",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "Kg",
           "quantity": "4",
           "unit_price": "24.1825",
           "total": "96.73",
@@ -61,19 +61,19 @@
             {
               "tax_type": "",
               "tax_name": "B",
-              "tax_rate": "0",
-              "tax_amount": "0.00",
+              "tax_rate": "",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
         },
         {
-          "description": "",
+          "description": "STK-EE003-26-00158 22-04-26 WAW AMS. Northwind OU CWH Northwind OU Clara Koos Meye Lindenstrasse 20 CWH Het 31A PL-01-940, Warsaw RA FUEL PLUS - 0,68",
           "item_type": "GOODS",
-          "uom": "",
-          "quantity": "38",
-          "unit_price": "4.152105",
-          "total": "157.78",
+          "uom": "Kg",
+          "quantity": "17",
+          "unit_price": "3.574706",
+          "total": "60.77",
           "discount": "",
           "discount_percentage": "",
           "tax_rate": "",
@@ -82,14 +82,56 @@
             {
               "tax_type": "",
               "tax_name": "A",
-              "tax_rate": "24",
-              "tax_amount": "30.53",
-              "tax_type_code": "EST_240_VAT"
+              "tax_rate": "",
+              "tax_amount": "",
+              "tax_type_code": ""
             }
           ]
         },
         {
-          "description": "UMVARDAIVIINE",
+          "description": "STK-EE003-26-00180 30-04-26 ZPE TLL Northwind Operators OU Northwind Operations OU Mare Moreau Vida Kalle FUEL PLUS 0,16 Lindenstrasse 31 Jalan Ampang 3 DE-48153, EE-13619,",
+          "item_type": "GOODS",
+          "uom": "Kg",
+          "quantity": "4",
+          "unit_price": "10.7225",
+          "total": "42.89",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "A",
+              "tax_rate": "",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "STK-EE003-26-00187 05-05-26 VNO, TIL Northwind OU Northwin OU Alex Moreau samm Kaler FUEL PLUS 0.68 Bahnhofstrasse 69 Jalan Ampang 3 LT-47214, EE-13619,",
+          "item_type": "GOODS",
+          "uom": "Kg",
+          "quantity": "17",
+          "unit_price": "3.183529",
+          "total": "54.12",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "A",
+              "tax_rate": "",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "ÜMARDAMINE",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",

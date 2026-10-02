@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Cloverdale Print Ltd",
         "supplier_id": "",
-        "address": "Bahnhofstrasse 9\nBahnhofstrasse 9\nTel: 301 266 7428\nEmail: anja.lind@silverbrook-services.za\nWeb: www.blackpine-systems.za\nVAT: 3590736231",
+        "address": "Bahnhofstrasse 9\nBahnhofstrasse 9\nTel: 301 266 7428\nEmail: anja.lind@silverbrook-services.za\nWeb: www.blackpine-systems.za\nVAT: 3590736231\nCompany Registration No: 8976/781226/23 . Registered Office: PO Box 5230, Cresta, Johannesburg, Gauteng, 2118, South Africa.",
         "vat_id": "3590736231"
       },
       "buyer": {
@@ -52,8 +52,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "VAT",
+              "tax_type": "",
+              "tax_name": "",
               "tax_rate": "15",
               "tax_amount": "",
               "tax_type_code": ""

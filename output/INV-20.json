@@ -11,7 +11,7 @@
         "name": "Elektra",
         "supplier_id": "",
         "address": "Avenida Central 60\n8005 Zurich",
-        "vat_id": ""
+        "vat_id": "CHE-726.894.710"
       },
       "buyer": {
         "company_code": "",
@@ -19,7 +19,7 @@
         "location_code": ""
       },
       "payment_term_id": "",
-      "po_number": "",
+      "po_number": "7856147",
       "po_id": "",
       "gross_total": "12.10",
       "subtotal": "11.19",
@@ -29,21 +29,13 @@
       "insurance_charges": "",
       "extra_charges": "",
       "excise_duties": "",
-      "taxes": [
-        {
-          "tax_type": "VAT",
-          "tax_name": "VAT",
-          "tax_rate": "8.1",
-          "tax_amount": "0.91",
-          "tax_type_code": "CH_081_VAT"
-        }
-      ],
+      "taxes": [],
       "line_items": [
         {
-          "description": "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole",
+          "description": "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole 24 Months Warranty (2/16/2026 - 2/16/2028)",
           "item_type": "GOODS",
           "uom": "",
-          "quantity": "1",
+          "quantity": "",
           "unit_price": "11.19",
           "total": "11.19",
           "discount": "",
@@ -59,19 +51,6 @@
               "tax_type_code": "CH_081_VAT"
             }
           ]
-        },
-        {
-          "description": "24 Months Warranty (2/16/2026 - 2/16/2028)",
-          "item_type": "GOODS",
-          "uom": "",
-          "quantity": "",
-          "unit_price": "",
-          "total": "",
-          "discount": "",
-          "discount_percentage": "",
-          "tax_rate": "",
-          "tax_amount": "",
-          "taxes": []
         }
       ]
     }

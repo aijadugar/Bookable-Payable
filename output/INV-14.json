@@ -8,9 +8,9 @@
       "invoice_type": "INVOICE",
       "currency": "GBP",
       "supplier": {
-        "name": "Northwind Services UK Ltd",
+        "name": "Silverbrook Media Limited",
         "supplier_id": "",
-        "address": "Rua do Ouro 175\nTaper Studio\nLondon\nSE1 4GT",
+        "address": "Attention: Finance\n2nd Floor\nParnu mnt 117\nParnu mnt 26\nLondon\nMiddlesex\nN1 9RY\nUNITED KINGDOM",
         "vat_id": "474927490"
       },
       "buyer": {
@@ -47,19 +47,6 @@
       ],
       "line_items": [
         {
-          "description": "2nd Floor",
-          "item_type": "GOODS",
-          "uom": "",
-          "quantity": "",
-          "unit_price": "",
-          "total": "",
-          "discount": "",
-          "discount_percentage": "",
-          "tax_rate": "",
-          "tax_amount": "",
-          "taxes": []
-        },
-        {
           "description": "Management Fee for June 2026",
           "item_type": "GOODS",
           "uom": "",
@@ -72,8 +59,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "VAT",
+              "tax_type": "",
+              "tax_name": "",
               "tax_rate": "20",
               "tax_amount": "",
               "tax_type_code": "GB_200_VAT"
@@ -94,7 +81,7 @@
           "taxes": [
             {
               "tax_type": "VAT",
-              "tax_name": "VAT",
+              "tax_name": "No VAT",
               "tax_rate": "",
               "tax_amount": "",
               "tax_type_code": ""
@@ -114,8 +101,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "VAT",
+              "tax_type": "",
+              "tax_name": "",
               "tax_rate": "20",
               "tax_amount": "",
               "tax_type_code": "GB_200_VAT"

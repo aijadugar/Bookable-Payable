@@ -4,7 +4,7 @@
       "page_numbers": [
         1
       ],
-      "title_text": "Arve nr .:",
+      "title_text": "Arve nr .: 18533",
       "invoice_number": "18533",
       "invoice_date": "25.03.2026",
       "due_date": "24.04.2026",
@@ -98,20 +98,16 @@
       "printed_total_tax": "115,03",
       "printed_gross_total": "594,30",
       "printed_amount_due": "594,30",
-      "other_total_labels": [
-        "Kokku:"
-      ],
-      "other_total_amounts": [
-        "479,27"
-      ],
+      "other_total_labels": [],
+      "other_total_amounts": [],
       "notes": [
         "Kliendi nr .: 5207",
         "Viivis: 0,5% päevas",
         "Kontaktisik: Marco Lind",
-        "Summa sõnadega: Viissada üheksakümmend neli ja 30",
+        "Summa sõnadega:\nViissada üheksakümmend neli ja 30",
+        "Allkiri:",
         "Kontakt: +190 2609 0057",
-        "SWIFT XYQXPY30",
-        "Harbor Savings"
+        "SWIFT XYQXPY30"
       ]
     }
   ],

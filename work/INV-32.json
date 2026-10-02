@@ -12,7 +12,7 @@
       "payment_terms_text": "NET 14",
       "po_number": "30193",
       "currency_text": "$",
-      "price_basis_text": "",
+      "price_basis_text": "*Indicates non-taxable item",
       "supplier_name": "215B.E.A.R.S.",
       "supplier_address": "4613 Conshohocken Avenue Philadelphia PA 19131\n267-767-4961",
       "supplier_vat_id": "",
@@ -99,15 +99,17 @@
       "printed_gross_total": "$750.00",
       "printed_amount_due": "$750.00",
       "other_total_labels": [
-        "PAID"
+        "PAID",
+        "Balance Due"
       ],
       "other_total_amounts": [
-        "$0.00"
+        "$0.00",
+        "$750.00"
       ],
       "notes": [
         "Req#: 131530",
-        "*Indicates non-taxable item",
-        "Hello you can make the check out to 215BEARS . 4613 Conshohocken Avenue Philadelphia PA 19131 . If invoice is not paid 30 days after services are rendered there will be a $25 Late fee added every day starting on the 31st day after"
+        "shawntee Willis\n5hears@@amai\n267-767 40",
+        "Hello you can make the check out to 215BEARS . 4613 Conshohocken Avenue Philadelphia PA 19131 . If invoice is not paid 30 days after services are rendered there\nwill be a $25 Late fee added every day starting on the 31st day after"
       ]
     }
   ],

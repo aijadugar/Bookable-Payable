@@ -5,12 +5,12 @@
         1
       ],
       "title_text": "Copy Tax Invoice",
-      "invoice_number": "162547",
+      "invoice_number": "16254",
       "invoice_date": "19/05/2026",
       "due_date": "",
       "invoice_type_text": "Tax Invoice",
       "payment_terms_text": "",
-      "po_number": "",
+      "po_number": "9267418170",
       "currency_text": "R",
       "price_basis_text": "Exclusive",
       "supplier_name": "Cloverdale Partners CC",
@@ -25,13 +25,13 @@
         "TGB001/531"
       ],
       "line_descriptions": [
-        "Hall's Smooth Fruit Punch 1lt M 337521\nWT037912\nCG"
+        "Hall's Smooth Fruit Punch 1lt M 337521 WT037912 CG"
       ],
       "line_quantities": [
-        "468.0"
+        "468.0 1000"
       ],
       "line_uoms": [
-        "1000"
+        ""
       ],
       "line_unit_prices": [
         "276.74"
@@ -70,9 +70,9 @@
         "R19,427.15"
       ],
       "header_tax_base_amounts": [
-        "R129,514.32"
+        ""
       ],
-      "printed_discount_amount": "",
+      "printed_discount_amount": "R0.00",
       "printed_freight_charges": "",
       "printed_insurance_charges": "",
       "printed_extra_charges": "",
@@ -86,15 +86,14 @@
       "printed_gross_total": "R148,941.47",
       "printed_amount_due": "",
       "other_total_labels": [
-        "Discount @ 0.00%"
+        "Amount Excl Tax"
       ],
       "other_total_amounts": [
-        "R0.00"
+        "R129,514.32"
       ],
       "notes": [
         "Vendor Number 432145",
         "Account TGB001",
-        "Your Reference 9267418170",
         "Tax Exempt N",
         "Tax Reference 7414745407",
         "Sales Code AP001",

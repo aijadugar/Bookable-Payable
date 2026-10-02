@@ -6,7 +6,9 @@
       "VAT 8.10%: rate only"
     ],
     "derived": [],
-    "warnings": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
     "supplier": "no match",
     "buyer": "no match",
     "payment_term": "no match",

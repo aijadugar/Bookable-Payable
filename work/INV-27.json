@@ -17,11 +17,11 @@
       "supplier_name": "Oakhaven Supply Ltd",
       "supplier_address": "Lindenstrasse 8\nP.O Box 14108, Nairobi, Kenya\n00400 KEN\nalex.meyer@oakhaven-supply.ke\nwww.northwind-consulting.ke",
       "supplier_vat_id": "",
-      "supplier_tax_id": "PIN P088353697W",
+      "supplier_tax_id": "P088353697W",
       "supplier_iban": "",
       "buyer_name": "Northwind Support Kenya Ltd KES",
-      "buyer_address": "Rua do Ouro 117, BUILDING :\nAZURE\nTOWERS, 10TH FLOOR\nRIVERSIDE\nSQUARE RIVERSIDE DRIVE\n00600 Nairobi Kenya\nPIN P221296346U",
-      "buyer_vat_id": "",
+      "buyer_address": "Rua do Ouro 117, BUILDING :\nAZURE\nTOWERS, 10TH FLOOR\nRIVERSIDE\nSQUARE RIVERSIDE DRIVE\n00600 Nairobi Kenya",
+      "buyer_vat_id": "P221296346U",
       "line_item_numbers": [
         "",
         "",
@@ -163,7 +163,7 @@
       "printed_total_discount": "",
       "printed_total_tax": "9,745.42",
       "printed_gross_total": "70,654.30",
-      "printed_amount_due": "KES 70,654.30",
+      "printed_amount_due": "70,654.30",
       "other_total_labels": [
         "TOTAL DUE"
       ],
@@ -171,9 +171,9 @@
         "KES 70,654.30"
       ],
       "notes": [
+        "Account Name: Cloverdale Mobility Limited\nBank Name: Larkspur Bank\nBank Branch: Swissport\nSwift Code: PSDHKIZC\nBank Code: 07000\nKenya Shillings (KES): Account Number 6786517608\nUnited States Dollar (USD): Account Number 8672480023\nEuro (EUR): Account Number 8672480039",
         "Warehosuing for May 2025",
-        "THANK YOU.",
-        "Account Name: Cloverdale Mobility Limited\nBank Name: Larkspur Bank\nBank Branch: Swissport\nSwift Code: PSDHKIZC\nBank Code: 07000\nKenya Shillings (KES): Account Number 6786517608\nUnited States Dollar (USD): Account Number 8672480023\nEuro (EUR): Account Number 8672480039"
+        "THANK YOU."
       ]
     }
   ],

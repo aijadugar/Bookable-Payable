@@ -53,7 +53,7 @@
         },
         {
           "tax_type": "VAT",
-          "tax_name": "VAT",
+          "tax_name": "VAT (15%)",
           "tax_rate": "15",
           "tax_amount": "1049.40",
           "tax_type_code": ""

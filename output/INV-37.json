@@ -10,7 +10,7 @@
       "supplier": {
         "name": "1120 VERMONT AVENUE ASSOCIATES, LLP",
         "supplier_id": "",
-        "address": "1120 VERMONT AVENUE ASSOCIATES, LLP",
+        "address": "",
         "vat_id": ""
       },
       "buyer": {
@@ -27,7 +27,7 @@
       "discount_amount": "",
       "freight_charges": "",
       "insurance_charges": "",
-      "extra_charges": "23.18",
+      "extra_charges": "122.00",
       "excise_duties": "",
       "taxes": [
         {
@@ -54,9 +54,9 @@
       ],
       "line_items": [
         {
-          "description": "SM #0201 Actual 497649 - 497625 = 24 x 1 = 24 at 2nd fl North Mech Room",
+          "description": "SM #0201 Actual at 2nd fl North Mech Room",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "KWH Used",
           "quantity": "24",
           "unit_price": "0.097958",
           "total": "2.35",
@@ -67,7 +67,7 @@
           "taxes": []
         },
         {
-          "description": "Demand at 2nd fl North Mech Room",
+          "description": "SM #0201 Demand at 2nd fl North Mech Room",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -80,9 +80,9 @@
           "taxes": []
         },
         {
-          "description": "SM #0202 Actual 434313 - 434122 = 191 x 1 = 191 at 2nd fl North Mech Room",
+          "description": "SM #0202 Actual at 2nd fl North Mech Room",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "KWH Used",
           "quantity": "191",
           "unit_price": "0.097958",
           "total": "18.71",
@@ -93,7 +93,7 @@
           "taxes": []
         },
         {
-          "description": "Demand at 2nd fl North Mech Room",
+          "description": "SM #0202 Demand at 2nd fl North Mech Room",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "0.7",
@@ -106,9 +106,9 @@
           "taxes": []
         },
         {
-          "description": "SM #0206 Actual 703329 - 687513 = 15816 x 1 = 15816 at",
+          "description": "SM #0206 Actual at",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "KWH Used",
           "quantity": "15816",
           "unit_price": "0.097958",
           "total": "1549.31",
@@ -119,7 +119,7 @@
           "taxes": []
         },
         {
-          "description": "Demand",
+          "description": "SM #0206 Demand",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "21.5",
@@ -132,9 +132,9 @@
           "taxes": []
         },
         {
-          "description": "#4369148 815 - 815 = 0 x 1 = 0",
+          "description": "EMERGENCY GENERATOR FUEL USAGE #4369148",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "Gallons",
           "quantity": "0",
           "unit_price": "2.76",
           "total": "0.00",
@@ -145,9 +145,9 @@
           "taxes": []
         },
         {
-          "description": "2.1 CCH-042 07/23/03 Standby 42,000 / 12,000 = 3.500",
+          "description": "COOLING SYSTEM CONDENSER WATER USAGE 2.1 CCH-042 07/23/03 Standby 42,000 / 12,000",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "Connected Ton",
           "quantity": "3500",
           "unit_price": "0.017637",
           "total": "61.73",
@@ -158,9 +158,9 @@
           "taxes": []
         },
         {
-          "description": "2.5 WCMS.1.024 07/23/03 24 Hour 24,000 / 12,000 = 2.000",
+          "description": "COOLING SYSTEM CONDENSER WATER USAGE 2.5 WCMS.1.024 07/23/03 24 Hour 24,000 / 12,000",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "Connected Ton",
           "quantity": "2000",
           "unit_price": "0.017635",
           "total": "35.27",
@@ -171,9 +171,9 @@
           "taxes": []
         },
         {
-          "description": "2.9 CCH-024 01/01/14 24 Hour 60,000 / 12,000 = 5.000",
+          "description": "COOLING SYSTEM CONDENSER WATER USAGE 2.9 CCH-024 01/01/14 24 Hour 60,000 / 12,000",
           "item_type": "GOODS",
-          "uom": "",
+          "uom": "Connected Ton",
           "quantity": "5000",
           "unit_price": "0.06393",
           "total": "319.65",

@@ -4,28 +4,28 @@
       "page_numbers": [
         1
       ],
-      "title_text": "Donations and Sponsorship Form",
+      "title_text": "FORM\n1. Donations and Charitable Contributions (in money or in kind without considerations)\n2. Contributions",
       "invoice_number": "",
       "invoice_date": "1/12/26",
       "due_date": "",
-      "invoice_type_text": "",
+      "invoice_type_text": "Donations and Sponsorship Form",
       "payment_terms_text": "",
-      "po_number": "AF-538013",
+      "po_number": "",
       "currency_text": "USD",
       "price_basis_text": "",
       "supplier_name": "Ashford Systems",
-      "supplier_address": "402 Road SC 29526 USA",
+      "supplier_address": "402 Road SC 29526 Country of Registration USA",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
-      "buyer_name": "CADENCE udiology",
-      "buyer_address": "Halden Cybergate Tower 2\nMandaluyong, 1554 Metro Manila, Philippines",
+      "buyer_name": "CADENCE ology",
+      "buyer_address": "",
       "buyer_vat_id": "",
       "line_item_numbers": [
         ""
       ],
       "line_descriptions": [
-        "Sponsorship: Singular sponsor for Friday night Welcome, Jazz and cocktail 2 hour Primary logo on our website advertising Hearing Healthcare Conference Advertising via Constant Contact (x 4 ads) Logo on lanyards and/or name tags Logo on drink tickets Exhibit table (first choice on location) Ability to provide logo marked goodies to all attendees"
+        "Sponsorship - \" Singular sponsor for Friday night Welcome, Jazz and cocktail 2 hour Primary logo on our website advertising Hearing Healthcare Conference Advertising via Constant Contact (x 4 ads) \" Logo on lanyards and/or name tags \" Logo on drink tickets Exhibit table (first choice on location) \" Ability to provide logo marked \" goodies\" to all attendees"
       ],
       "line_quantities": [
         ""
@@ -75,15 +75,17 @@
       "printed_subtotal": "",
       "printed_total_discount": "",
       "printed_total_tax": "",
-      "printed_gross_total": "$1995.00",
+      "printed_gross_total": "1995.00",
       "printed_amount_due": "",
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
-        "Requestor's Name: Kayce Vidal",
-        "Activity Name: South Hearing Aid Society",
+        "Requestor's Name Kayce Vidal",
+        "Dept / Unit Sales",
+        "Name of Recipient Paul Berg",
+        "Activity Name South Hearing Aid Society",
         "Expected fiscal year of the payment 2026",
-        "Contributions In Money",
+        "[x] Contributions In Money",
         "Gifts, Entertainment and Donations Policy - Donations and Sponsorship Form (Section 5) - 1 September 2020"
       ]
     }

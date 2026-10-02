@@ -11,7 +11,7 @@
       "due_date": "2026-07-16",
       "invoice_type_text": "Fatura",
       "payment_terms_text": "Transf. bancaria",
-      "po_number": "80120853",
+      "po_number": "REF-841468",
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "Blackpine Supply S.A",
@@ -146,12 +146,18 @@
       "other_total_amounts": [],
       "notes": [
         "Empresa Certificada RSPO nº BMC-RSPO-000188",
-        "A responsabilidade pela gestão de resíduos de embalagens foi transferida para a Entidade Gestora: Silverbrook Mobility Silverbrook Mobility . Mais informações, incluindo os valores das prestações financeiras fixadas a favor daquela, em www.northwind-technologbeps foram colocados à disposição do adquirente na data da descarga - art.36º, nº5, f/ do CIVA.",
+        "A responsabilidade pela gestão de resíduos de embalagens foi transferida para a Entidade Gestora: Silverbrook Mobility",
+        "Silverbrook Mobility . Mais informações, incluindo os valores das prestações financeiras fixadas a favor daquela, em www.northwind-technologbeps foram colocados à disposição do adquirente na data da descarga - art.36º, nº5, f/ do CIVA.",
         "Data Transporte 2026-06-15 Hora de início de transporte 00:00 h",
         "Local Carga Qta Medanha, / 2580-491, CARREGADO / Espaļa",
         "Local Descarga Morada entrega cliente",
         "AHm8-Processado por programa certificado n.º 6847/AT",
-        "Reference: REF-841468"
+        "Rota 804",
+        "Ped. 80120853",
+        "Data de Entrega - Estimada 2026-06-16 02:51",
+        "Data de Entrega - Real 2026-06-16 09:54",
+        "Temperatura -18,00",
+        "Assinatura: (ILANDIA)"
       ]
     }
   ],

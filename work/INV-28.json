@@ -16,12 +16,12 @@
       "currency_text": "DKK",
       "price_basis_text": "",
       "supplier_name": "Silverbrook Print",
-      "supplier_address": "Rua do Ouro 40\n2605 Brøndby",
+      "supplier_address": "Rua do Ouro 40\n2605 Brøndby\nTelefon +5506340887\nCVR nr. DK74347584",
       "supplier_vat_id": "DK74347584",
       "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Northwind Services Dk Aps",
-      "buyer_address": "Att .: Sofia Roth\nLindenstrasse 3\n2610 Rødovre\nDanmark",
+      "buyer_address": "Lindenstrasse 3\n2610 Rødovre\nDanmark",
       "buyer_vat_id": "94368703",
       "line_item_numbers": [
         "",
@@ -112,7 +112,7 @@
         "119,00",
         "200,00",
         "120,00",
-        "120,00",
+        "",
         "60,00",
         "156,86",
         "112,00",
@@ -188,7 +188,7 @@
         "119,00",
         "200,00",
         "120,00",
-        "120,00",
+        "",
         "180,00",
         "156,86",
         "224,00",
@@ -280,7 +280,7 @@
         "895,64"
       ],
       "header_tax_base_amounts": [
-        ""
+        "3.582,56"
       ],
       "printed_discount_amount": "",
       "printed_freight_charges": "",
@@ -294,10 +294,10 @@
       "printed_total_discount": "",
       "printed_total_tax": "895,64",
       "printed_gross_total": "4.478,20",
-      "printed_amount_due": "4.478,20",
+      "printed_amount_due": "",
       "other_total_labels": [
-        "'I alt DKK'",
-        "'I alt DKK inkl. moms'"
+        "I alt DKK",
+        "I alt DKK inkl. moms"
       ],
       "other_total_amounts": [
         "3.582,56",
@@ -309,8 +309,7 @@
         "Såfremt betaling ikke sker rettidigt, pålægges renter og gebyr jf. Samhandelsbetingelser.",
         "Kortart 71",
         "Betalings ID 0000003025139 01",
-        "Kreditor Nr. 86682469",
-        "+71< 0000003025139 01+86682469 <"
+        "Kreditor Nr. 86682469"
       ]
     }
   ],

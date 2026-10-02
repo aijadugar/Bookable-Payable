@@ -22,9 +22,9 @@
       "po_number": "3800148153",
       "po_id": "",
       "gross_total": "1012.14",
-      "subtotal": "835.27",
+      "subtotal": "1796.54",
       "total_tax_amount": "176.87",
-      "discount_amount": "1049.60",
+      "discount_amount": "",
       "freight_charges": "",
       "insurance_charges": "",
       "extra_charges": "25.80",
@@ -50,8 +50,8 @@
           "description": "SAGRES Branca Gfa Tab 6x1L PT",
           "item_type": "GOODS",
           "uom": "TAB",
-          "quantity": "4",
-          "unit_price": "147.60",
+          "quantity": "40",
+          "unit_price": "14.76",
           "total": "590.40",
           "discount": "",
           "discount_percentage": "",
@@ -62,7 +62,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "46.40",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -83,7 +83,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "7.26",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -93,8 +93,8 @@
           "item_type": "GOODS",
           "uom": "TAB",
           "quantity": "1",
-          "unit_price": "24.90",
-          "total": "24.90",
+          "unit_price": "24.96",
+          "total": "24.96",
           "discount": "",
           "discount_percentage": "",
           "tax_rate": "",
@@ -104,7 +104,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "1.16",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -125,7 +125,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "8.64",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -235,7 +235,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "2.68",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -256,7 +256,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "4.36",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -277,7 +277,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "10.15",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]
@@ -298,7 +298,7 @@
               "tax_type": "",
               "tax_name": "",
               "tax_rate": "23",
-              "tax_amount": "7.68",
+              "tax_amount": "",
               "tax_type_code": ""
             }
           ]

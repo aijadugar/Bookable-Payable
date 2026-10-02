@@ -2,11 +2,12 @@
   {
     "invoice_number": "9884313366",
     "taxes": [
-      "? 23: ambiguous (rate only)",
-      "? 23: ambiguous (rate only)",
-      "? 23: ambiguous (rate only)",
-      "? 23: ambiguous (rate only)",
-      "? 23: ambiguous (rate only)",
+      "IVA 23: ambiguous (rate only)",
+      "IVA 23: ambiguous (rate only)",
+      "IVA 23: ambiguous (rate only)",
+      "IVA 23: ambiguous (rate only)",
+      "IVA 23: ambiguous (rate only)",
+      "IVA : no match",
       "IVA : no match"
     ],
     "derived": [

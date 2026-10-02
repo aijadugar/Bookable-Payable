@@ -1,11 +1,11 @@
 [
   {
-    "invoice_number": "# EST-259684",
+    "invoice_number": "EST-259684",
     "taxes": [
-      "GETFund (2.5%) 2.5%: ambiguous (rate only)",
-      "NHIL (2.5%) 2.5%: ambiguous (rate only)",
-      "Covid Levy (1%) 1%: rate only",
-      "VAT Output-15 (15%) 15%: ambiguous (rate only)"
+      "GETFund 2.5%: ambiguous (rate only)",
+      "NHIL 2.5%: ambiguous (rate only)",
+      "Covid Levy 1%: rate only",
+      "VAT Output-15 15%: ambiguous (rate only)"
     ],
     "derived": [],
     "warnings": [],

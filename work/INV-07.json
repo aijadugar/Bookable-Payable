@@ -4,7 +4,98 @@
       "page_numbers": [
         1
       ],
-      "title_text": "TAX INVOICE\nInvoice Date Larkspur Distribution Meridian Print\n30 Apr 2025\nLarkspur Distribution Meridian Print\nGartenweg 173\nNorthwind Services ZA (Pty) Meridian Print Ltd\nINV7097292303\nM5 Office Park\nF04, Kiepersol House\nBahnhofstrasse 300\nUnit 7, Block B\nGartenweg 60\nINV7097292303 Darrenwood\nGauteng\nMaitland\n2195\nWESTERN CAPE CAPE TOWN 7405\n8690782647\nSouth Africa\nSOUTH AFRICA\nVAT Number: 9446639440\nDescription\nQuantity Unit Price VAT Amount ZAR\nStandard Criminal Verification\n133.00 129.00 15% 17,157.00\nSubtotal 17,157.00\nTOTAL VAT 2,573.55\nTOTAL ZAR 19,730.55\nLess Amount Credited 13,110.00\nAMOUNT DUE ZAR 6,620.55\nDue Date: 31 May 2025\nOakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV\nPlease use your invoice number as reference when making payment.\nCompany Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa."
+      "title_text": "TAX INVOICE",
+      "invoice_number": "INV7097292303",
+      "invoice_date": "30 Apr 2025",
+      "due_date": "31 May 2025",
+      "invoice_type_text": "TAX INVOICE",
+      "payment_terms_text": "",
+      "po_number": "8690782647",
+      "currency_text": "ZAR",
+      "price_basis_text": "",
+      "supplier_name": "Larkspur Distribution Meridian Print",
+      "supplier_address": "Larkspur Distribution Meridian Print\nGartenweg 173\nF04, Kiepersol House\nBahnhofstrasse 300\nDarrenwood\nGauteng\n2195\nSouth Africa",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Northwind Services ZA (Pty) Meridian Print Ltd",
+      "buyer_address": "M5 Office Park\nUnit 7, Block B\nGartenweg 60\nMaitland\nWESTERN CAPE CAPE TOWN 7405\nSOUTH AFRICA",
+      "buyer_vat_id": "9446639440",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "Standard Criminal Verification"
+      ],
+      "line_quantities": [
+        "133.00"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "129.00"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "17,157.00"
+      ],
+      "line_tax_names": [
+        "VAT"
+      ],
+      "line_tax_rates": [
+        "15%"
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [
+        "TOTAL VAT"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "2,573.55"
+      ],
+      "header_tax_base_amounts": [
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "17,157.00",
+      "printed_total_discount": "",
+      "printed_total_tax": "2,573.55",
+      "printed_gross_total": "19,730.55",
+      "printed_amount_due": "6,620.55",
+      "other_total_labels": [
+        "Less Amount Credited"
+      ],
+      "other_total_amounts": [
+        "13,110.00"
+      ],
+      "notes": [
+        "Oakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV",
+        "Please use your invoice number as reference when making payment.",
+        "Company Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa."
+      ]
     }
   ],
   "unreadable_pages": []

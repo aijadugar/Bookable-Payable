@@ -8,9 +8,9 @@
       "invoice_type": "INVOICE",
       "currency": "EUR",
       "supplier": {
-        "name": "Vinora",
+        "name": "Northw Larkspur Print ou Blackpine Unipessoal Lda",
         "supplier_id": "",
-        "address": "Gartenweg 5\n6.500.000€ C.R.C. DE V.N. DE GAIA Nº",
+        "address": "Kadaka tee 224 1250-148 Lisboa",
         "vat_id": "PT241 235 054"
       },
       "buyer": {
@@ -24,33 +24,33 @@
       "gross_total": "67.25",
       "subtotal": "123.36",
       "total_tax_amount": "7.74",
-      "discount_amount": "63.85",
+      "discount_amount": "",
       "freight_charges": "",
       "insurance_charges": "",
       "extra_charges": "",
       "excise_duties": "",
-      "taxes": [
-        {
-          "tax_type": "VAT",
-          "tax_name": "IVA",
-          "tax_rate": "13",
-          "tax_amount": "7.74",
-          "tax_type_code": ""
-        }
-      ],
+      "taxes": [],
       "line_items": [
         {
           "description": "CX TRINCA ALE T22 6X1500 CXE NTT EAN:5601012004984",
           "item_type": "GOODS",
           "uom": "CX",
           "quantity": "1",
-          "unit_price": "123.36",
-          "total": "123.36",
+          "unit_price": "59.51",
+          "total": "59.51",
           "discount": "",
           "discount_percentage": "",
           "tax_rate": "",
           "tax_amount": "",
-          "taxes": []
+          "taxes": [
+            {
+              "tax_type": "",
+              "tax_name": "",
+              "tax_rate": "13",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
         }
       ]
     }
