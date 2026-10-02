@@ -15,6 +15,7 @@
           "booked_gross": "1872.11",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -37,6 +38,7 @@
           "booked_gross": "1628.16",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -59,6 +61,7 @@
           "booked_gross": "92366.96",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -81,6 +84,7 @@
           "booked_gross": "54520.96",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -103,6 +107,7 @@
           "booked_gross": "16500.4",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -125,6 +130,7 @@
           "booked_gross": "8202.2",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -147,6 +153,7 @@
           "booked_gross": "34982.89",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -169,6 +176,7 @@
           "booked_gross": "22966.44",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -191,6 +199,7 @@
           "booked_gross": "28031.7",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -213,6 +222,7 @@
           "booked_gross": "21865.82",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -235,6 +245,7 @@
           "booked_gross": "1049579.86",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -257,6 +268,7 @@
           "booked_gross": "5838.05",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -279,6 +291,7 @@
           "booked_gross": "18746.97",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -301,6 +314,7 @@
           "booked_gross": "532370.06",
           "difference": "0.00",
           "cross_checks": {
+            "quantity_vs_printed": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
