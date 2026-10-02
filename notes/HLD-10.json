@@ -1,0 +1,25 @@
+[
+  {
+    "invoice_number": "UNA IN 13",
+    "taxes": [
+      "B 0,00%: ambiguous (rate only)",
+      "A 24,00%: rate only",
+      "A 24,00%: rate only",
+      "B 0,00%: ambiguous (rate only)"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 2: unit price taken from printed total (none printed)",
+      "line 3: unit price taken from printed total (none printed)",
+      "line 3: quantity not printed, 1 used"
+    ],
+    "warnings": [
+      "charge 'FUEL' 64.04 not placed: extra_charges already filled",
+      "charge 'PLUS -' 2.32 not placed: extra_charges already filled"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
