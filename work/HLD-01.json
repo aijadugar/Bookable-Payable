@@ -8,17 +8,17 @@
       "invoice_number": "SI6675/02/467",
       "invoice_date": "05.05.2569",
       "due_date": "",
-      "invoice_type_text": "INVOICE",
+      "invoice_type_text": "ใบวางบิล (INVOICE)",
       "payment_terms_text": "",
       "po_number": "",
-      "currency_text": "บาท / BAHT",
+      "currency_text": "",
       "price_basis_text": "",
       "supplier_name": "บริษัท ซิงค์ ครีเอชั่น จำกัด",
       "supplier_address": "(สำนักงานใหญ่)\nเลขที่ 799/124 หมู่ที่ 3 ตำบลแพรกษา\nจังหวัดสมุทรปราการ 10280\nผู้ประสานงาน : คุณวุฒิพงษ์ แบ่งลาภ\nเบอร์โทร : 5901619152\nE-mail: jonas.silva@larkspur-technologies.com",
       "supplier_vat_id": "0 1055 56100 87 9",
-      "supplier_tax_id": "0 1055 56100 87 9",
+      "supplier_tax_id": "",
       "supplier_iban": "",
-      "buyer_name": "Northwind SUPPORT SERVICES (THAILAND)LIMITEISUPPORT) SEBMIOES INDAND) LIMITED( ........... )",
+      "buyer_name": "Northwind SUPPORT SERVICES (THAILAND)LIMITED",
       "buyer_address": "เลขที่ 8 อาคารที่วัน ชั้นที่ 16 ห้องเลขที่ 16-103 16-104 16-105\nซอยสุขุมวิท 40 ถนนสุขุมวิท แขวงพระโขนง เขตคลองเตย\nกรุงเทพมหานคร",
       "buyer_vat_id": "4053930153035",
       "line_item_numbers": [
@@ -69,7 +69,7 @@
         "3%"
       ],
       "header_tax_amounts": [
-        "549.3",
+        "549.36",
         "235.44"
       ],
       "header_tax_base_amounts": [
@@ -90,14 +90,16 @@
       "printed_total_quantity": "",
       "printed_subtotal": "7,200.00",
       "printed_total_discount": "",
-      "printed_total_tax": "549.3",
+      "printed_total_tax": "549.36",
       "printed_gross_total": "8,397.36",
       "printed_amount_due": "8,161.92",
       "other_total_labels": [
-        "TOTAL (INCLUDING AGENCY FEE)"
+        "TOTAL (INCLUDING AGENCY FEE)",
+        "จำนวนเงินที่ต้องชำระ (TOTAL PAYMENT)"
       ],
       "other_total_amounts": [
-        "7,848.00"
+        "7,848.00",
+        "8,161.92"
       ],
       "notes": [
         "ชื่องาน / Project: Staff Impact (May 2026)",

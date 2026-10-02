@@ -12,7 +12,7 @@
       "payment_terms_text": "90 days net",
       "po_number": "3057199",
       "currency_text": "SGD",
-      "price_basis_text": "",
+      "price_basis_text": "List price per unit",
       "supplier_name": "Vantek Asia Pte Ltd.",
       "supplier_address": "High Street 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
       "supplier_vat_id": "207490313H",
@@ -84,10 +84,9 @@
         "771.66"
       ],
       "notes": [
-        "Consignee / Ship-to party\nFairmont Technologies Inc\nGartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL ECONOMIC ZONE\nPHILIPPINES",
-        "Customer reference: 693100096",
         "Incoterms: EXW BATAM",
-        "Bank account Larkspur Bank\nSINGAPORE BRANCH\nUSD-acc. 267-621698-425. Swift Code: TFFKBCCQ\nSGD-acc. 143-022260-749. Swift Code: TFFKBCCQ"
+        "Bank account Larkspur Bank\nSINGAPORE BRANCH\nUSD-acc. 267-621698-425. Swift Code: TFFKBCCQ\nSGD-acc. 143-022260-749. Swift Code: TFFKBCCQ",
+        "Consignee / Ship-to party\nFairmont Technologies Inc\n693100096\nGartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL ECONOMIC ZONE\nPHILIPPINES"
       ]
     }
   ],

@@ -13,9 +13,9 @@
       "payment_terms_text": "60 Days Net",
       "po_number": "",
       "currency_text": "USD",
-      "price_basis_text": "",
-      "supplier_name": "Blueharbor Logistics & Services",
-      "supplier_address": "Blueharbor Logistics & Services Singapore Pte. Ltd.\nBrightside Trading Pte. Ltd\nChangi Airfreight Centre\nGartenweg 7\nCargo Agents Building E\n819834 Singapore",
+      "price_basis_text": "Net value",
+      "supplier_name": "Blueharbor Logistics & Services Singapore Pte. Ltd.",
+      "supplier_address": "Brightside Trading Pte. Ltd\nChangi Airfreight Centre\nGartenweg 7\nCargo Agents Building E\n819834 Singapore",
       "supplier_vat_id": "M2-0029161-1",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -37,14 +37,14 @@
       "line_descriptions": [
         "International Freight",
         "Origin Terminal Handling",
-        "Documentation\nFee",
+        "Documentation Fee",
         "Delivery",
         "Pick-up",
-        "Customs DEJTWOXDBWJ -\nExport",
+        "Customs DEJTWOXDBWJ Export",
         "Origin Documentation",
-        "Customs DEJTWOXDBWJ -\nImport",
+        "Customs DEJTWOXDBWJ Import",
         "Carrier Manifest Filing",
-        "DEHVZCKRPYE Terminal\nHandling"
+        "DEHVZCKRPYE Terminal Handling"
       ],
       "line_quantities": [
         "567.000",
@@ -204,26 +204,18 @@
       "printed_gross_total": "1,040.06",
       "printed_amount_due": "1,040.06",
       "other_total_labels": [
-        "Net value",
         "Total Amount Due (SGD)"
       ],
       "other_total_amounts": [
-        "1,040.06",
         "1,350.55"
       ],
       "notes": [
         "HAWB",
         "Sold to Cadence PTE. LTD.",
-        "POL: Hamburg",
-        "Place of Receipt: Hamburg",
-        "POD: Singapore",
-        "Place of Delivery: Singapore",
-        "SHPR: Polvex DISTRIBUTION GMBH & CO.KG",
-        "ETD: 92-Nov-9004 ETA: 19-Nov-7991",
+        "POL: Hamburg\nPlace of Receipt: Hamburg\nPOD: Singapore\nPlace of Delivery: Singapore\nSHPR: Polvex DISTRIBUTION GMBH & CO.KG\nETD: 92-Nov-9004 ETA: 19-Nov-7991",
         "Conversion to SGD for Tax purpose only",
         "* Payment in USD: The And Banking Account no:\n* Payment Ref: By Payn trans ¡e inclu nt ker and a ship to",
-        "* This is an electronically generated document and authorised signature is not required.",
-        "Email address: wara.silva@blueharbor.com"
+        "This is an elecuvinuly yumruuu uuuumight and authorised is not required."
       ]
     },
     {
@@ -232,7 +224,7 @@
       ],
       "title_text": "House Air aybill",
       "invoice_number": "",
-      "invoice_date": "11.11.2025",
+      "invoice_date": "11-Nov-25",
       "due_date": "",
       "invoice_type_text": "",
       "payment_terms_text": "TERMS: FCA",
@@ -240,18 +232,18 @@
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "POLVEX DISTRIBUTION GMBH & CO.KG",
-      "supplier_address": "Lindenstrasse 35\n20095, HAMBURG,\nHH 20539 DE",
+      "supplier_address": "Lindenstrasse 35 20095, HAMBURG, HH 20539 DE",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Cadence PTE. LTD.",
-      "buyer_address": "Rua do Ouro 18\n539775 SG",
+      "buyer_address": "Rua do Ouro 18 539775 SG",
       "buyer_vat_id": "",
       "line_item_numbers": [
         ""
       ],
       "line_descriptions": [
-        "NOVODUR P2H-AT\n-NOT RESTRICTED-\nMarks:\nHS Codes: 39033000\nORDER NO.\nDIMS 100x120x140 CM × 2\nPART NO. 03153934\nVOL 3.360 M3\nTA 440162 - 82704896"
+        "NOVODUR P2H-AT -NOT RESTRICTED- HS Codes: 39033000 DIMS 100x120x140 CM x 2 VOL 3.360 M3"
       ],
       "line_quantities": [
         "567.0"
@@ -306,9 +298,11 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
-        "It is agreed that the goods noted) for carriage TO THE OF ON THE herein are accepted in apparent good order order and condition (except as GOODS MAY BE BY ANY OTHER MEANS . ALL INSTRUCTIONS ARE GIVEN ROAD OR ANY OTHER ANY OTH THAT THE MAY BE VIA INTERMEDIATE BY THE SHIPPER, AND WHICH THE DEEMS APPROPRIATE. THE IS DRAWN TO THE OF LIABILITY. Shipper may increase such limitation of liability by a higher value for carriage and paying a supplemental if required.",
-        "11.11.2025 16:20 || SPX BY XRY DE/RA/00169-02\nBY DE/RA/00095-06\n** NOT\nMRN:",
-        "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment ns dangerous goods, such part is properly anar condition for carriage ds Regulations by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations."
+        "Copies 1, 2 and 3 of this Air Waybill are originals and have the same validity",
+        "** NOT **",
+        "MRN:",
+        "SPX BY XRY DE/RA/00169-02 BY DE/RA/00095-06",
+        "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment contains dangerous goods, such part is properly by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations."
       ]
     },
     {
@@ -330,7 +324,7 @@
       "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Cadence PTE. LTD",
-      "buyer_address": "High Street 18\n#08-08, 539775 Singapore\nAttn: Tan\nEmail: clara.lind@cadence.com",
+      "buyer_address": "High Street 18 #08-08, 539775 Singapore",
       "buyer_vat_id": "",
       "line_item_numbers": [
         ""
@@ -390,7 +384,10 @@
       "printed_amount_due": "",
       "other_total_labels": [],
       "other_total_amounts": [],
-      "notes": []
+      "notes": [
+        "Attn: Tan",
+        "Email: clara.lind@cadence.com"
+      ]
     }
   ],
   "unreadable_pages": []

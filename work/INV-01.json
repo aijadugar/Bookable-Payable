@@ -14,12 +14,12 @@
       "currency_text": "€",
       "price_basis_text": "",
       "supplier_name": "Northwind Operations OÜ",
-      "supplier_address": "Lindenstrasse 15\n10134 Estonia",
+      "supplier_address": "Herrn Alex Kask\nLindenstrasse 15\n10134 Estonia",
       "supplier_vat_id": "EE398766194",
       "supplier_tax_id": "",
       "supplier_iban": "",
-      "buyer_name": "Alex Kask",
-      "buyer_address": "Northwind Operations OÜ\nHerrn Alex Kask\nLindenstrasse 15\n10134 Estonia",
+      "buyer_name": "",
+      "buyer_address": "",
       "buyer_vat_id": "",
       "line_item_numbers": [
         "1",
@@ -38,8 +38,8 @@
         "Std."
       ],
       "line_unit_prices": [
-        "73,00 €",
-        "73,00 €"
+        "73,00",
+        "73,00"
       ],
       "line_price_units": [
         "",
@@ -54,8 +54,8 @@
         ""
       ],
       "line_totals": [
-        "292,00 €",
-        "146,00 €"
+        "292,00",
+        "146,00"
       ],
       "line_tax_names": [
         "",
@@ -80,10 +80,10 @@
         "0 %"
       ],
       "header_tax_amounts": [
-        "0,00 €"
+        "0,00"
       ],
       "header_tax_base_amounts": [
-        ""
+        "438,00"
       ],
       "printed_discount_amount": "",
       "printed_freight_charges": "",
@@ -93,28 +93,20 @@
       "charge_labels": [],
       "charge_amounts": [],
       "printed_total_quantity": "",
-      "printed_subtotal": "438,00 €",
+      "printed_subtotal": "438,00",
       "printed_total_discount": "",
-      "printed_total_tax": "0,00 €",
-      "printed_gross_total": "438,00 €",
-      "printed_amount_due": "438,00 €",
-      "other_total_labels": [
-        "Gesamtsumme",
-        "Endbetrag"
-      ],
-      "other_total_amounts": [
-        "438,00 €",
-        "438,00 €"
-      ],
+      "printed_total_tax": "0,00",
+      "printed_gross_total": "438,00",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
       "notes": [
-        "Kunden-Nr .: 28973",
-        "Account Manager: Paul Roth",
-        "jonas.haas@kingsley-media.de",
         "im Rahmen unseres gemeinsamen Projektes \"Unterstützung Standortakquise NORTHWade-/Abstellstationen\" erlauben wir uns folgende Rechnung zu stellen.",
         "Liefer-/Leistungsdatum: Zeitraum von 01.01.2026 bis 31.01.2026",
         "Reverse Charge",
         "Wir bedanken uns für Ihr Vertrauen und freuen uns auf eine weiterhin erfolgreiche Zusammenarbeit.",
-        "eisen per Code: equem Code mit der Banking-App scannen."
+        "Kunden-Nr .: 28973",
+        "Account Manager: Paul Roth jonas.haas@kingsley-media.de"
       ]
     }
   ],

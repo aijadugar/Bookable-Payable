@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Meridian Media",
         "supplier_id": "",
-        "address": "Gartenweg 12\nDos Hermanas\nE-M lena.tamm@blackpine-media.ee\n+(052) 3729 958\nWWW https://cloverdale-mobility.ee",
+        "address": "Gartenweg 12\n+(052) 3729 958\nE-M lena.tamm@blackpine-media.ee\nWWW https://cloverdale-mobility.ee\nRe 64670685",
         "vat_id": "EE063536009"
       },
       "buyer": {
@@ -44,8 +44,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "KM VAT",
+              "tax_type": "",
+              "tax_name": "KM",
               "tax_rate": "24",
               "tax_amount": "",
               "tax_type_code": "EST_240_VAT"
@@ -65,8 +65,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "KM VAT",
+              "tax_type": "",
+              "tax_name": "KM",
               "tax_rate": "24",
               "tax_amount": "",
               "tax_type_code": "EST_240_VAT"
@@ -86,8 +86,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "KM VAT",
+              "tax_type": "",
+              "tax_name": "KM",
               "tax_rate": "24",
               "tax_amount": "",
               "tax_type_code": "EST_240_VAT"
@@ -107,8 +107,8 @@
           "tax_amount": "",
           "taxes": [
             {
-              "tax_type": "VAT",
-              "tax_name": "KM VAT",
+              "tax_type": "",
+              "tax_name": "KM",
               "tax_rate": "24",
               "tax_amount": "",
               "tax_type_code": "EST_240_VAT"

@@ -11,67 +11,54 @@
       "due_date": "08.03.2026",
       "invoice_type_text": "Invoice",
       "payment_terms_text": "20 Days net",
-      "po_number": "",
+      "po_number": "7856147",
       "currency_text": "CHF",
-      "price_basis_text": "Price excl. Price incl. Amount excl. Amount incl.",
+      "price_basis_text": "",
       "supplier_name": "Elektra",
       "supplier_address": "Avenida Central 60\n8005 Zurich",
-      "supplier_vat_id": "",
+      "supplier_vat_id": "CHE-726.894.710",
       "supplier_tax_id": "",
-      "supplier_iban": "CH70 3000 0001 8577 2176 5",
+      "supplier_iban": "",
       "buyer_name": "Northwind CH sarl",
       "buyer_address": "Nina Costa\nMarket Road 26\n8008\nSwitzerland",
-      "buyer_vat_id": "CHE-726.894.710",
+      "buyer_vat_id": "",
       "line_item_numbers": [
-        "35605506",
-        ""
+        "35605506"
       ],
       "line_descriptions": [
-        "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole",
-        "24 Months Warranty (2/16/2026 - 2/16/2028)"
+        "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole 24 Months Warranty (2/16/2026 - 2/16/2028)"
       ],
       "line_quantities": [
-        "1",
         ""
       ],
       "line_uoms": [
-        "",
         ""
       ],
       "line_unit_prices": [
-        "11.19",
-        ""
+        "11.19"
       ],
       "line_price_units": [
-        "",
         ""
       ],
       "line_discounts": [
-        "",
         ""
       ],
       "line_discount_percents": [
-        "",
         ""
       ],
       "line_totals": [
-        "11.19",
-        ""
+        "11.19"
       ],
       "line_tax_names": [
-        "VAT",
-        ""
+        "VAT"
       ],
       "line_tax_rates": [
-        "8.10%",
-        ""
+        "8.10%"
       ],
       "line_tax_amounts": [
-        "",
         ""
       ],
       "line_page_numbers": [
-        1,
         1
       ],
       "header_tax_names": [
@@ -84,7 +71,7 @@
         "0.91"
       ],
       "header_tax_base_amounts": [
-        "11.19"
+        ""
       ],
       "printed_discount_amount": "",
       "printed_freight_charges": "",
@@ -98,21 +85,21 @@
       "printed_total_discount": "",
       "printed_total_tax": "0.91",
       "printed_gross_total": "12.10",
-      "printed_amount_due": "12.10",
+      "printed_amount_due": "CHF 12.10",
       "other_total_labels": [
-        "Total amount includes the following VAT:",
         "Total of all deliveries and services CHF",
         "Billing amount"
       ],
       "other_total_amounts": [
-        "",
         "12.10",
         "12.10"
       ],
       "notes": [
-        "Dispatch\nUpon receiving your product, please make sure it is correct and complete and check it for damage. Any deficiencies need to be reported within five calendar days from collection resp. delivery date via your personal customer account in the online shop.",
-        "General\nOur general terms and conditions apply.",
-        "Warranty services\nThis document serves as a warranty receipt for the service centre. Further warranty information and the address of the service centre are available in your customer account. Please send returns to the stated address only."
+        "Dispatch Upon receiving your product, please make sure it is correct and complete and check it for damage. Any deficiencies need to be reported within five calendar days from collection resp. delivery date via your personal customer account in the online shop.",
+        "General Our general terms and conditions apply.",
+        "Warranty services This document serves as a warranty receipt for the service centre. Further warranty information and the address of the service centre are available in your customer account. Please send returns to the stated address only.",
+        "Bank payment This information can be used to make the payment via online banking or directly at your bank branch. Please do not forget to state the reference number.",
+        "For the benefit of Fairmont Technologies AG Financial institution Meridian Bank Payment purpose Invoice 20423591"
       ]
     }
   ],

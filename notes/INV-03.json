@@ -2,7 +2,7 @@
   {
     "invoice_number": "INV-75162461",
     "taxes": [
-      "VAT 15%: ambiguous (rate only)",
+      "? 15%: ambiguous (rate only)",
       "TOTAL VAT : no match"
     ],
     "derived": [],

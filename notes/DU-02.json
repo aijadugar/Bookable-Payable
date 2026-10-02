@@ -12,7 +12,10 @@
   {
     "invoice_number": "554701215",
     "taxes": [],
-    "derived": [],
+    "derived": [
+      "line 2: unit price taken from printed total (printed '3.46' does not foot)",
+      "line 3: unit price taken from printed total (printed '8,14' does not foot)"
+    ],
     "warnings": [],
     "supplier": "no match",
     "buyer": "no match",

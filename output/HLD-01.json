@@ -23,7 +23,7 @@
       "po_id": "",
       "gross_total": "8397.36",
       "subtotal": "7200.00",
-      "total_tax_amount": "549.30",
+      "total_tax_amount": "549.36",
       "discount_amount": "",
       "freight_charges": "",
       "insurance_charges": "",
@@ -34,7 +34,7 @@
           "tax_type": "VAT",
           "tax_name": "Vat",
           "tax_rate": "7",
-          "tax_amount": "549.30",
+          "tax_amount": "549.36",
           "tax_type_code": ""
         },
         {

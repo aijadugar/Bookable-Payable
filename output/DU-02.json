@@ -32,7 +32,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "PER210108B Ref. sample Glutomatic HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+          "description": "PER210108B Ref. sample Glutomatic\nHTS US: 3822190080 - REA,DIAG,POLY CHAIN\nREACT,\nHTS EU: 38221900 - Diagnostic or laboratory\nreagents on a backing, prepared diagnostic or\nlaboratory reagents whether or not on a backing,\nwhether or not put up in the form of kits; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -77,7 +77,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "N6101276 Vial Diffuser Molding HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "N6101276 Vial Diffuser Molding\nHTS US: 9027905625 - PRT ELEC\nINSTRUMENT,902720\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "8",
@@ -90,7 +90,7 @@
           "taxes": []
         },
         {
-          "description": "09923032 13 mm Black Plastic Screw Cap HTS US: 3926909989 - OTH.PLSTIC MAT,OTH, OTH,OTH HTS EU: 39269097 - Other",
+          "description": "09923032 13 mm Black Plastic Screw Cap\nHTS US: 3926909989 - OTH.PLSTIC MAT,OTH,\nOTH,OTH\nHTS EU: 39269097 - Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "8",
@@ -103,7 +103,7 @@
           "taxes": []
         },
         {
-          "description": "09923031 4 mL Clr Scr Vial 15 x 45 13-425 PER PC. HTS US: 7017200000 - GLASSWARE,LAB,HYG, PHARM,OTH HTS EU: 70172000 - Of other glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 ℃ to 300 ℃",
+          "description": "00 09923031 4 mL Clr Scr Vial 15 x 45 13-425 PER PC.\nHTS US: 7017200000 - GLASSWARE,LAB,HYG,\nPHARM,OTH\nHTS EU: 70172000 - Of other glass having a linear\ncoefficient of expansion not exceeding 5 x 10-6 per\nKelvin within a temperature range of 0 ℃ to 300 ℃",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "8",
@@ -148,7 +148,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "N8145368 PFA-ST Nebulizer for prepFAST HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "N8145368 PFA-ST Nebulizer for prepFAST\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -193,7 +193,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "W1026356 Nickel Skimmer Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "W1026356 Nickel Skimmer Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "4",
@@ -206,7 +206,7 @@
           "taxes": []
         },
         {
-          "description": "W1033995 HyperSkimmer Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "W1033995 HyperSkimmer Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "4",
@@ -219,7 +219,7 @@
           "taxes": []
         },
         {
-          "description": "W1033612 Nickel Sampler Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "W1033612 Nickel Sampler Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "4",
@@ -264,7 +264,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "Z0626505505 OEM- Deuterium lamp HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
+          "description": "Z0626505505 TOEM- Deuterium lamp\nHTS US: 8539490040 - ULTRAVIOLET LAMP\nHTS EU: 85394900 - Ultraviolet or infra-red lamps;\narc lamps; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -309,7 +309,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "07150014 MPLC Concept Holder, 10 cm HTS US: 8421990180 - FILT/PURIF MACH PARTS,OTH, HTS EU: 84219990 - Other",
+          "description": "07150014 MPLC Concept Holder, 10 cm\nHTS US: 8421990180 - FILT/PURIF MACH\nPARTS,OTH,\nHTS EU: 84219990 - Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -332,8 +332,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -354,7 +354,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+          "description": "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL EAR99 IN HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -367,7 +367,7 @@
           "taxes": []
         },
         {
-          "description": "Hybrid XLT 3-Slot Organics Torch Avio HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "Hybrid XLT 3-Slot Organics Torch Avio EAR99 US HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -380,7 +380,7 @@
           "taxes": []
         },
         {
-          "description": "PFA-ST MicroFlow Nebulizer for Optima HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+          "description": "PFA-ST MicroFlow Nebulizer for Optima EAR99 US HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -393,7 +393,7 @@
           "taxes": []
         },
         {
-          "description": "STD - PHOSPHORUS 1000 uG/ML 125ML HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+          "description": "STD - PHOSPHORUS 1000 uG/ML 125ML EAR99 IN HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -416,8 +416,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -438,7 +438,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "KIT - SQ8 HEADAMP HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "KIT - SQ8 HEADAMP EAR99 US HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -461,8 +461,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -483,7 +483,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "GASKET HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
+          "description": "GASKET EAR99 SG HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "3",
@@ -496,7 +496,7 @@
           "taxes": []
         },
         {
-          "description": "HS-40 SS Needle HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "HS-40 SS Needle EAR99 DE HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -519,8 +519,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -541,7 +541,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "BRAZE ASSY ASXL CHARCOAL TRAP HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
+          "description": "BRAZE ASSY ASXL CHARCOAL TRAP EAR99 SG HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -564,8 +564,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -586,7 +586,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "Avio 220 Max Base Instrument HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
+          "description": "Avio 220 Max Base Instrument 3A999.f SG HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -609,8 +609,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -631,7 +631,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "1000uL wide bore tips, QTY 2304 HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+          "description": "1000uL wide bore tips, QTY 2304 EAR99 DE HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -654,8 +654,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -676,7 +676,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "ELP UV Lamp Complete HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
+          "description": "ELP UV Lamp Complete EAR99 DE HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -689,7 +689,7 @@
           "taxes": []
         },
         {
-          "description": "Tungsten Halogen Lamp Assembly HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V",
+          "description": "Tungsten Halogen Lamp Assembly EAR99 DE HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "2",
@@ -712,8 +712,8 @@
       "supplier": {
         "name": "Novatek U.S. LLC",
         "supplier_id": "",
-        "address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-        "vat_id": "BE2480635349"
+        "address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+        "vat_id": ""
       },
       "buyer": {
         "company_code": "",
@@ -734,7 +734,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "GLUTOMATIC 2000 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+          "description": "GLUTOMATIC 2000 100-240V 50-60Hz EAR99 EE HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -747,7 +747,7 @@
           "taxes": []
         },
         {
-          "description": "CENTRIFUG 2010 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+          "description": "CENTRIFUG 2010 100-240V 50-60Hz EAR99 EE HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",
@@ -760,7 +760,7 @@
           "taxes": []
         },
         {
-          "description": "LactoScope 300 HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
+          "description": "LactoScope 300 EAR99 CN HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",

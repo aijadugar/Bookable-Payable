@@ -2,15 +2,15 @@
   "file": "INV-02.pdf",
   "payables": [
     {
-      "invoice_number": "#9972-907",
+      "invoice_number": "9972-907",
       "invoice_date": "2026-03-18",
       "due_date": "2026-04-01",
       "invoice_type": "INVOICE",
       "currency": "EUR",
       "supplier": {
-        "name": "Meridian Logistics OÜ",
+        "name": "Northwind Technology OÜ",
         "supplier_id": "",
-        "address": "Avenida Central 22\n50106 Tartu linn\nEstonia",
+        "address": "Market Road 15\nHarjumaa\n10134 Tallinn\nEstonia",
         "vat_id": ""
       },
       "buyer": {
@@ -92,25 +92,12 @@
           "taxes": []
         },
         {
-          "description": "DJ laud 2m x 0,5m h=1m",
+          "description": "DJ laud 2m x 0,5m h=1m Kaasas must seelik",
           "item_type": "GOODS",
           "uom": "1 päev",
           "quantity": "1",
           "unit_price": "18.00",
           "total": "18.00",
-          "discount": "",
-          "discount_percentage": "",
-          "tax_rate": "",
-          "tax_amount": "",
-          "taxes": []
-        },
-        {
-          "description": "Kaasas must seelik",
-          "item_type": "GOODS",
-          "uom": "",
-          "quantity": "",
-          "unit_price": "",
-          "total": "",
           "discount": "",
           "discount_percentage": "",
           "tax_rate": "",

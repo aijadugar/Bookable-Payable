@@ -44,15 +44,11 @@
     },
     {
       "doc_type": "Delivery note",
-      "reason": "heading 'Delivery note' is not a payable document (pages [11])"
+      "reason": "heading 'Delivery note' is not a payable document (pages [11, 13, 14, 15])"
     },
     {
       "doc_type": "Delivery note",
       "reason": "heading 'Delivery note' is not a payable document (pages [12])"
-    },
-    {
-      "doc_type": "Shipment Receipt",
-      "reason": "no printed total (pages [15])"
     }
   ]
 }

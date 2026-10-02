@@ -2,12 +2,15 @@
   {
     "invoice_number": "",
     "taxes": [
+      "? 13,00: ambiguous (rate only)",
       "IVA 13,00: ambiguous (rate only)"
     ],
     "derived": [
       "line 1: unit price taken from printed total (printed '123,36' does not foot)"
     ],
-    "warnings": [],
+    "warnings": [
+      "header tax block repeats the line-level taxes; kept on lines only"
+    ],
     "supplier": "no match",
     "buyer": "no match",
     "payment_term": "no match",

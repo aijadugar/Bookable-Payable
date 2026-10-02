@@ -4,7 +4,7 @@
       "page_numbers": [
         1
       ],
-      "title_text": "Credit Note No .: 5900366703",
+      "title_text": "Credit Note No.: 5900366703",
       "invoice_number": "5900366703",
       "invoice_date": "15/04/2026",
       "due_date": "",
@@ -14,9 +14,9 @@
       "currency_text": "GBP",
       "price_basis_text": "",
       "supplier_name": "Blackpine Consulting Limited",
-      "supplier_address": "Parnu mnt 50\nChippenham\nSN14 OGF",
+      "supplier_address": "Parnu mnt 50\nBahnhofstrasse 65\nChippenham\nSN14 OGF",
       "supplier_vat_id": "GB447324473",
-      "supplier_tax_id": "Reg no .: 5383241",
+      "supplier_tax_id": "",
       "supplier_iban": "GB73ETPB85770231331598",
       "buyer_name": "Northwind Services UK Limited",
       "buyer_address": "Jalan Ampang 157\nJalan Ampang 175\nLondon SE1 4GT\nUNITED KINGDOM",
@@ -83,7 +83,7 @@
         "846.03"
       ],
       "header_tax_base_amounts": [
-        "4,230.14"
+        ""
       ],
       "printed_discount_amount": "",
       "printed_freight_charges": "",
@@ -101,6 +101,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Address\nJonas Costa\nNorthwind Services UK Limited\nJalan Ampang 207\n211 Old St\nLondon EC1V 9NR\nUNITED KINGDOM\nAlex Kask | REF-11966",
         "credit invoice 0394289238",
         "failed delivery"
       ]

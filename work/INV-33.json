@@ -25,7 +25,7 @@
         ""
       ],
       "line_descriptions": [
-        "PROJECT : Pillar Signage Panel For Shuttle Service At T2\nCoach Bay (Lot No. 8)\n\nProcess : Supply of 2mm thick clear poly-carbonate sheet with reverse\nblack color base & install onto existing pillar with A3 size\ndigital print Matt lamination onto panel surface. Please\nnote; drilling work is applicable for this job (Day Work).\n*Excluding any dismantling work.\n\nPanel Size : 500mm(W) x 500mm(H)"
+        "PROJECT : Pillar Signage Panel For Shuttle Service At T2\nCoach Bay (Lot No. 8)\nProcess : Supply of 2mm thick clear poly-carbonate sheet with reverse\nblack color base & install onto existing pillar with A3 size\ndigital print Matt lamination onto panel surface. Please\nnote; drilling work is applicable for this job (Day Work).\n*Excluding any dismantling work.\nPanel Size : 500mm(W) x 500mm(H)"
       ],
       "line_quantities": [
         "01"
@@ -77,17 +77,17 @@
       "printed_total_tax": "",
       "printed_gross_total": "$250.00",
       "printed_amount_due": "",
-      "other_total_labels": [],
-      "other_total_amounts": [],
+      "other_total_labels": [
+        "Total"
+      ],
+      "other_total_amounts": [
+        "$250.00"
+      ],
       "notes": [
         "Remarks : Design & Ready FA for production are all to be provided by client!",
         "Future replacement of A3 size shuttle schedule per pc @ S$70.00 per trip",
         "* Please kindly endorse and scan via email back to us once you have received this Invoice. Thank you.",
-        "* Cheque payment is to be issued to : AD NOTIONS INT'L PTE LTD",
-        "Job Ref. : CAG/ST/8074/06/17",
-        "Project NRIC: PD008 & PD009",
-        "Project officer: 0058/1718",
-        "Cost Centre/ GL: 42AGEAE /50701002"
+        "* Cheque payment is to be issued to : AD NOTIONS INT'L PTE LTD"
       ]
     }
   ],

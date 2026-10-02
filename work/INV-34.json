@@ -14,9 +14,9 @@
       "payment_terms_text": "",
       "po_number": "",
       "currency_text": "$",
-      "price_basis_text": "Subtotal (ex GST)",
+      "price_basis_text": "(ex GST)",
       "supplier_name": "Asian Pacific Serviced Offices Pty Ltd",
-      "supplier_address": "Level 3, 480 Collins Street\nMelbourne VIC 3000",
+      "supplier_address": "Level 3, 480 Collins Street\nMelbourne VIC 3000\nPh: 03-8610 6333\nFax: 03-8610 6334",
       "supplier_vat_id": "",
       "supplier_tax_id": "11 068 012 653",
       "supplier_iban": "",
@@ -91,22 +91,22 @@
         "Previous Balance",
         "Payments",
         "Adjustments",
-        "Current Charges"
+        "Total Due:"
       ],
       "other_total_amounts": [
-        "$621.32 ",
+        "$621.32",
         "$621.32",
         "$0.00",
         "$572.00"
       ],
       "notes": [
-        "Customer Number: 2473130",
+        "Customer Number 2473130",
         "Biller Code: 14746",
         "Ref: 2473130",
         "BSB No: 083-004",
         "Account No: 947598148",
-        "Site: 480 Collins Serviced Offices",
-        "Period: 20/06/2015 - 19/07/2015"
+        "Customer Ref No: 2473130",
+        "Telephone & Internet Banking - BPAY\nContact your bank or financial institution to make this payment from your cheque, savings, debit, credit card or transaction account. More info: www.bpay.com.au"
       ]
     }
   ],

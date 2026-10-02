@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Ashford Systems",
         "supplier_id": "",
-        "address": "402 Road SC 29526 USA",
+        "address": "402 Road SC 29526 Country of Registration USA",
         "vat_id": ""
       },
       "buyer": {
@@ -19,7 +19,7 @@
         "location_code": ""
       },
       "payment_term_id": "",
-      "po_number": "AF-538013",
+      "po_number": "",
       "po_id": "",
       "gross_total": "1995.00",
       "subtotal": "",
@@ -32,7 +32,7 @@
       "taxes": [],
       "line_items": [
         {
-          "description": "Sponsorship: Singular sponsor for Friday night Welcome, Jazz and cocktail 2 hour Primary logo on our website advertising Hearing Healthcare Conference Advertising via Constant Contact (x 4 ads) Logo on lanyards and/or name tags Logo on drink tickets Exhibit table (first choice on location) Ability to provide logo marked goodies to all attendees",
+          "description": "Sponsorship - \" Singular sponsor for Friday night Welcome, Jazz and cocktail 2 hour Primary logo on our website advertising Hearing Healthcare Conference Advertising via Constant Contact (x 4 ads) \" Logo on lanyards and/or name tags \" Logo on drink tickets Exhibit table (first choice on location) \" Ability to provide logo marked \" goodies\" to all attendees",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",

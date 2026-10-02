@@ -2,8 +2,7 @@
   "documents": [
     {
       "page_numbers": [
-        1,
-        2
+        1
       ],
       "title_text": "FAC A98/712",
       "invoice_number": "FAC A98/712",
@@ -11,16 +10,16 @@
       "due_date": "2026-05-13",
       "invoice_type_text": "FAC",
       "payment_terms_text": "Pagamento Credito",
-      "po_number": "9448",
+      "po_number": "",
       "currency_text": "EUR",
-      "price_basis_text": "",
+      "price_basis_text": "(Alínea f do Nº 5 do Artº 36 CIVA) Os artigos facturados foram colocados à disposição do adquirente em 2026-04-13",
       "supplier_name": "Fairmont Services LDA",
       "supplier_address": "High Street 34\n1000-137 LISBOA\nSupport Services PT Unipessoal, Lda\nro 224\nLisboa",
       "supplier_vat_id": "PT456472637",
       "supplier_tax_id": "029461956",
       "supplier_iban": "PT03 3800 2817 0335 4051 0822 4",
-      "buyer_name": "Kingsley Partners LDA",
-      "buyer_address": "Rua do Ouro 224\n1250-148 Lisboa",
+      "buyer_name": "Support Services PT Unipessoal, Lda",
+      "buyer_address": "ro 224\nLisboa",
       "buyer_vat_id": "353598648",
       "line_item_numbers": [
         "C6",
@@ -115,23 +114,168 @@
       "printed_total_discount": "0,00",
       "printed_total_tax": "32,91",
       "printed_gross_total": "176,00",
-      "printed_amount_due": "",
+      "printed_amount_due": "176,00",
       "other_total_labels": [
         "TOTAL BRUTO",
         "DESCONTO LINHA",
-        "DESCONTO GLOBAL"
+        "DESCONTO GLOBAL",
+        "TOTAL LIQUIDO"
       ],
       "other_total_amounts": [
         "176,00",
         "0,00",
-        "0,00"
+        "0,00",
+        "143,09"
       ],
       "notes": [
-        "(Alínea f do Nº 5 do Artº 36 CIVA) Os artigos facturados foram colocados à disposição do adquirente em 2026-04-13",
-        "anFo - Processado por programa certificado nº 1217/AT - Sage",
+        "Capital Social: 9975.96€",
+        "Registada na C.R.C.de LX. N.º2888",
+        "E-Mail: lena.silva@larkspur-partners.com",
+        "V/ Documento 9448",
+        "Transporte V/Viatura",
         "Hora de Carga: 12:38",
         "Local de Carga: N/INSTALACOES",
-        "Local de Descarga: Rua do Ouro 224 1250-148 Lisboa"
+        "Local de Descarga: Rua do Ouro 224 1250-148 Lisboa",
+        "anFo - Processado por programa certificado nº 1217/AT - Sage"
+      ]
+    },
+    {
+      "page_numbers": [
+        2
+      ],
+      "title_text": "FAC A98/712",
+      "invoice_number": "FAC A98/712",
+      "invoice_date": "2026-04-13",
+      "due_date": "2026-05-13",
+      "invoice_type_text": "FAC",
+      "payment_terms_text": "Pagamento Credito",
+      "po_number": "",
+      "currency_text": "EUR",
+      "price_basis_text": "(Alínea f do Nº 5 do Artº 36 CIVA) Os artigos facturados foram colocados à disposição do adquirente em 2026-04-13",
+      "supplier_name": "Fairmont Services LDA",
+      "supplier_address": "High Street 34\n1000-137 LISBOA\nSupport Services PT Unipessoal, Lda\nro 224\nLisboa",
+      "supplier_vat_id": "PT456472637",
+      "supplier_tax_id": "029461956",
+      "supplier_iban": "PT03 3800 2817 0335 4051 0822 4",
+      "buyer_name": "Support Services PT Unipessoal, Lda",
+      "buyer_address": "ro 224\nLisboa",
+      "buyer_vat_id": "353598648",
+      "line_item_numbers": [
+        "C6",
+        "FL1",
+        "FL2"
+      ],
+      "line_descriptions": [
+        "FOT./IMPRESSÃO A4 CORES 1 ESTUD.",
+        "FOLHA 80g BRANCO",
+        "FOLHA 120g BRANCO"
+      ],
+      "line_quantities": [
+        "400,00",
+        "400,00",
+        "200,00"
+      ],
+      "line_uoms": [
+        "UNI",
+        "UNI",
+        "UNI"
+      ],
+      "line_unit_prices": [
+        "0,400",
+        "0,000",
+        "0,080"
+      ],
+      "line_price_units": [
+        "EUR",
+        "EUR",
+        "EUR"
+      ],
+      "line_discounts": [
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "160,00",
+        "0,00",
+        "16,00"
+      ],
+      "line_tax_names": [
+        "IVA",
+        "IVA",
+        "IVA"
+      ],
+      "line_tax_rates": [
+        "23 %",
+        "23 %",
+        "23 %"
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        2,
+        2,
+        2
+      ],
+      "header_tax_names": [
+        "IVA"
+      ],
+      "header_tax_rates": [
+        "23,0 %"
+      ],
+      "header_tax_amounts": [
+        "32,91"
+      ],
+      "header_tax_base_amounts": [
+        "143,09"
+      ],
+      "printed_discount_amount": "0,00",
+      "printed_freight_charges": "0,00",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [
+        "TOTAL PORTES"
+      ],
+      "charge_amounts": [
+        "0,00"
+      ],
+      "printed_total_quantity": "",
+      "printed_subtotal": "143,09",
+      "printed_total_discount": "0,00",
+      "printed_total_tax": "32,91",
+      "printed_gross_total": "176,00",
+      "printed_amount_due": "176,00",
+      "other_total_labels": [
+        "TOTAL BRUTO",
+        "DESCONTO LINHA",
+        "DESCONTO GLOBAL",
+        "TOTAL LIQUIDO"
+      ],
+      "other_total_amounts": [
+        "176,00",
+        "0,00",
+        "0,00",
+        "143,09"
+      ],
+      "notes": [
+        "Capital Social: 9975.96€",
+        "Registada na C.R.C.de LX. N.º2888",
+        "E-Mail: lena.silva@larkspur-partners.com",
+        "V/ Documento 9448",
+        "Transporte V/Viatura",
+        "Hora de Carga: 12:38",
+        "Local de Carga: N/INSTALACOES",
+        "Local de Descarga: Rua do Ouro 224 1250-148 Lisboa",
+        "anFo - Processado por programa certificado nº 1217/AT - Sage"
       ]
     }
   ],

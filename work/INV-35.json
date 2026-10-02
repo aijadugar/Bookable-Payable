@@ -18,7 +18,7 @@
       "supplier_vat_id": "",
       "supplier_tax_id": "58 - 2659941",
       "supplier_iban": "",
-      "buyer_name": "QUALITY MANAGEMENT DEPT AMERIHEALTH CARITAS LA",
+      "buyer_name": "QUALITY MANAGEMENT DEPT\nAMERIHEALTH CARITAS LA",
       "buyer_address": "PO BOX 83580\nBATON ROUGE, LA 70884-3580",
       "buyer_vat_id": "",
       "line_item_numbers": [
@@ -125,22 +125,28 @@
       "printed_gross_total": "30.25",
       "printed_amount_due": "30.25",
       "other_total_labels": [
-        "Invoice Total",
         "Balance Due"
       ],
       "other_total_amounts": [
-        "30.25",
         "30.25"
       ],
       "notes": [
+        "Customer #: 1817680",
+        "Ship to:\nQUALITY MANAGEMENT DEPT\nAMERIHEALTH CARITAS LA\nPO BOX 83580\nBATON ROUGE, LA 70884-3580",
+        "Records from:\nTULANE UNIVERSITY HOSPITAL CL\n1415 TULANE AVENUE\nNEW ORLEANS, LA 70112",
         "Requested By: AMERIHEALTH CARITAS",
         "DOB: 040712",
         "Patient Name: LOUISCHARLES DARSEY",
         "CLAIM NUMBER: 91021194",
         "Your request for copies of medical records has been processed. Full payment in advance is required and must be received within 30 days of the receipt of this invoice, before your copies will be released. Promptly return the bottom portion of this invoice along with a check for the balance due. To expedite the request or to pay by credit card. please call 800 - 367 - 1500.",
         "FULL PAYMENT REQUIRED PRIOR TO RELEASE OF RECORDS",
-        "Customer #: 1817680",
-        "Records from: QUALITY MANAGEMENT DEPT TULANE UNIVERSITY HOSPITAL CL 1415 TULANE AVENUE NEW ORLEANS, LA 70112"
+        "Pay your invoice online at https://paycioxhealth.com/pay/",
+        "Please remit this amount : $ 30.25 (USD)",
+        "Get future medical records as soon as they are processed, by signing up for secure electronic delivery. Register at: edelivery.cioxhealth.com",
+        "Please return stub with payment.",
+        "Please include invoice number on check.",
+        "To pay invoice online, please go to https://paycioxhealth.com/pay/ or call 800-367-1500.",
+        "Email questions to collections@cioxhealth.com."
       ]
     }
   ],

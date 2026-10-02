@@ -4,7 +4,7 @@
       "page_numbers": [
         1
       ],
-      "title_text": "1120 VERMONT AVENUE ASSOCIATES, LLP\nUTILITIES REIMBURSEMENT",
+      "title_text": "UTILITIES REIMBURSEMENT",
       "invoice_number": "5568",
       "invoice_date": "6/12/2018",
       "due_date": "",
@@ -14,7 +14,7 @@
       "currency_text": "$",
       "price_basis_text": "",
       "supplier_name": "1120 VERMONT AVENUE ASSOCIATES, LLP",
-      "supplier_address": "1120 VERMONT AVENUE ASSOCIATES, LLP",
+      "supplier_address": "",
       "supplier_vat_id": "",
       "supplier_tax_id": "",
       "supplier_iban": "",
@@ -34,16 +34,16 @@
         "4"
       ],
       "line_descriptions": [
-        "SM #0201 Actual 497649 - 497625 = 24 x 1 = 24 at 2nd fl North Mech Room",
-        "Demand at 2nd fl North Mech Room",
-        "SM #0202 Actual 434313 - 434122 = 191 x 1 = 191 at 2nd fl North Mech Room",
-        "Demand at 2nd fl North Mech Room",
-        "SM #0206 Actual 703329 - 687513 = 15816 x 1 = 15816 at",
-        "Demand",
-        "#4369148 815 - 815 = 0 x 1 = 0",
-        "2.1 CCH-042 07/23/03 Standby 42,000 / 12,000 = 3.500",
-        "2.5 WCMS.1.024 07/23/03 24 Hour 24,000 / 12,000 = 2.000",
-        "2.9 CCH-024 01/01/14 24 Hour 60,000 / 12,000 = 5.000"
+        "SM #0201 Actual at 2nd fl North Mech Room",
+        "SM #0201 Demand at 2nd fl North Mech Room",
+        "SM #0202 Actual at 2nd fl North Mech Room",
+        "SM #0202 Demand at 2nd fl North Mech Room",
+        "SM #0206 Actual at",
+        "SM #0206 Demand",
+        "EMERGENCY GENERATOR FUEL USAGE #4369148",
+        "COOLING SYSTEM CONDENSER WATER USAGE 2.1 CCH-042 07/23/03 Standby 42,000 / 12,000",
+        "COOLING SYSTEM CONDENSER WATER USAGE 2.5 WCMS.1.024 07/23/03 24 Hour 24,000 / 12,000",
+        "COOLING SYSTEM CONDENSER WATER USAGE 2.9 CCH-024 01/01/14 24 Hour 60,000 / 12,000"
       ],
       "line_quantities": [
         "24",
@@ -58,16 +58,16 @@
         "5.000"
       ],
       "line_uoms": [
+        "KWH Used",
         "",
+        "KWH Used",
         "",
+        "KWH Used",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Gallons",
+        "Connected Ton",
+        "Connected Ton",
+        "Connected Ton"
       ],
       "line_unit_prices": [
         "0.097958122",
@@ -82,16 +82,16 @@
         "63.93"
       ],
       "line_price_units": [
+        "$/KWH",
         "",
+        "$/KWH",
         "",
+        "$/KWH",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Rate",
+        "Per lease annual fee of CSCW x connected ton / 12 months*",
+        "Per lease annual fee of CSCW x connected ton / 12 months*",
+        "Per lease annual fee of CSCW x connected ton / 12 months*"
       ],
       "line_discounts": [
         "",
@@ -203,38 +203,40 @@
       "printed_extra_charges": "",
       "printed_excise_duties": "",
       "charge_labels": [
-        "Cost Per Ton, Common Equipment PM"
+        "BUILDING SERVICE FEES (4-12000.00 ::: 152.19375)"
       ],
       "charge_amounts": [
-        "23.18"
+        "122.00"
       ],
       "printed_total_quantity": "",
       "printed_subtotal": "",
       "printed_total_discount": "",
       "printed_total_tax": "",
       "printed_gross_total": "2,487.73",
-      "printed_amount_due": "2,487.73",
+      "printed_amount_due": "",
       "other_total_labels": [
         "SUB-TOTAL FOR ELECTRICAL COSTS",
         "SUB-TOTAL FOR EMERGENCY GENERATOR FUEL COSTS",
-        "SUB-TOTAL FOR CONDENSER WATER COSTS"
+        "Total Energy Costs",
+        "Total C.E. PM Costs",
+        "SUB-TOTAL FOR CONDENSER WATER COSTS",
+        "NET CURRENT REIMBURSEMENT"
       ],
       "other_total_amounts": [
         "1,942.07",
         "0.00",
-        "416.65"
+        "393.47",
+        "23.18",
+        "416.65",
+        "2,487.73"
       ],
       "notes": [
-        "Attention: Accountspayable@amerihealthcaritas.com",
         "Service Period: April 30, 2018 to May 29, 2018 (30 Days)",
-        "Total KWH Billed: 16,031",
-        "Non-Residential-GT: $1,570.37",
-        "Total Distribution Charged: 23.200",
-        "Maximum Demand: $266.10",
+        "Total KWH Billed: 16,031 Non-Residential-GT: $1,570.37",
+        "Total Distribution Charged: 23.200 Maximum Demand: $266.10",
         "*24 Hour unit utility costs: $740.71, Lease Hour unit utility costs: $194.7, $26.49 for maintenance and repairs to the 24-hour central plant system; per connected ton",
         "Total Connected Tonnage: 10.500",
-        "Total Energy Costs: $393.47",
-        "BUILDING SERVICE FEES (4-12000.00 ::: 152.19375)",
+        "Cost Per Ton, Common Equipment PM: 2.208",
         "4-02 Amerihealth Utility Reimbursement.xls"
       ]
     }

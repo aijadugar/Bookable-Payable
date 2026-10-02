@@ -1,11 +1,13 @@
 [
   {
-    "invoice_number": "162547",
+    "invoice_number": "16254",
     "taxes": [
       "? 15.00%: ambiguous (rate only)",
       "Tax : no match"
     ],
-    "derived": [],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '276.74' does not foot)"
+    ],
     "warnings": [],
     "supplier": "no match",
     "buyer": "no match",

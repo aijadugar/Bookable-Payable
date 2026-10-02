@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Northwind Services ZA (Pty) Ltd",
         "supplier_id": "",
-        "address": "Unit 7 Block B\nM5 Office Park, Unit 7, Block B,\nEastman\nMaitland\nCape Town\n7405",
+        "address": "Northwind Services ZA (Pty) Ltd\nUnit 7 Block B\nM5 Office Park, Unit 7, Block B,\nEastman\nMaitland\nCape Town\n7405\nTel: 8897228016\nCell: 1044936483",
         "vat_id": "9446639440"
       },
       "buyer": {

@@ -15,7 +15,7 @@
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "Northwind Operations OÜ",
-      "supplier_address": "Northwind Operations OÜ",
+      "supplier_address": "Lindenstrasse 20 CWH\nPL-01-940, Warsaw",
       "supplier_vat_id": "",
       "supplier_tax_id": "27044945",
       "supplier_iban": "",
@@ -23,31 +23,43 @@
       "buyer_address": "High Street 36\n75310 Harju maakond,\nEesti",
       "buyer_vat_id": "",
       "line_item_numbers": [
-        "1",
-        "3",
-        ""
+        "STK-EE003-26-00182",
+        "STK-EE003-26-00158",
+        "STK-EE003-26-00180",
+        "STK-EE003-26-00187",
+        "ÜMARDAMINE"
       ],
       "line_descriptions": [
-        "nondoc",
-        "",
-        "UMVARDAIVIINE"
+        "STK-EE003-26-00182 05-05-26 WAW OSL Northwind Ou CWH Meyer nondoc Clara Hans Lindenstrasse 20 CWH Market Road 67 PL-01-940, Warsaw NO-0196, FUEL PLUS - 0,80",
+        "STK-EE003-26-00158 22-04-26 WAW AMS. Northwind OU CWH Northwind OU Clara Koos Meye Lindenstrasse 20 CWH Het 31A PL-01-940, Warsaw RA FUEL PLUS - 0,68",
+        "STK-EE003-26-00180 30-04-26 ZPE TLL Northwind Operators OU Northwind Operations OU Mare Moreau Vida Kalle FUEL PLUS 0,16 Lindenstrasse 31 Jalan Ampang 3 DE-48153, EE-13619,",
+        "STK-EE003-26-00187 05-05-26 VNO, TIL Northwind OU Northwin OU Alex Moreau samm Kaler FUEL PLUS 0.68 Bahnhofstrasse 69 Jalan Ampang 3 LT-47214, EE-13619,",
+        "ÜMARDAMINE"
       ],
       "line_quantities": [
-        "4.00",
-        "38.00",
+        "4,00",
+        "17,00",
+        "4,00",
+        "17,00",
         ""
       ],
       "line_uoms": [
-        "",
-        "",
+        "Kg",
+        "Kg",
+        "Kg",
+        "Kg",
         ""
       ],
       "line_unit_prices": [
-        "",
-        "",
+        "65,26",
+        "35,41",
+        "25,18",
+        "31,77",
         ""
       ],
       "line_price_units": [
+        "",
+        "",
         "",
         "",
         ""
@@ -55,37 +67,51 @@
       "line_discounts": [
         "",
         "",
+        "",
+        "",
         ""
       ],
       "line_discount_percents": [
         "",
         "",
+        "",
+        "",
         ""
       ],
       "line_totals": [
-        "96.73",
-        "157,78",
+        "96,73",
+        "60,77",
+        "42,89",
+        "54,12",
         "0,01"
       ],
       "line_tax_names": [
         "B",
         "A",
+        "A",
+        "A",
         ""
       ],
       "line_tax_rates": [
-        "0,00%",
-        "24,00%",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "line_tax_amounts": [
-        "0.00",
-        "30,53",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "line_page_numbers": [
-        1,
-        1,
-        1
+        2,
+        2,
+        2,
+        2,
+        2
       ],
       "header_tax_names": [
         "A",
@@ -104,35 +130,50 @@
         "96,73"
       ],
       "printed_discount_amount": "",
-      "printed_freight_charges": "157,62",
+      "printed_freight_charges": "",
       "printed_insurance_charges": "",
-      "printed_extra_charges": "66,36",
+      "printed_extra_charges": "",
       "printed_excise_duties": "",
       "charge_labels": [
         "FUEL",
-        "PLUS -"
+        "PLUS -",
+        "FUEL",
+        "PLUS -",
+        "PLUS",
+        "FUEL",
+        "FUEL",
+        "PLUS"
       ],
       "charge_amounts": [
         "64,04",
-        "2.32"
+        "2,32",
+        "30,67",
+        "0,80",
+        "12,92",
+        "0,68",
+        "0,16",
+        "9,25",
+        "11,20",
+        "0,68"
       ],
       "printed_total_quantity": "42,00",
-      "printed_subtotal": "157,62",
+      "printed_subtotal": "223,98",
       "printed_total_discount": "",
       "printed_total_tax": "30,54",
       "printed_gross_total": "254,52",
-      "printed_amount_due": "223,98",
+      "printed_amount_due": "254,52",
       "other_total_labels": [
-        "Kokku (v.a. KM)"
+        "Kokku (v.a. KM)",
+        "KM Kokku (KM-ga)"
       ],
       "other_total_amounts": [
-        "223,98"
+        "223,98",
+        "254,52"
       ],
       "notes": [
         "Päringud arvete kohta Telefon: E-post: cloverdale-media.com",
         "E-arve operaator Unifiedpost",
-        "Palume: * markida oma maksekorraldusele makstava arve number ja kuupaev",
-        "* märkida saatelehele saatja nimi",
+        "Palume: * markida oma maksekorraldusele makstava arve number ja kuupaev * märkida saatelehele saatja nimi",
         "A = Kliendi poolt arvutatud tegelik kaal V = Kliendi poolt arvutatud mahukaal B = Speedwspoolt arvutatud tegelik kaal Speedwel poolt arvutatud mahukaal M = sega"
       ]
     }

@@ -2,7 +2,7 @@
   "file": "HLD-08.pdf",
   "payables": [
     {
-      "invoice_number": "162547",
+      "invoice_number": "16254",
       "invoice_date": "2026-05-19",
       "due_date": "",
       "invoice_type": "INVOICE",
@@ -19,12 +19,12 @@
         "location_code": ""
       },
       "payment_term_id": "",
-      "po_number": "",
+      "po_number": "9267418170",
       "po_id": "",
       "gross_total": "148941.47",
       "subtotal": "129514.32",
       "total_tax_amount": "19427.15",
-      "discount_amount": "",
+      "discount_amount": "0.00",
       "freight_charges": "",
       "insurance_charges": "",
       "extra_charges": "",
@@ -40,11 +40,11 @@
       ],
       "line_items": [
         {
-          "description": "Hall's Smooth Fruit Punch 1lt M 337521\nWT037912\nCG",
+          "description": "Hall's Smooth Fruit Punch 1lt M 337521 WT037912 CG",
           "item_type": "GOODS",
-          "uom": "1000",
-          "quantity": "468",
-          "unit_price": "276.74",
+          "uom": "",
+          "quantity": "468.01",
+          "unit_price": "276.734087",
           "total": "129514.32",
           "discount": "",
           "discount_percentage": "",

@@ -2,10 +2,10 @@
   {
     "invoice_number": "18109293",
     "taxes": [
-      "KM VAT 24,0 %: rate only",
-      "KM VAT 24,0 %: rate only",
-      "KM VAT 24,0 %: rate only",
-      "KM VAT 24,0 %: rate only",
+      "KM 24,0 %: rate only",
+      "KM 24,0 %: rate only",
+      "KM 24,0 %: rate only",
+      "KM 24,0 %: rate only",
       "KM 24,0 %: rate only"
     ],
     "derived": [

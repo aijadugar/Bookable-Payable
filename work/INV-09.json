@@ -10,15 +10,15 @@
       "invoice_date": "2025 / 06 / 06",
       "due_date": "2025 / 06 / 27",
       "invoice_type_text": "ARVE",
-      "payment_terms_text": "Arve tähtajaks mittetasumisel on Cloverdale Tradiçõigus nouda viivist 0,1% tasumata summast iga maksetähtpäeva ületanud päeva eest.",
-      "po_number": "PTGGM351961374",
+      "payment_terms_text": "Arve tähtajaks mittetasumisel on Cloverdale Tradiçõigus nouda viivist 0,1% tasumata summast iga maksetähtpäeva ületanud päeva eest. Lisandub\nviivisarve väljastamise tasu 40 eurot.",
+      "po_number": "",
       "currency_text": "EUR",
       "price_basis_text": "",
       "supplier_name": "Cloverdale Trading",
       "supplier_address": "10112, Gartenweg 13\nHarju county ESTONIA",
       "supplier_vat_id": "EE418070965",
       "supplier_tax_id": "15116864",
-      "supplier_iban": "RE516678092588562155",
+      "supplier_iban": "EE516678092588562155",
       "buyer_name": "Northwind Operations OÜ",
       "buyer_address": "Lindenstrasse 15\nEE-10134 TALLINN",
       "buyer_vat_id": "EE398766194",
@@ -75,7 +75,7 @@
         1
       ],
       "header_tax_names": [
-        "VAT amount"
+        "Käibemaks VAT amount"
       ],
       "header_tax_rates": [
         ""
@@ -102,20 +102,17 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
-        "Kliendi nr. Client No. EMK_2492_177233378",
-        "Viide maksmisel Payment reference 210020201117683950",
+        "EMK_2492_177233378",
+        "210020201117683950",
         "maria.tamm@northwind.eu",
-        "Meie viide Our ref. TLLFW19939 /TLL9386486",
-        "Veovahend Vehicle TLL9386486",
-        "Saatmise kuupäev Departure date 2025 / 06 / 06",
-        "Saatja viide Shipper Reference PTGGM351961374",
-        "Tarneklausel Terms of delivery 001 Ismir",
-        "Saabumise kuupäev Arrival date 2025 / 06 / 06",
-        "Vastuvõtja Consignee Northwi@PERATIONS Frielas business park, PT-2660 Frielas",
-        "Lisandub viivisarve väljastamise tasu 40 eurot.",
+        "TLLFW19939 /TLL9386486",
+        "2025 / 06 / 06",
+        "PTGGM351961374",
+        "001 Ismir",
+        "2025 / 06 / 06",
+        "Northwi@PERATIONS\nFrielas business park, PT-2660 Frielas",
         "Cloverdale Tradihas the right to charge interest on arrears 0.1% of the unpaid amount for each day the invoice is overdue. Service fee of 40 EUR applies for every interest invoicing.",
-        "I-arve operaator Unifiedpost",
-        "Pangad, Banks: Oakhaven BaRE516678092588562155 , BIC: SZWGVJOV Redwater BarilE319931502108360825 , BIC: USQNDC2G"
+        "I-arve operaator Unifiedpost"
       ]
     }
   ],

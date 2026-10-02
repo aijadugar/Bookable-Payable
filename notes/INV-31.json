@@ -15,19 +15,31 @@
   {
     "invoice_number": "92990-35018",
     "taxes": [
+      "estimated Gross Receipts Tax 5.90%: no match",
       "Gross Receipts Tax : no match",
       "Sales Tax : no match",
       "State Tax Adjustment : no match",
       "Sales Tax : no match"
     ],
-    "derived": [],
+    "derived": [
+      "line 1: unit price taken from printed total (none printed)",
+      "line 1: quantity not printed, 1 used",
+      "line 4: unit price taken from printed total (none printed)",
+      "line 4: quantity not printed, 1 used",
+      "line 6: unit price taken from printed total (none printed)",
+      "line 6: quantity not printed, 1 used",
+      "line 8: unit price taken from printed total (none printed)",
+      "line 8: quantity not printed, 1 used",
+      "line 9: unit price taken from printed total (none printed)",
+      "line 9: quantity not printed, 1 used",
+      "line 10: unit price taken from printed total (none printed)",
+      "line 10: quantity not printed, 1 used",
+      "line 11: unit price taken from printed total (none printed)",
+      "line 11: quantity not printed, 1 used"
+    ],
     "warnings": [
-      "charge 'Distribution Charges' 2265.75 not placed: extra_charges already filled",
-      "charge 'Distribution Charges' -219.74 not placed: extra_charges already filled",
-      "charge 'Distribution System Improvement Charge' 13.98 not placed: extra_charges already filled",
-      "charge 'Energy Eff & Nonbypassable Trans' 392.98 not placed: extra_charges already filled",
-      "charge 'ADJUSTMENT' -0.01 not placed: extra_charges already filled",
-      "charge 'ENERGY CHARGE: 219744 KH * $0.0595/KH' 13074.77 not placed: extra_charges already filled"
+      "charge 'Hudson Energy Charges (877-483-7669)' 14739.91 not placed: extra_charges already filled",
+      "charge 'TAXES & FEES' 164.87 not placed: extra_charges already filled"
     ],
     "supplier": "no match",
     "buyer": "no match",

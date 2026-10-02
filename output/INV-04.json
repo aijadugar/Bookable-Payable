@@ -1,67 +1,10 @@
 {
   "file": "INV-04.pdf",
-  "payables": [
+  "payables": [],
+  "declined": [
     {
-      "invoice_number": "INV7097292303",
-      "invoice_date": "2025-04-30",
-      "due_date": "2025-05-31",
-      "invoice_type": "INVOICE",
-      "currency": "ZAR",
-      "supplier": {
-        "name": "Larkspur Distribution Meridian Print",
-        "supplier_id": "",
-        "address": "Larkspur Distribution Meridian Print Gartenweg 173 F04, Kiepersol House Bahnhofstrasse 300 Darrenwood Gauteng 2195 South Africa",
-        "vat_id": ""
-      },
-      "buyer": {
-        "company_code": "",
-        "business_unit_code": "",
-        "location_code": ""
-      },
-      "payment_term_id": "",
-      "po_number": "8690782647",
-      "po_id": "",
-      "gross_total": "19730.55",
-      "subtotal": "17157.00",
-      "total_tax_amount": "2573.55",
-      "discount_amount": "",
-      "freight_charges": "",
-      "insurance_charges": "",
-      "extra_charges": "",
-      "excise_duties": "",
-      "taxes": [
-        {
-          "tax_type": "VAT",
-          "tax_name": "TOTAL VAT",
-          "tax_rate": "",
-          "tax_amount": "2573.55",
-          "tax_type_code": ""
-        }
-      ],
-      "line_items": [
-        {
-          "description": "Standard Criminal Verification",
-          "item_type": "GOODS",
-          "uom": "",
-          "quantity": "133",
-          "unit_price": "129.00",
-          "total": "17157.00",
-          "discount": "",
-          "discount_percentage": "",
-          "tax_rate": "",
-          "tax_amount": "",
-          "taxes": [
-            {
-              "tax_type": "",
-              "tax_name": "",
-              "tax_rate": "15",
-              "tax_amount": "",
-              "tax_type_code": ""
-            }
-          ]
-        }
-      ]
+      "doc_type": "TAX INVOICE\nInvoice Date Larkspur Distribution Meridian Print\n30 Apr 2025\nLarkspur Distribution Meridian Print\nGartenweg 173\nNorthwind Services ZA (Pty) Meridian Print Ltd\nINV7097292303\nRua do Ouro 5\nF04, Kiepersol House\nBahnhofstrasse 300\nUnit 7, Block B\nINV7097292303 Darrenwood\nGartenweg 60\nGauteng\nMaitland\n8690782647\n2195\nWESTERN CAPE CAPE TOWN 7405\nSouth Africa\nSOUTH AFRICA\nVAT Number: 9446639440\nDescription\nQuantity Unit Price VAT Amount ZAR\nStandard Criminal Verification\n133.00 129.00 15% 17,157.00\nSubtotal 17,157.00\nTOTAL VAT 2,573.55\nTOTAL ZAR 19,730.55\nLess Amount Credited 13,110.00\nAMOUNT DUE ZAR 6,620.55\nDue Date: 31 May 2025\nOakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV\nPlease use your invoice number as reference when making payment.\nCompany Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa.",
+      "reason": "no printed total (pages [1])"
     }
-  ],
-  "declined": []
+  ]
 }

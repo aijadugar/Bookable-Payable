@@ -9,7 +9,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Consolidated Invoice",
       "payment_terms_text": "",
       "po_number": "",
       "currency_text": "EUR",
@@ -46,27 +46,27 @@
         "21"
       ],
       "line_descriptions": [
-        "REA,DIAG,POLY CHAIN REACT",
-        "REA,DIAG,POLY CHAIN REACT,",
-        "PLSTS,GSKTS, WASHERS, OTHE",
-        "OTH.PLSTIC MAT,OTH, OTH,OTH",
-        "GLASSWARE,LAB,HYG, PHARM,OTH",
-        "FILT/PURIF MACH PARTS, OTH",
-        "FLOUR MILL AND GRAIN MILL",
-        "OTH PRTS/MECH APPS,W/ ND F",
-        "OTH PRTS/MECH APPS,W/ IND F",
-        "TUNGSTEN HALGN LMP <= 100V,OTHER",
+        "REA,DIAG,POLY CHAIN\nREACT",
+        "REA,DIAG,POLY CHAIN\nREACT,",
+        "PLSTS,GSKTS, WASHERS,\nOTHE",
+        "OTH.PLSTIC MAT,OTH,\nOTH,OTH",
+        "GLASSWARE,LAB,HYG,\nPHARM,OTH",
+        "FILT/PURIF MACH PARTS,\nOTH",
+        "FLOUR MILL AND GRAIN\nMILL",
+        "OTH PRTS/MECH APPS,W/\nND F",
+        "OTH PRTS/MECH APPS,W/\nIND F",
+        "TUNGSTEN HALGN\nLMP <= 100V,OTHER",
         "ULTRAVIOLET LAMP",
         "ULTRAVIOLET LAMP",
-        "ELNDLEEBBN TERS/G",
-        "ELNDLEEBBN TERS/G",
-        "PRT ELEC INSTRUMENT,902720",
-        "PRT ELEC NSTRUMENT,902720",
-        "PRT ELEC INSTRUMENT,902720",
-        "PRT ELEC INSTRUMENT,902730",
-        "PT ELC INST, OT,902720/30/5",
-        "PT ELC INST, OT,902720/30/5",
-        "PT ELC INST, OT,902720/30/5"
+        "ELNDLEEBBN\nTERS/G",
+        "ELNDLEEBBN\nTERS/G",
+        "PRT ELEC\nINSTRUMENT,902720",
+        "PRT ELEC\nINSTRUMENT,902720",
+        "PRT ELEC\nINSTRUMENT,902720",
+        "PRT ELEC\nINSTRUMENT,902730",
+        "PT ELC INST,\nOT,902720/30/5",
+        "PT ELC INST,\nOT,902720/30/5",
+        "PT ELC INST,\nOT,902720/30/5"
       ],
       "line_quantities": [
         "2",
@@ -229,9 +229,75 @@
         "2.287,88",
         "456,24"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "line_page_numbers": [
         1,
         1,
@@ -275,6 +341,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place"
       ]
     },
@@ -286,7 +353,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505419603/66691406",
       "currency_text": "TRY",
@@ -303,12 +370,15 @@
         "1"
       ],
       "line_descriptions": [
-        "PER210108B Ref. sample Glutomatic HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other"
+        "PER210108B Ref. sample Glutomatic\nHTS US: 3822190080 - REA,DIAG,POLY CHAIN\nREACT,\nHTS EU: 38221900 - Diagnostic or laboratory\nreagents on a backing, prepared diagnostic or\nlaboratory reagents whether or not on a backing,\nwhether or not put up in the form of kits; Other"
       ],
       "line_quantities": [
         "1"
       ],
       "line_uoms": [
+        "",
+        "",
+        "",
         ""
       ],
       "line_unit_prices": [
@@ -326,9 +396,15 @@
       "line_totals": [
         "1.872,11"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
       "line_page_numbers": [
         3
       ],
@@ -352,6 +428,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -365,7 +442,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505419505/5229132",
       "currency_text": "TRY",
@@ -384,9 +461,9 @@
         "3"
       ],
       "line_descriptions": [
-        "N6101276 Vial Diffuser Molding HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories",
-        "09923032 13 mm Black Plastic Screw Cap HTS US: 3926909989 - OTH.PLSTIC MAT,OTH, OTH,OTH HTS EU: 39269097 - Other",
-        "09923031 4 mL Clr Scr Vial 15 x 45 13-425 PER PC. HTS US: 7017200000 - GLASSWARE,LAB,HYG, PHARM,OTH HTS EU: 70172000 - Of other glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 ℃ to 300 ℃"
+        "N6101276 Vial Diffuser Molding\nHTS US: 9027905625 - PRT ELEC\nINSTRUMENT,902720\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
+        "09923032 13 mm Black Plastic Screw Cap\nHTS US: 3926909989 - OTH.PLSTIC MAT,OTH,\nOTH,OTH\nHTS EU: 39269097 - Other",
+        "00 09923031 4 mL Clr Scr Vial 15 x 45 13-425 PER PC.\nHTS US: 7017200000 - GLASSWARE,LAB,HYG,\nPHARM,OTH\nHTS EU: 70172000 - Of other glass having a linear\ncoefficient of expansion not exceeding 5 x 10-6 per\nKelvin within a temperature range of 0 ℃ to 300 ℃"
       ],
       "line_quantities": [
         "8",
@@ -400,8 +477,8 @@
       ],
       "line_unit_prices": [
         "61,92",
-        "73,46",
-        "68,14"
+        "3.46",
+        "8,14"
       ],
       "line_price_units": [
         "",
@@ -423,9 +500,21 @@
         "587,68",
         "545,12"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        ""
+      ],
       "line_page_numbers": [
         4,
         4,
@@ -451,6 +540,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -463,7 +553,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505419825/5222652",
       "currency_text": "TRY",
@@ -480,7 +570,7 @@
         "1"
       ],
       "line_descriptions": [
-        "N8145368 PFA-ST Nebulizer for prepFAST HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories"
+        "N8145368 PFA-ST Nebulizer for prepFAST\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories"
       ],
       "line_quantities": [
         "2"
@@ -503,9 +593,15 @@
       "line_totals": [
         "92.366,96"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
       "line_page_numbers": [
         6
       ],
@@ -529,6 +625,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -542,7 +639,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505419739/5229131",
       "currency_text": "TRY",
@@ -561,9 +658,9 @@
         "3"
       ],
       "line_descriptions": [
-        "W1026356 Nickel Skimmer Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
-        "W1033995 HyperSkimmer Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories",
-        "W1033612 Nickel Sampler Cone for NexION HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories"
+        "W1026356 Nickel Skimmer Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
+        "W1033995 HyperSkimmer Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories",
+        "W1033612 Nickel Sampler Cone for NexION\nHTS US: 9027905695 - PT ELC INST,\nOT,902720/30/5\nHTS EU: 90279000 - Microtomes; parts and\naccessories"
       ],
       "line_quantities": [
         "4",
@@ -576,7 +673,7 @@
         ""
       ],
       "line_unit_prices": [
-        "4.896,42",
+        "4.896.42",
         "3.033,16",
         "5.700,66"
       ],
@@ -600,9 +697,21 @@
         "12.132,64",
         "22.802,64"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        ""
+      ],
       "line_page_numbers": [
         7,
         7,
@@ -628,6 +737,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -640,7 +750,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505416600/66690602",
       "currency_text": "TRY",
@@ -657,7 +767,7 @@
         "1"
       ],
       "line_descriptions": [
-        "Z0626505505 OEM- Deuterium lamp HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other"
+        "Z0626505505 TOEM- Deuterium lamp\nHTS US: 8539490040 - ULTRAVIOLET LAMP\nHTS EU: 85394900 - Ultraviolet or infra-red lamps;\narc lamps; Other"
       ],
       "line_quantities": [
         "1"
@@ -680,9 +790,15 @@
       "line_totals": [
         "16.500,40"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
       "line_page_numbers": [
         9
       ],
@@ -706,6 +822,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -718,7 +835,7 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Invoice",
+      "invoice_type_text": "Customs Detailed Invoice",
       "payment_terms_text": "",
       "po_number": "5505419906/5229766",
       "currency_text": "TRY",
@@ -735,7 +852,7 @@
         "1"
       ],
       "line_descriptions": [
-        "07150014 MPLC Concept Holder, 10 cm HTS US: 8421990180 - FILT/PURIF MACH PARTS,OTH, HTS EU: 84219990 - Other"
+        "07150014 MPLC Concept Holder, 10 cm\nHTS US: 8421990180 - FILT/PURIF MACH\nPARTS,OTH,\nHTS EU: 84219990 - Other"
       ],
       "line_quantities": [
         "1"
@@ -744,7 +861,7 @@
         ""
       ],
       "line_unit_prices": [
-        "8.202,20"
+        "8.202.20"
       ],
       "line_price_units": [
         ""
@@ -756,11 +873,17 @@
         ""
       ],
       "line_totals": [
-        "8.202,20"
+        "8.202.20"
       ],
-      "line_tax_names": [],
-      "line_tax_rates": [],
-      "line_tax_amounts": [],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
       "line_page_numbers": [
         10
       ],
@@ -784,6 +907,7 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Standard to TR",
         "Delivered at Place",
         "2083596115"
       ]
@@ -797,18 +921,18 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505419741/5229612",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1",
@@ -817,10 +941,10 @@
         "4"
       ],
       "line_descriptions": [
-        "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
-        "Hybrid XLT 3-Slot Organics Torch Avio HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
-        "PFA-ST MicroFlow Nebulizer for Optima HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
-        "STD - PHOSPHORUS 1000 uG/ML 125ML HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other"
+        "Titanium 1,000 ug/mL H20/Tr HF ICP 125mL EAR99 IN HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other",
+        "Hybrid XLT 3-Slot Organics Torch Avio EAR99 US HTS US: 9027905630 - PRT ELEC INSTRUMENT,902730 HTS EU: 90279000 - Microtomes; parts and accessories",
+        "PFA-ST MicroFlow Nebulizer for Optima EAR99 US HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other",
+        "STD - PHOSPHORUS 1000 uG/ML 125ML EAR99 IN HTS US: 3822190080 - REA,DIAG,POLY CHAIN REACT, HTS EU: 38221900 - Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of kits; Other"
       ],
       "line_quantities": [
         "1",
@@ -908,6 +1032,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920468",
+        "Sales Order 5229805",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -921,24 +1048,24 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505418938/66691189",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1"
       ],
       "line_descriptions": [
-        "KIT - SQ8 HEADAMP HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories"
+        "KIT - SQ8 HEADAMP EAR99 US HTS US: 9027905695 - PT ELC INST, OT,902720/30/5 HTS EU: 90279000 - Microtomes; parts and accessories"
       ],
       "line_quantities": [
         "2"
@@ -993,6 +1120,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920471",
+        "Sales Order 5229134",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1006,26 +1136,26 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505420114/66691592",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1",
         "2"
       ],
       "line_descriptions": [
-        "GASKET HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
-        "HS-40 SS Needle HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
+        "GASKET EAR99 SG HTS US: 3926904590 - PLSTS,GSKTS, WASHERS, OTHE HTS EU: 39269097 - Other",
+        "HS-40 SS Needle EAR99 DE HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
       ],
       "line_quantities": [
         "3",
@@ -1091,6 +1221,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920472",
+        "Sales Order 5229907",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1104,24 +1237,24 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505420246/66691631",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1"
       ],
       "line_descriptions": [
-        "BRAZE ASSY ASXL CHARCOAL TRAP HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
+        "BRAZE ASSY ASXL CHARCOAL TRAP EAR99 SG HTS US: 9027905625 - PRT ELEC INSTRUMENT,902720 HTS EU: 90279000 - Microtomes; parts and accessories"
       ],
       "line_quantities": [
         "2"
@@ -1176,6 +1309,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920473",
+        "Sales Order 5230031",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1189,24 +1325,24 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505417511/5228031",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1"
       ],
       "line_descriptions": [
-        "Avio 220 Max Base Instrument HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
+        "Avio 220 Max Base Instrument 3A999.f SG HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
       ],
       "line_quantities": [
         "1"
@@ -1261,6 +1397,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920461",
+        "Sales Order 5228208",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1274,24 +1413,24 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505419356/5229129",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1"
       ],
       "line_descriptions": [
-        "1000uL wide bore tips, QTY 2304 HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other"
+        "1000uL wide bore tips, QTY 2304 EAR99 DE HTS US: 8479909596 - OTH PRTS/MECH APPS, W/IND F HTS EU: 84799070 - Other; Other"
       ],
       "line_quantities": [
         "1"
@@ -1346,6 +1485,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920462",
+        "Sales Order 5229520",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1359,26 +1501,26 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505419742/5229609",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1",
         "2"
       ],
       "line_descriptions": [
-        "ELP UV Lamp Complete HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
-        "Tungsten Halogen Lamp Assembly HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V"
+        "ELP UV Lamp Complete EAR99 DE HTS US: 8539490040 - ULTRAVIOLET LAMP HTS EU: 85394900 - Ultraviolet or infra-red lamps; arc lamps; Other",
+        "Tungsten Halogen Lamp Assembly EAR99 DE HTS US: 8539212080 - TUNGSTEN HALGN LMP <= 100V,OTHER HTS EU: 85392198 - Other, for a voltage; Not exceeding 100 V"
       ],
       "line_quantities": [
         "1",
@@ -1444,6 +1586,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920467",
+        "Sales Order 5229804",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"
@@ -1458,18 +1603,18 @@
       "invoice_number": "554701215",
       "invoice_date": "01/06/2026",
       "due_date": "",
-      "invoice_type_text": "Customs Detailed Invoice",
+      "invoice_type_text": "Invoice",
       "payment_terms_text": "",
       "po_number": "5505420084",
       "currency_text": "TRY",
-      "price_basis_text": "",
+      "price_basis_text": "Extended Value TRY",
       "supplier_name": "Novatek U.S. LLC",
-      "supplier_address": "Novatek U.S. LLC\nRedwater Mobility BV\nAvenida Central 455\n1950 KRAAINEM\nBELGIUM",
-      "supplier_vat_id": "BE2480635349",
-      "supplier_tax_id": "BE2480635349",
+      "supplier_address": "Novatek U.S. LLC\nc/o Fairmont Print\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
       "supplier_iban": "",
       "buyer_name": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ",
-      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nKadaka tee 711\n1830 MACHELEN\nBELGIUM",
+      "buyer_address": "Novatek Sağlık ve Çevre Bilim.LTDŞTİ\nPamPamminh@22102\nGadennegdeg 14\n34912 KAĞITHANE - ISTANBUL CITY\nTURKEY",
       "buyer_vat_id": "TR6917179205",
       "line_item_numbers": [
         "1",
@@ -1477,9 +1622,9 @@
         "3"
       ],
       "line_descriptions": [
-        "GLUTOMATIC 2000 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
-        "CENTRIFUG 2010 100-240V 50-60Hz HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
-        "LactoScope 300 HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
+        "GLUTOMATIC 2000 100-240V 50-60Hz EAR99 EE HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+        "CENTRIFUG 2010 100-240V 50-60Hz EAR99 EE HTS US: 8437800010 - FLOUR MILL AND GRAIN MILL HTS EU: 84378000 - Other machinery",
+        "LactoScope 300 EAR99 CN HTS US: 9027304080 - ELNDLEEBBN SPECTROMETERS/G HTS EU: 90273000 - Spectrometers, spectrophotometers and spectrographs using optical radiation (UV, visible, IR)"
       ],
       "line_quantities": [
         "1",
@@ -1556,6 +1701,9 @@
       "other_total_labels": [],
       "other_total_amounts": [],
       "notes": [
+        "Delivery Group 5191407",
+        "Delivery 830920469",
+        "Sales Order 5229908",
         "Standard to TR",
         "Delivered at Place",
         "2083596115"

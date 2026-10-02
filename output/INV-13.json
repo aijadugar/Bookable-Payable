@@ -10,7 +10,7 @@
       "supplier": {
         "name": "Cloverdale Supply OÜ",
         "supplier_id": "",
-        "address": "Aadress: High Street 64 , Eesti",
+        "address": "High Street 64 , Eesti",
         "vat_id": "EE085819779"
       },
       "buyer": {
@@ -29,22 +29,7 @@
       "insurance_charges": "",
       "extra_charges": "",
       "excise_duties": "",
-      "taxes": [
-        {
-          "tax_type": "",
-          "tax_name": "0%",
-          "tax_rate": "0",
-          "tax_amount": "0.00",
-          "tax_type_code": ""
-        },
-        {
-          "tax_type": "",
-          "tax_name": "24%",
-          "tax_rate": "24",
-          "tax_amount": "25023.12",
-          "tax_type_code": "EST_240_VAT"
-        }
-      ],
+      "taxes": [],
       "line_items": [
         {
           "description": "Parking fee EUROPARK",
@@ -570,19 +555,6 @@
               "tax_type_code": "EST_240_VAT"
             }
           ]
-        },
-        {
-          "description": "Arve koostas: Martin Vidal",
-          "item_type": "GOODS",
-          "uom": "",
-          "quantity": "",
-          "unit_price": "",
-          "total": "",
-          "discount": "",
-          "discount_percentage": "",
-          "tax_rate": "",
-          "tax_amount": "",
-          "taxes": []
         }
       ]
     }

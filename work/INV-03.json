@@ -10,18 +10,18 @@
       "invoice_date": "25 May 2025",
       "due_date": "8 Jun 2025",
       "invoice_type_text": "TAX INVOICE",
-      "payment_terms_text": "50% deposit with the balance payable on completion.",
+      "payment_terms_text": "We Clean It All cc requires a 50% deposit with the balance payable on completion.",
       "po_number": "PO-ZA218-81-057014",
       "currency_text": "ZAR",
       "price_basis_text": "",
       "supplier_name": "Cloverdale Print Ltd",
-      "supplier_address": "Bahnhofstrasse 9\nBahnhofstrasse 9\nTel: 301 266 7428\nEmail: anja.lind@silverbrook-services.za\nWeb: www.blackpine-systems.za\nVAT: 3590736231",
+      "supplier_address": "Bahnhofstrasse 9\nBahnhofstrasse 9\nTel: 301 266 7428\nEmail: anja.lind@silverbrook-services.za\nWeb: www.blackpine-systems.za\nVAT: 3590736231\nCompany Registration No: 8976/781226/23 . Registered Office: PO Box 5230, Cresta, Johannesburg, Gauteng, 2118, South Africa.",
       "supplier_vat_id": "3590736231",
-      "supplier_tax_id": "",
-      "supplier_iban": "",
+      "supplier_tax_id": "3590736231",
+      "supplier_iban": "42354079285",
       "buyer_name": "Northwind Services ZA (Pty) Ltd",
       "buyer_address": "9446639440 - Maria Kask",
-      "buyer_vat_id": "",
+      "buyer_vat_id": "9446639440",
       "line_item_numbers": [
         "Item14607"
       ],
@@ -50,7 +50,7 @@
         "7,434.78"
       ],
       "line_tax_names": [
-        "VAT"
+        ""
       ],
       "line_tax_rates": [
         "15%"
@@ -86,17 +86,21 @@
       "printed_total_tax": "1,115.22",
       "printed_gross_total": "8,550.00",
       "printed_amount_due": "8,550.00",
-      "other_total_labels": [
-        "TOTAL ZAR"
-      ],
-      "other_total_amounts": [
-        "8,550.00"
-      ],
+      "other_total_labels": [],
+      "other_total_amounts": [],
       "notes": [
         "Thank you for supporting We Clean It All",
         "lean It All Banking Details: OakhaRANBERG, BRANCH CODE 506467, ACCOUNT NUMBER 42354079285",
-        "Terms of Service - Please note that we pride ourselves in prompt delivery, efficient cleaning & competitive prices. - We use specialized chemicals and equipment to ensure effective cleaning. - Please note that with heavily soiled premises the price may increase ( advised by management) - Some stains are permanently ingrained on certain surface types and will be communicated to the client. - We cannot be held liable for existing chemical stains on surfaces as well as any other permanent stains. - The premises will be analysed and discussed with the client prior to the commencement of the job - We Clean It All cc requires a 50% deposit with the balance payable on completion. - Queries to be forwarded / addressed with We Clean It All cc within 48 hours of job completion. - Items not listed under description are an additional cost on request. Carpet clean",
-        "Company Registration No: 8976/781226/23 . Registered Office: PO Box 5230, Cresta, Johannesburg, Gauteng, 2118, South Africa."
+        "Terms of Service",
+        "Please note that we pride ourselves in prompt delivery, efficient cleaning & competitive prices.",
+        "We use specialized chemicals and equipment to ensure effective cleaning.",
+        "Please note that with heavily soiled premises the price may increase ( advised by management)",
+        "Some stains are permanently ingrained on certain surface types and will be communicated to the client.",
+        "We cannot be held liable for existing chemical stains on surfaces as well as any other permanent stains.",
+        "The premises will be analysed and discussed with the client prior to the commencement of the job",
+        "Queries to be forwarded / addressed with We Clean It All cc within 48 hours of job completion.",
+        "Items not listed under description are an additional cost on request.",
+        "Carpet clean"
       ]
     }
   ],

@@ -2,20 +2,29 @@
   {
     "invoice_number": "UNA IN 13",
     "taxes": [
-      "B 0,00%: ambiguous (rate only)",
-      "A 24,00%: rate only",
+      "B : no match",
+      "A : no match",
+      "A : no match",
+      "A : no match",
       "A 24,00%: rate only",
       "B 0,00%: ambiguous (rate only)"
     ],
     "derived": [
-      "line 1: unit price taken from printed total (none printed)",
-      "line 2: unit price taken from printed total (none printed)",
-      "line 3: unit price taken from printed total (none printed)",
-      "line 3: quantity not printed, 1 used"
+      "line 1: unit price taken from printed total (printed '65,26' does not foot)",
+      "line 2: unit price taken from printed total (printed '35,41' does not foot)",
+      "line 3: unit price taken from printed total (printed '25,18' does not foot)",
+      "line 4: unit price taken from printed total (printed '31,77' does not foot)",
+      "line 5: unit price taken from printed total (none printed)",
+      "line 5: quantity not printed, 1 used"
     ],
     "warnings": [
-      "charge 'FUEL' 64.04 not placed: extra_charges already filled",
-      "charge 'PLUS -' 2.32 not placed: extra_charges already filled"
+      "charge 'PLUS -' 2.32 not placed: extra_charges already filled",
+      "charge 'FUEL' 30.67 not placed: extra_charges already filled",
+      "charge 'PLUS -' 0.80 not placed: extra_charges already filled",
+      "charge 'PLUS' 12.92 not placed: extra_charges already filled",
+      "charge 'FUEL' 0.68 not placed: extra_charges already filled",
+      "charge 'FUEL' 0.16 not placed: extra_charges already filled",
+      "charge 'PLUS' 9.25 not placed: extra_charges already filled"
     ],
     "supplier": "no match",
     "buyer": "no match",

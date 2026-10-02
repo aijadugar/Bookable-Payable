@@ -2,7 +2,7 @@
   "file": "INV-23.pdf",
   "payables": [
     {
-      "invoice_number": "# EST-259684",
+      "invoice_number": "EST-259684",
       "invoice_date": "2025-12-31",
       "due_date": "",
       "invoice_type": "INVOICE",
@@ -32,28 +32,28 @@
       "taxes": [
         {
           "tax_type": "",
-          "tax_name": "GETFund (2.5%)",
+          "tax_name": "GETFund",
           "tax_rate": "2.5",
           "tax_amount": "8.92",
           "tax_type_code": ""
         },
         {
           "tax_type": "",
-          "tax_name": "NHIL (2.5%)",
+          "tax_name": "NHIL",
           "tax_rate": "2.5",
           "tax_amount": "8.92",
           "tax_type_code": ""
         },
         {
           "tax_type": "",
-          "tax_name": "Covid Levy (1%)",
+          "tax_name": "Covid Levy",
           "tax_rate": "1",
           "tax_amount": "3.57",
           "tax_type_code": "TAX030"
         },
         {
           "tax_type": "VAT",
-          "tax_name": "VAT Output-15 (15%)",
+          "tax_name": "VAT Output-15",
           "tax_rate": "15",
           "tax_amount": "56.74",
           "tax_type_code": ""
@@ -61,7 +61,7 @@
       ],
       "line_items": [
         {
-          "description": "Custom Duties - IAS001\nCustom Duties",
+          "description": "- Custom Duties - IAS001\nCustom Duties",
           "item_type": "GOODS",
           "uom": "",
           "quantity": "1",

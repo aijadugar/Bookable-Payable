@@ -19,7 +19,7 @@
         "location_code": ""
       },
       "payment_term_id": "",
-      "po_number": "PTGGM351961374",
+      "po_number": "",
       "po_id": "",
       "gross_total": "37767.32",
       "subtotal": "37767.32",
@@ -32,7 +32,7 @@
       "taxes": [
         {
           "tax_type": "VAT",
-          "tax_name": "VAT amount",
+          "tax_name": "Käibemaks VAT amount",
           "tax_rate": "",
           "tax_amount": "0.00",
           "tax_type_code": ""

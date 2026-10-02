@@ -1,7 +1,7 @@
 {
   "summary": {
-    "ok": 35,
-    "mismatch": 18
+    "ok": 37,
+    "mismatch": 17
   },
   "files": {
     "DU-02": {
@@ -44,7 +44,10 @@
           "build_notes": {
             "invoice_number": "554701215",
             "taxes": [],
-            "derived": [],
+            "derived": [
+              "line 2: unit price taken from printed total (printed '3.46' does not foot)",
+              "line 3: unit price taken from printed total (printed '8,14' does not foot)"
+            ],
             "warnings": [],
             "supplier": "no match",
             "buyer": "no match",
@@ -478,15 +481,11 @@
         },
         {
           "doc_type": "Delivery note",
-          "reason": "heading 'Delivery note' is not a payable document (pages [11])"
+          "reason": "heading 'Delivery note' is not a payable document (pages [11, 13, 14, 15])"
         },
         {
           "doc_type": "Delivery note",
           "reason": "heading 'Delivery note' is not a payable document (pages [12])"
-        },
-        {
-          "doc_type": "Shipment Receipt",
-          "reason": "no printed total (pages [15])"
         }
       ]
     },
@@ -494,7 +493,7 @@
       "payables": [
         {
           "invoice_number": "FN 05/80906935",
-          "po_number": "80120853",
+          "po_number": "REF-841468",
           "work_doc": "matched",
           "printed_gross": "153,58",
           "status": "ok",
@@ -542,9 +541,9 @@
       "payables": [
         {
           "invoice_number": "",
-          "po_number": "AF-538013",
+          "po_number": "",
           "work_doc": "matched",
-          "printed_gross": "$1995.00",
+          "printed_gross": "1995.00",
           "status": "ok",
           "booked_gross": "1995.0",
           "difference": "0.00",
@@ -644,8 +643,8 @@
           "work_doc": "matched",
           "printed_gross": "8,397.36",
           "status": "mismatch",
-          "booked_gross": "8632.74",
-          "difference": "235.38",
+          "booked_gross": "8632.8",
+          "difference": "235.44",
           "cross_checks": {
             "lines_vs_subtotal": "ok"
           },
@@ -677,18 +676,21 @@
           "booked_gross": "67.25",
           "difference": "0.00",
           "cross_checks": {
-            "lines_vs_subtotal": "ok",
+            "lines_vs_subtotal": "lines sum 59.51 vs subtotal 123.36 (diff -63.85)",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
             "invoice_number": "",
             "taxes": [
+              "? 13,00: ambiguous (rate only)",
               "IVA 13,00: ambiguous (rate only)"
             ],
             "derived": [
               "line 1: unit price taken from printed total (printed '123,36' does not foot)"
             ],
-            "warnings": [],
+            "warnings": [
+              "header tax block repeats the line-level taxes; kept on lines only"
+            ],
             "supplier": "no match",
             "buyer": "no match",
             "payment_term": "no match",
@@ -706,10 +708,10 @@
           "work_doc": "matched",
           "printed_gross": "1.012,14",
           "status": "mismatch",
-          "booked_gross": "1201.77",
-          "difference": "189.63",
+          "booked_gross": "2488.26",
+          "difference": "1476.12",
           "cross_checks": {
-            "lines_vs_subtotal": "lines sum 1822.28 vs subtotal 835.27 (diff 987.01)"
+            "lines_vs_subtotal": "lines sum 1822.34 vs subtotal 1796.54 (diff 25.80)"
           },
           "build_notes": {
             "invoice_number": "7769922058",
@@ -731,14 +733,14 @@
             "derived": [
               "line 1: unit price taken from printed total (printed '14,76' does not foot)",
               "line 2: unit price taken from printed total (printed '24.53' does not foot)",
-              "line 3: unit price taken from printed total (printed '24.96' does not foot)",
+              "line 3: unit price taken from printed total (printed '24,96' does not foot)",
               "line 4: unit price taken from printed total (printed '20,80' does not foot)",
               "line 5: unit price taken from printed total (printed '20,40' does not foot)",
               "line 6: unit price taken from printed total (printed '6,72' does not foot)",
               "line 8: unit price taken from printed total (printed '14,64' does not foot)",
               "line 10: unit price taken from printed total (printed '48,00' does not foot)",
               "line 11: unit price taken from printed total (printed '18,72' does not foot)",
-              "line 12: unit price taken from printed total (printed '24.96' does not foot)",
+              "line 12: unit price taken from printed total (printed '24,96' does not foot)",
               "line 13: unit price taken from printed total (printed '20,80' does not foot)"
             ],
             "warnings": [],
@@ -754,8 +756,8 @@
     "HLD-08": {
       "payables": [
         {
-          "invoice_number": "162547",
-          "po_number": "",
+          "invoice_number": "16254",
+          "po_number": "9267418170",
           "work_doc": "matched",
           "printed_gross": "R148,941.47",
           "status": "mismatch",
@@ -765,12 +767,14 @@
             "lines_vs_subtotal": "ok"
           },
           "build_notes": {
-            "invoice_number": "162547",
+            "invoice_number": "16254",
             "taxes": [
               "? 15.00%: ambiguous (rate only)",
               "Tax : no match"
             ],
-            "derived": [],
+            "derived": [
+              "line 1: unit price taken from printed total (printed '276.74' does not foot)"
+            ],
             "warnings": [],
             "supplier": "no match",
             "buyer": "no match",
@@ -789,30 +793,39 @@
           "work_doc": "matched",
           "printed_gross": "254,52",
           "status": "mismatch",
-          "booked_gross": "539.57",
-          "difference": "285.05",
+          "booked_gross": "349.1",
+          "difference": "94.58",
           "cross_checks": {
-            "lines_vs_subtotal": "lines sum 254.52 vs subtotal 157.62 (diff 96.90)",
+            "lines_vs_subtotal": "lines sum 254.52 vs subtotal 223.98 (diff 30.54)",
             "quantity_vs_printed": "quantities sum 43 vs printed 4200",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
             "invoice_number": "UNA IN 13",
             "taxes": [
-              "B 0,00%: ambiguous (rate only)",
-              "A 24,00%: rate only",
+              "B : no match",
+              "A : no match",
+              "A : no match",
+              "A : no match",
               "A 24,00%: rate only",
               "B 0,00%: ambiguous (rate only)"
             ],
             "derived": [
-              "line 1: unit price taken from printed total (none printed)",
-              "line 2: unit price taken from printed total (none printed)",
-              "line 3: unit price taken from printed total (none printed)",
-              "line 3: quantity not printed, 1 used"
+              "line 1: unit price taken from printed total (printed '65,26' does not foot)",
+              "line 2: unit price taken from printed total (printed '35,41' does not foot)",
+              "line 3: unit price taken from printed total (printed '25,18' does not foot)",
+              "line 4: unit price taken from printed total (printed '31,77' does not foot)",
+              "line 5: unit price taken from printed total (none printed)",
+              "line 5: quantity not printed, 1 used"
             ],
             "warnings": [
-              "charge 'FUEL' 64.04 not placed: extra_charges already filled",
-              "charge 'PLUS -' 2.32 not placed: extra_charges already filled"
+              "charge 'PLUS -' 2.32 not placed: extra_charges already filled",
+              "charge 'FUEL' 30.67 not placed: extra_charges already filled",
+              "charge 'PLUS -' 0.80 not placed: extra_charges already filled",
+              "charge 'PLUS' 12.92 not placed: extra_charges already filled",
+              "charge 'FUEL' 0.68 not placed: extra_charges already filled",
+              "charge 'FUEL' 0.16 not placed: extra_charges already filled",
+              "charge 'PLUS' 9.25 not placed: extra_charges already filled"
             ],
             "supplier": "no match",
             "buyer": "no match",
@@ -829,7 +842,7 @@
           "invoice_number": "852566",
           "po_number": "",
           "work_doc": "matched",
-          "printed_gross": "438,00 €",
+          "printed_gross": "438,00",
           "status": "ok",
           "booked_gross": "438.0",
           "difference": "0.00",
@@ -856,7 +869,7 @@
     "INV-02": {
       "payables": [
         {
-          "invoice_number": "#9972-907",
+          "invoice_number": "9972-907",
           "po_number": "#2287",
           "work_doc": "matched",
           "printed_gross": "€608,23",
@@ -868,7 +881,7 @@
             "currency_vs_printed": "ok"
           },
           "build_notes": {
-            "invoice_number": "#9972-907",
+            "invoice_number": "9972-907",
             "taxes": [
               "Käibemaks 24%: rate only"
             ],
@@ -900,7 +913,7 @@
           "build_notes": {
             "invoice_number": "INV-75162461",
             "taxes": [
-              "VAT 15%: ambiguous (rate only)",
+              "? 15%: ambiguous (rate only)",
               "TOTAL VAT : no match"
             ],
             "derived": [],
@@ -915,35 +928,13 @@
       "declined": []
     },
     "INV-04": {
-      "payables": [
+      "payables": [],
+      "declined": [
         {
-          "invoice_number": "INV7097292303",
-          "po_number": "8690782647",
-          "work_doc": "matched",
-          "printed_gross": "19,730.55",
-          "status": "mismatch",
-          "booked_gross": "22304.1",
-          "difference": "2573.55",
-          "cross_checks": {
-            "lines_vs_subtotal": "ok",
-            "currency_vs_printed": "ok"
-          },
-          "build_notes": {
-            "invoice_number": "INV7097292303",
-            "taxes": [
-              "? 15%: ambiguous (rate only)",
-              "TOTAL VAT : no match"
-            ],
-            "derived": [],
-            "warnings": [],
-            "supplier": "no match",
-            "buyer": "no match",
-            "payment_term": "no match",
-            "po": "no match"
-          }
+          "doc_type": "TAX INVOICE\nInvoice Date Larkspur Distribution Meridian Print\n30 Apr 2025\nLarkspur Distribution Meridian Print\nGartenweg 173\nNorthwind Services ZA (Pty) Meridian Print Ltd\nINV7097292303\nRua do Ouro 5\nF04, Kiepersol House\nBahnhofstrasse 300\nUnit 7, Block B\nINV7097292303 Darrenwood\nGartenweg 60\nGauteng\nMaitland\n8690782647\n2195\nWESTERN CAPE CAPE TOWN 7405\nSouth Africa\nSOUTH AFRICA\nVAT Number: 9446639440\nDescription\nQuantity Unit Price VAT Amount ZAR\nStandard Criminal Verification\n133.00 129.00 15% 17,157.00\nSubtotal 17,157.00\nTOTAL VAT 2,573.55\nTOTAL ZAR 19,730.55\nLess Amount Credited 13,110.00\nAMOUNT DUE ZAR 6,620.55\nDue Date: 31 May 2025\nOakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV\nPlease use your invoice number as reference when making payment.\nCompany Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa.",
+          "reason": "no printed total (pages [1])"
         }
-      ],
-      "declined": []
+      ]
     },
     "INV-06": {
       "payables": [
@@ -1005,19 +996,41 @@
       "declined": []
     },
     "INV-07": {
-      "payables": [],
-      "declined": [
+      "payables": [
         {
-          "doc_type": "TAX INVOICE\nInvoice Date Larkspur Distribution Meridian Print\n30 Apr 2025\nLarkspur Distribution Meridian Print\nGartenweg 173\nNorthwind Services ZA (Pty) Meridian Print Ltd\nINV7097292303\nM5 Office Park\nF04, Kiepersol House\nBahnhofstrasse 300\nUnit 7, Block B\nGartenweg 60\nINV7097292303 Darrenwood\nGauteng\nMaitland\n2195\nWESTERN CAPE CAPE TOWN 7405\n8690782647\nSouth Africa\nSOUTH AFRICA\nVAT Number: 9446639440\nDescription\nQuantity Unit Price VAT Amount ZAR\nStandard Criminal Verification\n133.00 129.00 15% 17,157.00\nSubtotal 17,157.00\nTOTAL VAT 2,573.55\nTOTAL ZAR 19,730.55\nLess Amount Credited 13,110.00\nAMOUNT DUE ZAR 6,620.55\nDue Date: 31 May 2025\nOakhaven Distribution Meridian Print Ltd\nRedwater Bank\nBranch: Sand\nBranch Number -\nAccount 897530172\nSWIFT: SYEWTNPV\nPlease use your invoice number as reference when making payment.\nCompany Registration No: 3268/558090/90 . Registered Office: Gartenweg 173\n, F04, Kiepersol House, Bahnhofstrasse 30Darrenwood, Johannesburg, Gauteng,\n2195, South Africa.",
-          "reason": "no printed total (pages [1])"
+          "invoice_number": "INV7097292303",
+          "po_number": "8690782647",
+          "work_doc": "matched",
+          "printed_gross": "19,730.55",
+          "status": "mismatch",
+          "booked_gross": "22304.1",
+          "difference": "2573.55",
+          "cross_checks": {
+            "lines_vs_subtotal": "ok",
+            "currency_vs_printed": "ok"
+          },
+          "build_notes": {
+            "invoice_number": "INV7097292303",
+            "taxes": [
+              "VAT 15%: ambiguous (rate only)",
+              "TOTAL VAT : no match"
+            ],
+            "derived": [],
+            "warnings": [],
+            "supplier": "no match",
+            "buyer": "no match",
+            "payment_term": "no match",
+            "po": "no match"
+          }
         }
-      ]
+      ],
+      "declined": []
     },
     "INV-09": {
       "payables": [
         {
           "invoice_number": "11768395",
-          "po_number": "PTGGM351961374",
+          "po_number": "",
           "work_doc": "matched",
           "printed_gross": "37767.32",
           "status": "ok",
@@ -1032,7 +1045,7 @@
             "taxes": [
               "? 0: ambiguous (rate only)",
               "? 0: ambiguous (rate only)",
-              "VAT amount : no match"
+              "Käibemaks VAT amount : no match"
             ],
             "derived": [
               "line 1: unit price taken from printed total (none printed)",
@@ -1091,15 +1104,16 @@
           "difference": "0.00",
           "cross_checks": {
             "lines_vs_subtotal": "ok",
+            "quantity_vs_printed": "quantities sum 4 vs printed 65",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
             "invoice_number": "18109293",
             "taxes": [
-              "KM VAT 24,0 %: rate only",
-              "KM VAT 24,0 %: rate only",
-              "KM VAT 24,0 %: rate only",
-              "KM VAT 24,0 %: rate only",
+              "KM 24,0 %: rate only",
+              "KM 24,0 %: rate only",
+              "KM 24,0 %: rate only",
+              "KM 24,0 %: rate only",
               "KM 24,0 %: rate only"
             ],
             "derived": [
@@ -1132,8 +1146,8 @@
           "work_doc": "matched",
           "printed_gross": "152 587.46",
           "status": "mismatch",
-          "booked_gross": "177610.48",
-          "difference": "25023.02",
+          "booked_gross": "152587.36",
+          "difference": "-0.10",
           "cross_checks": {
             "lines_vs_subtotal": "ok",
             "currency_vs_printed": "ok"
@@ -1172,7 +1186,9 @@
             "derived": [
               "line 15: unit price taken from printed total (printed '53.79' does not foot)"
             ],
-            "warnings": [],
+            "warnings": [
+              "header tax block repeats the line-level taxes; kept on lines only"
+            ],
             "supplier": "no match",
             "buyer": "no match",
             "payment_term": "no match",
@@ -1199,9 +1215,9 @@
           "build_notes": {
             "invoice_number": "INV-1587",
             "taxes": [
-              "VAT 20%: rate only",
-              "VAT No VAT: no match",
-              "VAT 20%: rate only",
+              "? 20%: rate only",
+              "No VAT : no match",
+              "? 20%: rate only",
               "Total No VAT : no match",
               "Total VAT 20% 20%: rate only"
             ],
@@ -1233,11 +1249,11 @@
           "work_doc": "matched",
           "printed_gross": "26,47",
           "status": "mismatch",
-          "booked_gross": "52.94",
-          "difference": "26.47",
+          "booked_gross": "31.24",
+          "difference": "4.77",
           "cross_checks": {
             "lines_vs_subtotal": "ok",
-            "quantity_vs_printed": "quantities sum 2 vs printed 100",
+            "quantity_vs_printed": "quantities sum 1 vs printed 100",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -1248,13 +1264,9 @@
               "A 22,00%: rate only"
             ],
             "derived": [
-              "line 1: unit price taken from printed total (printed '18,87' does not foot)",
-              "line 2: unit price taken from printed total (none printed)",
-              "line 2: quantity not printed, 1 used"
+              "line 1: unit price taken from printed total (printed '18,87' does not foot)"
             ],
-            "warnings": [
-              "charge 'FUEL SURCHARGE' 2.83 not placed: extra_charges already filled"
-            ],
+            "warnings": [],
             "price_basis": "tax-inclusive prices converted to net: printed subtotal equals lines with tax removed, not lines as printed",
             "supplier": "no match",
             "buyer": "no match",
@@ -1285,7 +1297,7 @@
               "NHIL 2.5%: ambiguous (rate only)",
               "GETFund Levy 2.5%: ambiguous (rate only)",
               "COVID-19 Levy 1%: rate only",
-              "VAT 15%: ambiguous (rate only)"
+              "VAT (15%) 15%: ambiguous (rate only)"
             ],
             "derived": [],
             "warnings": [],
@@ -1302,12 +1314,12 @@
       "payables": [
         {
           "invoice_number": "20423591",
-          "po_number": "",
+          "po_number": "7856147",
           "work_doc": "matched",
           "printed_gross": "12.10",
           "status": "mismatch",
-          "booked_gross": "13.01",
-          "difference": "0.91",
+          "booked_gross": "0.0",
+          "difference": "-12.10",
           "cross_checks": {
             "lines_vs_subtotal": "ok",
             "currency_vs_printed": "ok"
@@ -1319,7 +1331,9 @@
               "VAT 8.10%: rate only"
             ],
             "derived": [],
-            "warnings": [],
+            "warnings": [
+              "header tax block repeats the line-level taxes; kept on lines only"
+            ],
             "supplier": "no match",
             "buyer": "no match",
             "payment_term": "no match",
@@ -1337,17 +1351,18 @@
           "work_doc": "matched",
           "printed_gross": "535,79",
           "status": "mismatch",
-          "booked_gross": "646.19",
-          "difference": "110.40",
+          "booked_gross": "646.38",
+          "difference": "110.59",
           "cross_checks": {},
           "build_notes": {
             "invoice_number": "9884313366",
             "taxes": [
-              "? 23: ambiguous (rate only)",
-              "? 23: ambiguous (rate only)",
-              "? 23: ambiguous (rate only)",
-              "? 23: ambiguous (rate only)",
-              "? 23: ambiguous (rate only)",
+              "IVA 23: ambiguous (rate only)",
+              "IVA 23: ambiguous (rate only)",
+              "IVA 23: ambiguous (rate only)",
+              "IVA 23: ambiguous (rate only)",
+              "IVA 23: ambiguous (rate only)",
+              "IVA : no match",
               "IVA : no match"
             ],
             "derived": [
@@ -1370,10 +1385,10 @@
     "INV-23": {
       "payables": [
         {
-          "invoice_number": "# EST-259684",
+          "invoice_number": "EST-259684",
           "po_number": "",
           "work_doc": "matched",
-          "printed_gross": "GHS13,724.19",
+          "printed_gross": "13,724.19",
           "status": "ok",
           "booked_gross": "13724.19",
           "difference": "0.00",
@@ -1382,12 +1397,12 @@
             "currency_vs_printed": "ok"
           },
           "build_notes": {
-            "invoice_number": "# EST-259684",
+            "invoice_number": "EST-259684",
             "taxes": [
-              "GETFund (2.5%) 2.5%: ambiguous (rate only)",
-              "NHIL (2.5%) 2.5%: ambiguous (rate only)",
-              "Covid Levy (1%) 1%: rate only",
-              "VAT Output-15 (15%) 15%: ambiguous (rate only)"
+              "GETFund 2.5%: ambiguous (rate only)",
+              "NHIL 2.5%: ambiguous (rate only)",
+              "Covid Levy 1%: rate only",
+              "VAT Output-15 15%: ambiguous (rate only)"
             ],
             "derived": [],
             "warnings": [],
@@ -1413,7 +1428,38 @@
       "payables": [
         {
           "invoice_number": "FAC A98/712",
-          "po_number": "9448",
+          "po_number": "",
+          "work_doc": "matched",
+          "printed_gross": "176,00",
+          "status": "ok",
+          "booked_gross": "176.0",
+          "difference": "0.00",
+          "cross_checks": {
+            "lines_vs_subtotal": "ok",
+            "currency_vs_printed": "ok"
+          },
+          "build_notes": {
+            "invoice_number": "FAC A98/712",
+            "taxes": [
+              "IVA 23 %: ambiguous (rate only)",
+              "IVA 23 %: ambiguous (rate only)",
+              "IVA 23 %: ambiguous (rate only)",
+              "IVA 23,0 %: ambiguous (rate only)"
+            ],
+            "derived": [],
+            "warnings": [
+              "header tax block repeats the line-level taxes; kept on lines only"
+            ],
+            "price_basis": "tax-inclusive prices converted to net: printed subtotal equals lines with tax removed, not lines as printed",
+            "supplier": "no match",
+            "buyer": "no match",
+            "payment_term": "no match",
+            "po": "no match"
+          }
+        },
+        {
+          "invoice_number": "FAC A98/712",
+          "po_number": "",
           "work_doc": "matched",
           "printed_gross": "176,00",
           "status": "ok",
@@ -1451,12 +1497,12 @@
           "invoice_number": "",
           "po_number": "",
           "work_doc": "matched",
-          "printed_gross": "873.53",
+          "printed_gross": "873.5",
           "status": "mismatch",
-          "booked_gross": "1692.3",
-          "difference": "818.77",
+          "booked_gross": "3860.4",
+          "difference": "2986.9",
           "cross_checks": {
-            "lines_vs_subtotal": "lines sum 846.13 vs subtotal 873.53 (diff -27.40)",
+            "lines_vs_subtotal": "lines sum 846.13 vs subtotal 873.50 (diff -27.37)",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -1498,7 +1544,9 @@
               "? : no match",
               "KDOON 0.00: ambiguous (rate only)"
             ],
-            "derived": [],
+            "derived": [
+              "line 22: unit price taken from printed total (printed '4.89' does not foot)"
+            ],
             "warnings": [],
             "supplier": "no match",
             "buyer": "no match",
@@ -1553,11 +1601,11 @@
           "po_number": "",
           "work_doc": "matched",
           "printed_gross": "4.478,20",
-          "status": "mismatch",
-          "booked_gross": "4628.21",
-          "difference": "150.01",
+          "status": "ok",
+          "booked_gross": "4478.21",
+          "difference": "0.01",
           "cross_checks": {
-            "lines_vs_subtotal": "lines sum 3702.56 vs subtotal 3582.56 (diff 120.00)",
+            "lines_vs_subtotal": "ok",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
@@ -1626,28 +1674,40 @@
           "work_doc": "matched",
           "printed_gross": "17,657.53",
           "status": "mismatch",
-          "booked_gross": "2129.8",
-          "difference": "-15527.73",
+          "booked_gross": "37962.41",
+          "difference": "20304.88",
           "cross_checks": {
-            "quantity_vs_printed": "quantities sum 221122.578 vs printed 219744",
+            "quantity_vs_printed": "quantities sum 440371 vs printed 219744",
             "currency_vs_printed": "ok"
           },
           "build_notes": {
             "invoice_number": "92990-35018",
             "taxes": [
+              "estimated Gross Receipts Tax 5.90%: no match",
               "Gross Receipts Tax : no match",
               "Sales Tax : no match",
               "State Tax Adjustment : no match",
               "Sales Tax : no match"
             ],
-            "derived": [],
+            "derived": [
+              "line 1: unit price taken from printed total (none printed)",
+              "line 1: quantity not printed, 1 used",
+              "line 4: unit price taken from printed total (none printed)",
+              "line 4: quantity not printed, 1 used",
+              "line 6: unit price taken from printed total (none printed)",
+              "line 6: quantity not printed, 1 used",
+              "line 8: unit price taken from printed total (none printed)",
+              "line 8: quantity not printed, 1 used",
+              "line 9: unit price taken from printed total (none printed)",
+              "line 9: quantity not printed, 1 used",
+              "line 10: unit price taken from printed total (none printed)",
+              "line 10: quantity not printed, 1 used",
+              "line 11: unit price taken from printed total (none printed)",
+              "line 11: quantity not printed, 1 used"
+            ],
             "warnings": [
-              "charge 'Distribution Charges' 2265.75 not placed: extra_charges already filled",
-              "charge 'Distribution Charges' -219.74 not placed: extra_charges already filled",
-              "charge 'Distribution System Improvement Charge' 13.98 not placed: extra_charges already filled",
-              "charge 'Energy Eff & Nonbypassable Trans' 392.98 not placed: extra_charges already filled",
-              "charge 'ADJUSTMENT' -0.01 not placed: extra_charges already filled",
-              "charge 'ENERGY CHARGE: 219744 KH * $0.0595/KH' 13074.77 not placed: extra_charges already filled"
+              "charge 'Hudson Energy Charges (877-483-7669)' 14739.91 not placed: extra_charges already filled",
+              "charge 'TAXES & FEES' 164.87 not placed: extra_charges already filled"
             ],
             "supplier": "no match",
             "buyer": "no match",
@@ -1823,8 +1883,8 @@
           "work_doc": "matched",
           "printed_gross": "2,487.73",
           "status": "mismatch",
-          "booked_gross": "2390.22",
-          "difference": "-97.51",
+          "booked_gross": "2489.04",
+          "difference": "1.31",
           "cross_checks": {
             "currency_vs_printed": "ok"
           },
