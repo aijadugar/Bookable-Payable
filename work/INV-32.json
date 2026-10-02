@@ -1,0 +1,115 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Invoice",
+      "invoice_number": "72",
+      "invoice_date": "06/05/2018",
+      "due_date": "06/19/2018",
+      "invoice_type_text": "Invoice",
+      "payment_terms_text": "NET 14",
+      "po_number": "30193",
+      "currency_text": "$",
+      "price_basis_text": "",
+      "supplier_name": "215B.E.A.R.S.",
+      "supplier_address": "4613 Conshohocken Avenue Philadelphia PA 19131\n267-767-4961",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Amerihealthcaritas Transportation",
+      "buyer_address": "jblatt@amerihealthcaritas.com",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "5/31/18 1- 15 15 passenger van from Philly going to DC pick back up in DC coming back to to Philly . 8:30am to 5:30pm 9hr",
+        ""
+      ],
+      "line_quantities": [
+        "1",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "$750.00",
+        "$0.00"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "$750.00*",
+        "$0.00"
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "Includes TAX"
+      ],
+      "header_tax_rates": [
+        "0%"
+      ],
+      "header_tax_amounts": [
+        "$0.00"
+      ],
+      "header_tax_base_amounts": [
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "$750.00",
+      "printed_total_discount": "",
+      "printed_total_tax": "$0.00",
+      "printed_gross_total": "$750.00",
+      "printed_amount_due": "$750.00",
+      "other_total_labels": [
+        "PAID"
+      ],
+      "other_total_amounts": [
+        "$0.00"
+      ],
+      "notes": [
+        "Req#: 131530",
+        "*Indicates non-taxable item",
+        "Hello you can make the check out to 215BEARS . 4613 Conshohocken Avenue Philadelphia PA 19131 . If invoice is not paid 30 days after services are rendered there will be a $25 Late fee added every day starting on the 31st day after"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

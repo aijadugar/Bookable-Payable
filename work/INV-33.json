@@ -1,0 +1,95 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "INVOICE (Page 01 of 01)",
+      "invoice_number": "ADIPL/INV/070/17",
+      "invoice_date": "8th June 2017",
+      "due_date": "",
+      "invoice_type_text": "INVOICE",
+      "payment_terms_text": "C.O.D",
+      "po_number": "",
+      "currency_text": "$",
+      "price_basis_text": "",
+      "supplier_name": "AD NOTIONS INT'L PTE. LTD.",
+      "supplier_address": "20 Sin Ming Lane Midview City #08-61 Singapore 573968",
+      "supplier_vat_id": "53057406C",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Changi Airport Group (S) Pte Ltd",
+      "buyer_address": "PO Box 168\nSingapore Changi Airport\nSingapore 918146",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "PROJECT : Pillar Signage Panel For Shuttle Service At T2\nCoach Bay (Lot No. 8)\n\nProcess : Supply of 2mm thick clear poly-carbonate sheet with reverse\nblack color base & install onto existing pillar with A3 size\ndigital print Matt lamination onto panel surface. Please\nnote; drilling work is applicable for this job (Day Work).\n*Excluding any dismantling work.\n\nPanel Size : 500mm(W) x 500mm(H)"
+      ],
+      "line_quantities": [
+        "01"
+      ],
+      "line_uoms": [
+        "pc"
+      ],
+      "line_unit_prices": [
+        "$250.00"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "$250.00"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "$250.00",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Remarks : Design & Ready FA for production are all to be provided by client!",
+        "Future replacement of A3 size shuttle schedule per pc @ S$70.00 per trip",
+        "* Please kindly endorse and scan via email back to us once you have received this Invoice. Thank you.",
+        "* Cheque payment is to be issued to : AD NOTIONS INT'L PTE LTD",
+        "Job Ref. : CAG/ST/8074/06/17",
+        "Project NRIC: PD008 & PD009",
+        "Project officer: 0058/1718",
+        "Cost Centre/ GL: 42AGEAE /50701002"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

@@ -1,0 +1,132 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "title_text": "ESTIMATE",
+      "invoice_number": "# EST-259684",
+      "invoice_date": "31 Dec 2025",
+      "due_date": "",
+      "invoice_type_text": "ESTIMATE",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "GHS",
+      "price_basis_text": "",
+      "supplier_name": "Kingsley Supply LIMITED",
+      "supplier_address": "Rua do Ouro 88\nGhana",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "CASH CUSTOMER - FedEx\nNorthwind HOLDINGS",
+      "buyer_address": "Ghana",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "1",
+        "2"
+      ],
+      "line_descriptions": [
+        "Custom Duties - IAS001\nCustom Duties",
+        "Service Charges - FDX0001\nService Charges"
+      ],
+      "line_quantities": [
+        "1.00",
+        "1.00"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "13,289.19",
+        "356.85"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "13,289.19",
+        "356.85"
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "GETFund (2.5%)",
+        "NHIL (2.5%)",
+        "Covid Levy (1%)",
+        "VAT Output-15 (15%)"
+      ],
+      "header_tax_rates": [
+        "2.5%",
+        "2.5%",
+        "1%",
+        "15%"
+      ],
+      "header_tax_amounts": [
+        "8.92",
+        "8.92",
+        "3.57",
+        "56.74"
+      ],
+      "header_tax_base_amounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "13,646.04",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "GHS13,724.19",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Looking forward for your business.",
+        "PLEASE BE INFORMED THAT A DEPOSIT OF GHC13,000 IS REQUIRED TO ENABLE US TO PROCEED WITH THE CUSTOMS DUTY.",
+        "Awb No.7778 8290 8336",
+        "Weight - 6.20 KG"
+      ]
+    }
+  ],
+  "unreadable_pages": [
+    2,
+    3
+  ]
+}

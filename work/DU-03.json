@@ -1,0 +1,397 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "TAX",
+      "invoice_number": "74.Nov.0534",
+      "invoice_date": "08-08 18 TAI",
+      "due_date": "16.Jan.2026",
+      "invoice_type_text": "Invoice",
+      "payment_terms_text": "60 Days Net",
+      "po_number": "",
+      "currency_text": "USD",
+      "price_basis_text": "",
+      "supplier_name": "Blueharbor Logistics & Services",
+      "supplier_address": "Blueharbor Logistics & Services Singapore Pte. Ltd.\nBrightside Trading Pte. Ltd\nChangi Airfreight Centre\nGartenweg 7\nCargo Agents Building E\n819834 Singapore",
+      "supplier_vat_id": "M2-0029161-1",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Cadence PTE. LTD.",
+      "buyer_address": "08-08 18 TAI\nParnu mnt 18\n539775",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "line_descriptions": [
+        "International Freight",
+        "Origin Terminal Handling",
+        "Documentation\nFee",
+        "Delivery",
+        "Pick-up",
+        "Customs DEJTWOXDBWJ -\nExport",
+        "Origin Documentation",
+        "Customs DEJTWOXDBWJ -\nImport",
+        "Carrier Manifest Filing",
+        "DEHVZCKRPYE Terminal\nHandling"
+      ],
+      "line_quantities": [
+        "567.000",
+        "567.000",
+        "1.000",
+        "567.000",
+        "567.000",
+        "1.000",
+        "1.000",
+        "1.000",
+        "1.000",
+        "567.000"
+      ],
+      "line_uoms": [
+        "KG",
+        "KG",
+        "EA",
+        "KG",
+        "KG",
+        "EA",
+        "EA",
+        "EA",
+        "EA",
+        "KG"
+      ],
+      "line_unit_prices": [
+        "1.28",
+        "0.10",
+        "45.00",
+        "0.04",
+        "0.18",
+        "7.50",
+        "15.00",
+        "15.00",
+        "5.00",
+        "0.08"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "725.76",
+        "56.70",
+        "45.00",
+        "22.68",
+        "102.06",
+        "7.50",
+        "15.00",
+        "15.00",
+        "5.00",
+        "45.36"
+      ],
+      "line_tax_names": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "header_tax_names": [
+        "0% GST on sales"
+      ],
+      "header_tax_rates": [
+        "0.00 %"
+      ],
+      "header_tax_amounts": [
+        "0.00"
+      ],
+      "header_tax_base_amounts": [
+        "1,040.06"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "1,040.06",
+      "printed_total_discount": "",
+      "printed_total_tax": "0.00",
+      "printed_gross_total": "1,040.06",
+      "printed_amount_due": "1,040.06",
+      "other_total_labels": [
+        "Net value",
+        "Total Amount Due (SGD)"
+      ],
+      "other_total_amounts": [
+        "1,040.06",
+        "1,350.55"
+      ],
+      "notes": [
+        "HAWB",
+        "Sold to Cadence PTE. LTD.",
+        "POL: Hamburg",
+        "Place of Receipt: Hamburg",
+        "POD: Singapore",
+        "Place of Delivery: Singapore",
+        "SHPR: Polvex DISTRIBUTION GMBH & CO.KG",
+        "ETD: 92-Nov-9004 ETA: 19-Nov-7991",
+        "Conversion to SGD for Tax purpose only",
+        "* Payment in USD: The And Banking Account no:\n* Payment Ref: By Payn trans ¡e inclu nt ker and a ship to",
+        "* This is an electronically generated document and authorised signature is not required.",
+        "Email address: wara.silva@blueharbor.com"
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "title_text": "House Air aybill",
+      "invoice_number": "",
+      "invoice_date": "11.11.2025",
+      "due_date": "",
+      "invoice_type_text": "",
+      "payment_terms_text": "TERMS: FCA",
+      "po_number": "TA 440162 - 82704896",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "POLVEX DISTRIBUTION GMBH & CO.KG",
+      "supplier_address": "Lindenstrasse 35\n20095, HAMBURG,\nHH 20539 DE",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Cadence PTE. LTD.",
+      "buyer_address": "Rua do Ouro 18\n539775 SG",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "NOVODUR P2H-AT\n-NOT RESTRICTED-\nMarks:\nHS Codes: 39033000\nORDER NO.\nDIMS 100x120x140 CM × 2\nPART NO. 03153934\nVOL 3.360 M3\nTA 440162 - 82704896"
+      ],
+      "line_quantities": [
+        "567.0"
+      ],
+      "line_uoms": [
+        "K"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "As Agreed"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        11
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "567.0",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "It is agreed that the goods noted) for carriage TO THE OF ON THE herein are accepted in apparent good order order and condition (except as GOODS MAY BE BY ANY OTHER MEANS . ALL INSTRUCTIONS ARE GIVEN ROAD OR ANY OTHER ANY OTH THAT THE MAY BE VIA INTERMEDIATE BY THE SHIPPER, AND WHICH THE DEEMS APPROPRIATE. THE IS DRAWN TO THE OF LIABILITY. Shipper may increase such limitation of liability by a higher value for carriage and paying a supplemental if required.",
+        "11.11.2025 16:20 || SPX BY XRY DE/RA/00169-02\nBY DE/RA/00095-06\n** NOT\nMRN:",
+        "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment ns dangerous goods, such part is properly anar condition for carriage ds Regulations by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations."
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "title_text": "",
+      "invoice_number": "",
+      "invoice_date": "10/28/2025",
+      "due_date": "",
+      "invoice_type_text": "",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Polvex (FAR EAST) LTD",
+      "supplier_address": "HONG KONO",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Cadence PTE. LTD",
+      "buyer_address": "High Street 18\n#08-08, 539775 Singapore\nAttn: Tan\nEmail: clara.lind@cadence.com",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "P2H-AT"
+      ],
+      "line_quantities": [
+        ""
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "8.18"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "4,499.00"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        12
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "4,499.00",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": []
+    }
+  ],
+  "unreadable_pages": []
+}

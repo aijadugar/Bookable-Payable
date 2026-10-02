@@ -1,0 +1,146 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "ARVE INVOICE",
+      "invoice_number": "18109293",
+      "invoice_date": "07.04.26",
+      "due_date": "28.04.26",
+      "invoice_type_text": "ARVE INVOICE",
+      "payment_terms_text": "VIIVIS 0.1%/PÄEVAS",
+      "po_number": "EE398766194",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Meridian Media",
+      "supplier_address": "Gartenweg 12\nDos Hermanas\nE-M lena.tamm@blackpine-media.ee\n+(052) 3729 958\nWWW https://cloverdale-mobility.ee",
+      "supplier_vat_id": "EE063536009",
+      "supplier_tax_id": "64670685",
+      "supplier_iban": "EE06 3132 2643 8105 8219",
+      "buyer_name": "Northwind OPERATIONS OU 2505212",
+      "buyer_address": "Lindenstrasse 15\n10134 TALLINN\nEESTI",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "408",
+        "551",
+        "805",
+        "920"
+      ],
+      "line_descriptions": [
+        "AGREED PICKUP FEE",
+        "TARNEKULUD",
+        "AGREED DELIVERY FEE",
+        "BAF 6,93% (16.03-29.03)"
+      ],
+      "line_quantities": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "5,00",
+        "53,40",
+        "5,00",
+        "3,70"
+      ],
+      "line_tax_names": [
+        "KM VAT",
+        "KM VAT",
+        "KM VAT",
+        "KM VAT"
+      ],
+      "line_tax_rates": [
+        "24,0 %",
+        "24,0 %",
+        "24,0 %",
+        "24,0 %"
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "KM"
+      ],
+      "header_tax_rates": [
+        "24,0 %"
+      ],
+      "header_tax_amounts": [
+        "16,11"
+      ],
+      "header_tax_base_amounts": [
+        "67,10"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "67,10",
+      "printed_total_discount": "",
+      "printed_total_tax": "16,11",
+      "printed_gross_total": "83,21",
+      "printed_amount_due": "83,21",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Müüja - Saatja Seller - Consignor Northwind Operations OÜ S?o Jo?o da Talh Parnu mnt 10 2695671 S?o Jo?o da Talha PORTUGAL",
+        "Vastuvõtja Consignee Northwind Operations OÜ Dos Hermanas Parnu mnt 43",
+        "Lähtepunkt Place of departure S?o Jo?o da Talha",
+        "Saatmise kuupäev Dispatched on 01.04.26",
+        "Pealelaadimise koht From S?o Jo?o da Talha",
+        "Sihtpunkt Destination Dos Hermanas",
+        "Tarneklausel Term of delivery EXW S?o Jo?o da Talha",
+        "Markeerinaud. kohtade arv ia kauba nimetus. Marks and Nos. No of Pieces and Nature of Goods 3 CTN spares REFNR.FJ19363|STK-PT001-26-000084",
+        "Arvestuslik kaal 65",
+        "(PRETENSIOONID PALUME ESITADA 10 PÄEVA JOOKSUL)",
+        "Köik toimingud sooritatakse Eesti Logistika ja Ekspedeerimise Assotsiatsiooni kehtivate Üldtingimuste kohaselt, mis muuhulgas piiravad ekspedeerija vastutust veoste hilinemise, kaotsimineku ja kahjustumise korral ning ekspedeerija käsutuses olevale kaubale pantimisõigus garantiiks. ELEA Uldtingimused saadetakse Teile koheselt Teie esimesel noudmisel.",
+        "All the activities are performed in accordance with the valid General Conditions of the Estonian Freight Forwarders Association, which among to other things limit the responsibility of a forwar delay, loss or damage of a cargo and give forwarder a lien of the goods that are in forwarders poss a guarantee for ordered services and forwarding expenses. The General Conditions of the Estonian Freight Forwarders Association will be sent to you upon your first request."
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

@@ -1,0 +1,120 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "Invoice 20423591",
+      "invoice_number": "20423591",
+      "invoice_date": "16.02.2026",
+      "due_date": "08.03.2026",
+      "invoice_type_text": "Invoice",
+      "payment_terms_text": "20 Days net",
+      "po_number": "",
+      "currency_text": "CHF",
+      "price_basis_text": "Price excl. Price incl. Amount excl. Amount incl.",
+      "supplier_name": "Elektra",
+      "supplier_address": "Avenida Central 60\n8005 Zurich",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "CH70 3000 0001 8577 2176 5",
+      "buyer_name": "Northwind CH sarl",
+      "buyer_address": "Nina Costa\nMarket Road 26\n8008\nSwitzerland",
+      "buyer_vat_id": "CHE-726.894.710",
+      "line_item_numbers": [
+        "35605506",
+        ""
+      ],
+      "line_descriptions": [
+        "King King Tony Cap 1/2 & quot Torx tip with T45x60mm hole",
+        "24 Months Warranty (2/16/2026 - 2/16/2028)"
+      ],
+      "line_quantities": [
+        "1",
+        ""
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "11.19",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "11.19",
+        ""
+      ],
+      "line_tax_names": [
+        "VAT",
+        ""
+      ],
+      "line_tax_rates": [
+        "8.10%",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "VAT"
+      ],
+      "header_tax_rates": [
+        "8.10%"
+      ],
+      "header_tax_amounts": [
+        "0.91"
+      ],
+      "header_tax_base_amounts": [
+        "11.19"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "11.19",
+      "printed_total_discount": "",
+      "printed_total_tax": "0.91",
+      "printed_gross_total": "12.10",
+      "printed_amount_due": "12.10",
+      "other_total_labels": [
+        "Total amount includes the following VAT:",
+        "Total of all deliveries and services CHF",
+        "Billing amount"
+      ],
+      "other_total_amounts": [
+        "",
+        "12.10",
+        "12.10"
+      ],
+      "notes": [
+        "Dispatch\nUpon receiving your product, please make sure it is correct and complete and check it for damage. Any deficiencies need to be reported within five calendar days from collection resp. delivery date via your personal customer account in the online shop.",
+        "General\nOur general terms and conditions apply.",
+        "Warranty services\nThis document serves as a warranty receipt for the service centre. Further warranty information and the address of the service centre are available in your customer account. Please send returns to the stated address only."
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

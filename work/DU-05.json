@@ -1,0 +1,95 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Tax Invoice",
+      "invoice_number": "7363916",
+      "invoice_date": "30.06.2026",
+      "due_date": "Up to 28.09.2026 without deduction",
+      "invoice_type_text": "Tax Invoice",
+      "payment_terms_text": "90 days net",
+      "po_number": "3057199",
+      "currency_text": "SGD",
+      "price_basis_text": "",
+      "supplier_name": "Vantek Asia Pte Ltd.",
+      "supplier_address": "High Street 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "207490313H",
+      "supplier_tax_id": "207490313H",
+      "supplier_iban": "",
+      "buyer_name": "Cadence Pte. Ltd - Standard",
+      "buyer_address": "Jalan Ampang 08\nSingapore 539775",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "80"
+      ],
+      "line_descriptions": [
+        "4108044\nF:WSA_89424080 _HSS (N) H2940 DKC\nCust. mat-no: 89424080\nCountry of origin: Indonesia\nCustoms tariff nr .: 3926.9000\nDelivery note: 8358769 from 30.06.2026"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        "771.66"
+      ],
+      "line_price_units": [
+        "100"
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "771.66"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "771.66",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Total amount in SGD"
+      ],
+      "other_total_amounts": [
+        "771.66"
+      ],
+      "notes": [
+        "Consignee / Ship-to party\nFairmont Technologies Inc\nGartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL ECONOMIC ZONE\nPHILIPPINES",
+        "Customer reference: 693100096",
+        "Incoterms: EXW BATAM",
+        "Bank account Larkspur Bank\nSINGAPORE BRANCH\nUSD-acc. 267-621698-425. Swift Code: TFFKBCCQ\nSGD-acc. 143-022260-749. Swift Code: TFFKBCCQ"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

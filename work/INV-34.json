@@ -1,0 +1,114 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2,
+        3
+      ],
+      "title_text": "tax invoice",
+      "invoice_number": "I220-127612",
+      "invoice_date": "20/06/2015",
+      "due_date": "27/06/2015",
+      "invoice_type_text": "tax invoice",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "$",
+      "price_basis_text": "Subtotal (ex GST)",
+      "supplier_name": "Asian Pacific Serviced Offices Pty Ltd",
+      "supplier_address": "Level 3, 480 Collins Street\nMelbourne VIC 3000",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "11 068 012 653",
+      "supplier_iban": "",
+      "buyer_name": "Mario Kalogiannis\nZycus Infotech Private Limited",
+      "buyer_address": "Level 9\n440 Collins Street\nMelbourne VIC 3000",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "Licence Fees - Suite 313b"
+      ],
+      "line_quantities": [
+        "1.00"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        "$520.00"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "$520.00"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        3
+      ],
+      "header_tax_names": [
+        "GST"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "$52.00"
+      ],
+      "header_tax_base_amounts": [
+        "$520.00"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "$520.00",
+      "printed_total_discount": "",
+      "printed_total_tax": "$52.00",
+      "printed_gross_total": "$572.00",
+      "printed_amount_due": "$572.00",
+      "other_total_labels": [
+        "Previous Balance",
+        "Payments",
+        "Adjustments",
+        "Current Charges"
+      ],
+      "other_total_amounts": [
+        "$621.32 ",
+        "$621.32",
+        "$0.00",
+        "$572.00"
+      ],
+      "notes": [
+        "Customer Number: 2473130",
+        "Biller Code: 14746",
+        "Ref: 2473130",
+        "BSB No: 083-004",
+        "Account No: 947598148",
+        "Site: 480 Collins Serviced Offices",
+        "Period: 20/06/2015 - 19/07/2015"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

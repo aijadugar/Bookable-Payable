@@ -1,0 +1,123 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "ARVE",
+      "invoice_number": "11768395",
+      "invoice_date": "2025 / 06 / 06",
+      "due_date": "2025 / 06 / 27",
+      "invoice_type_text": "ARVE",
+      "payment_terms_text": "Arve tähtajaks mittetasumisel on Cloverdale Tradiçõigus nouda viivist 0,1% tasumata summast iga maksetähtpäeva ületanud päeva eest.",
+      "po_number": "PTGGM351961374",
+      "currency_text": "EUR",
+      "price_basis_text": "",
+      "supplier_name": "Cloverdale Trading",
+      "supplier_address": "10112, Gartenweg 13\nHarju county ESTONIA",
+      "supplier_vat_id": "EE418070965",
+      "supplier_tax_id": "15116864",
+      "supplier_iban": "RE516678092588562155",
+      "buyer_name": "Northwind Operations OÜ",
+      "buyer_address": "Lindenstrasse 15\nEE-10134 TALLINN",
+      "buyer_vat_id": "EE398766194",
+      "line_item_numbers": [
+        "752",
+        "751"
+      ],
+      "line_descriptions": [
+        "Import duties",
+        "Customs VAT"
+      ],
+      "line_quantities": [
+        "",
+        ""
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "31889.09",
+        "5878.23"
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "0",
+        "0"
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "VAT amount"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "0.00"
+      ],
+      "header_tax_base_amounts": [
+        "0.00"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "37767.32",
+      "printed_total_discount": "",
+      "printed_total_tax": "0.00",
+      "printed_gross_total": "37767.32",
+      "printed_amount_due": "37767.32",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Kliendi nr. Client No. EMK_2492_177233378",
+        "Viide maksmisel Payment reference 210020201117683950",
+        "maria.tamm@northwind.eu",
+        "Meie viide Our ref. TLLFW19939 /TLL9386486",
+        "Veovahend Vehicle TLL9386486",
+        "Saatmise kuupäev Departure date 2025 / 06 / 06",
+        "Saatja viide Shipper Reference PTGGM351961374",
+        "Tarneklausel Terms of delivery 001 Ismir",
+        "Saabumise kuupäev Arrival date 2025 / 06 / 06",
+        "Vastuvõtja Consignee Northwi@PERATIONS Frielas business park, PT-2660 Frielas",
+        "Lisandub viivisarve väljastamise tasu 40 eurot.",
+        "Cloverdale Tradihas the right to charge interest on arrears 0.1% of the unpaid amount for each day the invoice is overdue. Service fee of 40 EUR applies for every interest invoicing.",
+        "I-arve operaator Unifiedpost",
+        "Pangad, Banks: Oakhaven BaRE516678092588562155 , BIC: SZWGVJOV Redwater BarilE319931502108360825 , BIC: USQNDC2G"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

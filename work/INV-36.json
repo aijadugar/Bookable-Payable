@@ -1,0 +1,111 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "INVOICE",
+      "invoice_number": "44273107",
+      "invoice_date": "18-Jun-2018",
+      "due_date": "18-Jul-2018",
+      "invoice_type_text": "INVOICE",
+      "payment_terms_text": "30 NET",
+      "po_number": "1000021496",
+      "currency_text": "USD",
+      "price_basis_text": "",
+      "supplier_name": "Oracle America, Inc.",
+      "supplier_address": "500 Oracle Parkway\nRedwood Shores, CA 94065\nUnited States",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "94-2805249",
+      "supplier_iban": "",
+      "buyer_name": "AmeriHealth Caritas Services",
+      "buyer_address": "Attention: Accounts Payable\n200 Stevens Drive\nPhiladelphia, PA 19113\nUnited States",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "1"
+      ],
+      "line_descriptions": [
+        "Managed Cloud Services - Computer and Administration Services - Managed Cloud Services - Additional Services 18-JUL-2018 : 17-OCT-2018"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "91,580.50"
+      ],
+      "line_tax_names": [
+        "N"
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [
+        "TAX"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "0.00"
+      ],
+      "header_tax_base_amounts": [
+        ""
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "91,580.50",
+      "printed_total_discount": "",
+      "printed_total_tax": "0.00",
+      "printed_gross_total": "91,580.50",
+      "printed_amount_due": "91,580.50",
+      "other_total_labels": [
+        "Less Payments",
+        "Credits/Adjustments",
+        "Outstanding Balance as of 27-Jun-2018"
+      ],
+      "other_total_amounts": [
+        "0.00",
+        "0.00",
+        "91,580.50"
+      ],
+      "notes": [
+        "ORACLE SALESPERSON: Settelmeyer, Jacob",
+        "ORACLE ORDER NUMBER: 14724557",
+        "CUSTOMER CONTACT: Attention: Accounts Payable",
+        "END USER: Amerihealth Caritas Health Plan",
+        "SHIP TO : Amerihealth Caritas Health Plan 200 Stevens Dr Amhss 1000- Corp Shared Services Philadelphia, PA 19113 United States",
+        "MAIL CHECKS TO: Oracle America, Inc. P.O. Box 203448 Dallas TX 75320-3448",
+        "WIRE TRANSFERS TO: WELLS FARGO BANK ABA 121000248 ACCT 4522-020841",
+        "FOR BILLING QUESTIONS, CALL: (888) 803-7414 OR EMAIL: COLLECTIONS_US@ORACLE.COM"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

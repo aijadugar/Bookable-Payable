@@ -1,0 +1,103 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "ZF1",
+      "invoice_number": "",
+      "invoice_date": "02.12.2025",
+      "due_date": "01.01.2026",
+      "invoice_type_text": "Original",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "€",
+      "price_basis_text": "",
+      "supplier_name": "Vinora",
+      "supplier_address": "Gartenweg 5\n6.500.000€ C.R.C. DE V.N. DE GAIA Nº",
+      "supplier_vat_id": "PT241 235 054",
+      "supplier_tax_id": "",
+      "supplier_iban": "0033 0000 05",
+      "buyer_name": "Blackpine Unipessoal Lda",
+      "buyer_address": "Kadaka tee 224\n1250-148 Lisboa",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "1"
+      ],
+      "line_descriptions": [
+        "CX TRINCA ALE T22 6X1500 CXE NTT EAN:5601012004984"
+      ],
+      "line_quantities": [
+        "1"
+      ],
+      "line_uoms": [
+        "CX"
+      ],
+      "line_unit_prices": [
+        "123,36"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        "63,85"
+      ],
+      "line_discount_percents": [
+        "51,76 %"
+      ],
+      "line_totals": [
+        "123,36"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [
+        "IVA"
+      ],
+      "header_tax_rates": [
+        "13,00"
+      ],
+      "header_tax_amounts": [
+        "7,74"
+      ],
+      "header_tax_base_amounts": [
+        "59,51"
+      ],
+      "printed_discount_amount": "63,85",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "123,36",
+      "printed_total_discount": "63,85",
+      "printed_total_tax": "7,74",
+      "printed_gross_total": "67,25",
+      "printed_amount_due": "67,25",
+      "other_total_labels": [
+        "IVA Adiantamento"
+      ],
+      "other_total_amounts": [
+        ""
+      ],
+      "notes": [
+        "Nota: Sobre estes produtos incidem ainda, os Descontos Promocionais referente ao mês em curso.",
+        "com o disposto no Decreto-Lei n.º 166/2013, de 27.12.",
+        "Os bens desta Factura/GR foram colocados à disposição na data da factura",
+        "Processado por programa certificado n.º2563/AT"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

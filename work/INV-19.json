@@ -1,0 +1,129 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "VENDOR DETAILS",
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type_text": "",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "GHC",
+      "price_basis_text": "(i) Tax Exclusive Value",
+      "supplier_name": "Redwater Technologies",
+      "supplier_address": "Bank Name: Stadtbank\nBranch: Lindenstrasse 111\nAccount No. 1028243888660\nSORT code: 240124\nSWIFT code: GMOEYYPUFGV",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "C9765403675",
+      "supplier_iban": "",
+      "buyer_name": "Northwind HOLDINGS OU",
+      "buyer_address": "High Street 10\nP.O",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "Meal per head",
+        "Transportation and Set up"
+      ],
+      "line_quantities": [
+        "60",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "90.00",
+        "1,200.00"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "5400.00",
+        "1,200.00"
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "NHIL",
+        "GETFund Levy",
+        "COVID-19 Levy",
+        "VAT"
+      ],
+      "header_tax_rates": [
+        "2.5%",
+        "2.5%",
+        "1%",
+        "15%"
+      ],
+      "header_tax_amounts": [
+        "165.00",
+        "165.00",
+        "66.00",
+        "1049.40"
+      ],
+      "header_tax_base_amounts": [
+        "",
+        "",
+        "",
+        "6,600.00"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "6,600.00",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "8,045.40",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Total Levy Inclusive Value (i+ii+iii+iv)"
+      ],
+      "other_total_amounts": [
+        "6,996.00"
+      ],
+      "notes": [
+        "Account No: 1028243888660",
+        "SORT code: 240124 SWIFT\ncode: GMOEYYPUFGV",
+        "Manager Name : Alex MeyeMoreau\nAbutiate",
+        "Signature : .."
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

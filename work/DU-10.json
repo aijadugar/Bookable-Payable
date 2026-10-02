@@ -1,0 +1,110 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Credit Note No .: 5900366703",
+      "invoice_number": "5900366703",
+      "invoice_date": "15/04/2026",
+      "due_date": "",
+      "invoice_type_text": "Credit Note",
+      "payment_terms_text": "Within 30 days of invoice date",
+      "po_number": "",
+      "currency_text": "GBP",
+      "price_basis_text": "",
+      "supplier_name": "Blackpine Consulting Limited",
+      "supplier_address": "Parnu mnt 50\nChippenham\nSN14 OGF",
+      "supplier_vat_id": "GB447324473",
+      "supplier_tax_id": "Reg no .: 5383241",
+      "supplier_iban": "GB73ETPB85770231331598",
+      "buyer_name": "Northwind Services UK Limited",
+      "buyer_address": "Jalan Ampang 157\nJalan Ampang 175\nLondon SE1 4GT\nUNITED KINGDOM",
+      "buyer_vat_id": "GB726874417",
+      "line_item_numbers": [
+        "4582314",
+        "4541892"
+      ],
+      "line_descriptions": [
+        "Logitech Tap Scheduler Touch Controller",
+        "Logitech Tap Touch Controller Cat5e Kit"
+      ],
+      "line_quantities": [
+        "6",
+        "2"
+      ],
+      "line_uoms": [
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "457.24",
+        "743.35"
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "2,743.44",
+        "1,486.70"
+      ],
+      "line_tax_names": [
+        "VAT",
+        "VAT"
+      ],
+      "line_tax_rates": [
+        "20%",
+        "20%"
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "VAT"
+      ],
+      "header_tax_rates": [
+        "20 %"
+      ],
+      "header_tax_amounts": [
+        "846.03"
+      ],
+      "header_tax_base_amounts": [
+        "4,230.14"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "4,230.14",
+      "printed_total_discount": "",
+      "printed_total_tax": "846.03",
+      "printed_gross_total": "5,076.17",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "credit invoice 0394289238",
+        "failed delivery"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

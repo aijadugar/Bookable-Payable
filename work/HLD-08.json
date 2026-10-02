@@ -1,0 +1,107 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Copy Tax Invoice",
+      "invoice_number": "162547",
+      "invoice_date": "19/05/2026",
+      "due_date": "",
+      "invoice_type_text": "Tax Invoice",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "R",
+      "price_basis_text": "Exclusive",
+      "supplier_name": "Cloverdale Partners CC",
+      "supplier_address": "PO Box 2505\nMarket Road 73\nRua do Ouro 138\n4300",
+      "supplier_vat_id": "2731114415",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Meridian Technologies\nA Division of Meridian Print LTD",
+      "buyer_address": "High Street 1\nEXT 1\nJohannesburg, GP 1401\nMeridian Print LTD\nP.O.Box 13385\nJacobs 4026",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "TGB001/531"
+      ],
+      "line_descriptions": [
+        "Hall's Smooth Fruit Punch 1lt M 337521\nWT037912\nCG"
+      ],
+      "line_quantities": [
+        "468.0"
+      ],
+      "line_uoms": [
+        "1000"
+      ],
+      "line_unit_prices": [
+        "276.74"
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "R129,514.32"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        "15.00%"
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [
+        "Tax"
+      ],
+      "header_tax_rates": [
+        ""
+      ],
+      "header_tax_amounts": [
+        "R19,427.15"
+      ],
+      "header_tax_base_amounts": [
+        "R129,514.32"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "R129,514.32",
+      "printed_total_discount": "R0.00",
+      "printed_total_tax": "R19,427.15",
+      "printed_gross_total": "R148,941.47",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Discount @ 0.00%"
+      ],
+      "other_total_amounts": [
+        "R0.00"
+      ],
+      "notes": [
+        "Vendor Number 432145",
+        "Account TGB001",
+        "Your Reference 9267418170",
+        "Tax Exempt N",
+        "Tax Reference 7414745407",
+        "Sales Code AP001",
+        "Received in good order",
+        "Silverbrook Distribution Ltd"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

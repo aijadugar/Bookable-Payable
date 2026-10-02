@@ -1,0 +1,1263 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "29.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Kingsley Services Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4111401 F:WSA_10950635_HSS (N1) H3550 SLV Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "final delivery",
+        "Order number 3057199",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        2
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "29.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Meridian Technologies Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10",
+        "20"
+      ],
+      "line_descriptions": [
+        "4122467 F:WSA_10980649_FRAME COVER H3820 (C6)BLK Net weight 0.000 KG Gross weight 15.400 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
+        "4122469 F:WSA_21017686_FRAME MAIN H3820 (C6) BLK Net weight 0.000 KG Gross weight 1.100 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "7,000",
+        "500"
+      ],
+      "line_uoms": [
+        "PC",
+        "PC"
+      ],
+      "line_unit_prices": [
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        ""
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        2,
+        2
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "16.500 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3060775",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        3
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "30.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Kingsley Consulting Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10",
+        "20"
+      ],
+      "line_descriptions": [
+        "4103236 F:WSA_10956542_HSS (N) H3552 DGT Net weight 0.000 Gross weight 0.000 Cust. mat-no 10956542 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
+        "4103165 F:WSA_10950632_HSS (N) H3550 GNT Net weight 0.000 Gross weight 0.000 Cust. mat-no 10950632 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100",
+        "100"
+      ],
+      "line_uoms": [
+        "PC",
+        "PC"
+      ],
+      "line_unit_prices": [
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        ""
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        3,
+        3
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "final delivery",
+        "Partial Delivery",
+        "Order number 3057604",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "30.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Cloverdale Partners Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4111404 F:WSA_10956547_HSS (N1) H3552 SB Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        4
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "final delivery",
+        "Order number 3056096",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        5
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "30.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Cloverdale Systems Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10",
+        "20"
+      ],
+      "line_descriptions": [
+        "4110072 F:WSA_10974232_HSS (N) H3690 DBR Net weight 0.000 KG Gross weight 1.560 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:",
+        "4130030 F:WSA_10977817_HSS (N) H3640 DBR MDF2 Net weight 0.000 KG Gross weight 2.680 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "400",
+        "100"
+      ],
+      "line_uoms": [
+        "PC",
+        "PC"
+      ],
+      "line_unit_prices": [
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        ""
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        5,
+        5
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "4.240 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3057451",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "30.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Redwater Trading Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10",
+        "30"
+      ],
+      "line_descriptions": [
+        "4107945 F:WSA_10944435_HSS (N) H2940 GNT Net weight 0.000 KG Gross weight 0.780 KG Cust. mat-no 10944435 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch",
+        "4103162 F:WSA_10950627_HSS (N) H3550 BLK Net weight 0.000 KG Gross weight 0.780 KG Cust. mat-no 10950627 Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100",
+        "100"
+      ],
+      "line_uoms": [
+        "PC",
+        "PC"
+      ],
+      "line_unit_prices": [
+        "",
+        ""
+      ],
+      "line_price_units": [
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        ""
+      ],
+      "line_totals": [
+        "",
+        ""
+      ],
+      "line_tax_names": [
+        "",
+        ""
+      ],
+      "line_tax_rates": [
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        6,
+        6
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "1.560 KG",
+        ""
+      ],
+      "notes": [
+        "final delivery",
+        "Order number 3057199",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        7
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "17.07.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Meridian Media Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4122469 F:WSA_21017686_FRAME MAIN H3820 (C6) BLK Net weight 0.000 KG Gross weight 1.100 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "500"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        7
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "1.100 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3060775",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        8
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "30.06.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Fairmont Services Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4141982 F:WSA_21043685_HSS (C6) H3994 SLV Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        8
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3061229",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "31.07.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Northwind Services Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4146090 F:WSA_21044210_HSS (C6) H3942 BG Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "200"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        9
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3061562",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        10
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "28.07.2026",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "CILUI\nMarket Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Brightside Logistics Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4138891 F:WSA_21038247_HSS (C6) H3990 PRLP Net weight 0.000 KG Gross weight 0.780 KG Country of origin: Indonesia Customs tariff nr .: 3926.9000 Batch:"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        10
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Order number 3061564",
+        "Delivery EXW BATAM",
+        "Customer reference Luis"
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "EXW BATAM",
+      "po_number": "3057199",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Silverbrook Distribution Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4108044 F:WSA_10944450_HSS (N) H2940 DKC"
+      ],
+      "line_quantities": [
+        "100"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        11
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "final delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Cust. mat-no 10944450",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000"
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "title_text": "Delivery note",
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "invoice_type_text": "Delivery note",
+      "payment_terms_text": "EXW BATAM",
+      "po_number": "3061229",
+      "currency_text": "",
+      "price_basis_text": "",
+      "supplier_name": "nd Vantek Pte Ltd.",
+      "supplier_address": "Market Road 7\n#03-66/67/68/69\nSingapore 737664\nSingapore",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "Brightside Print Inc",
+      "buyer_address": "Gartenweg 24\nLaguna Technopark, Building C\n4024 BINAN-SPECIAL\nZONE 12320",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "10"
+      ],
+      "line_descriptions": [
+        "4144895 F:WSA_21044711_HSS (C6) H3992 BLK"
+      ],
+      "line_quantities": [
+        "200"
+      ],
+      "line_uoms": [
+        "PC"
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        12
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Weight",
+        "Number of packets"
+      ],
+      "other_total_amounts": [
+        "0.780 KG",
+        ""
+      ],
+      "notes": [
+        "Partial Delivery",
+        "Net weight 0.000 KG",
+        "Gross weight 0.780 KG",
+        "Country of origin: Indonesia",
+        "Customs tariff nr .: 3926.9000"
+      ]
+    },
+    {
+      "page_numbers": [
+        15
+      ],
+      "title_text": "Shipment Receipt",
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "Thursday, 02 Jul, 2026",
+      "invoice_type_text": "Shipment Receipt",
+      "payment_terms_text": "EXW",
+      "po_number": "",
+      "currency_text": "SGD",
+      "price_basis_text": "",
+      "supplier_name": "PT.Vantek",
+      "supplier_address": "Kadaka tee 323\nPARK,\nMUKA\n29433 BATAM indonesia\nIndonesia",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "MICRO-ELECTRONICS INC.",
+      "buyer_address": "ZONE, BINAN\n4024 Binan\nPhilippines, the",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "OF HSG SET / FRAME COVER / FRAME MAIN"
+      ],
+      "line_quantities": [
+        ""
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        ""
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        15
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [
+        "Fuel Surcharge/Duties and Taxes Paid/Overweight Piece ( weight)/Paperless Trade"
+      ],
+      "charge_amounts": [
+        ""
+      ],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "",
+      "printed_amount_due": "",
+      "other_total_labels": [
+        "Declared Value:",
+        "Total Weight:",
+        "Dimensional:",
+        "Chargeable:"
+      ],
+      "other_total_amounts": [
+        "52,542.97 SGD",
+        "161.10kg",
+        "506.88kg",
+        "507.50kg"
+      ],
+      "notes": [
+        "Waybill Number:",
+        "Duties&taxes acct: Third party",
+        "Service Type:",
+        "Dutiable Status: Dutiable",
+        "Packaging Type: Your Own Package",
+        "Estimated Del date: Thursday, 02 Jul, 2026",
+        "Number of Pieces: 2",
+        "Reference: 9257347, 9257348"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

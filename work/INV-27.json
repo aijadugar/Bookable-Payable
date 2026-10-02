@@ -1,0 +1,181 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1,
+        2
+      ],
+      "title_text": "",
+      "invoice_number": "32917ALS55",
+      "invoice_date": "03/06/2025",
+      "due_date": "03/07/2025",
+      "invoice_type_text": "",
+      "payment_terms_text": "",
+      "po_number": "",
+      "currency_text": "KES",
+      "price_basis_text": "",
+      "supplier_name": "Oakhaven Supply Ltd",
+      "supplier_address": "Lindenstrasse 8\nP.O Box 14108, Nairobi, Kenya\n00400 KEN\nalex.meyer@oakhaven-supply.ke\nwww.northwind-consulting.ke",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "PIN P088353697W",
+      "supplier_iban": "",
+      "buyer_name": "Northwind Support Kenya Ltd KES",
+      "buyer_address": "Rua do Ouro 117, BUILDING :\nAZURE\nTOWERS, 10TH FLOOR\nRIVERSIDE\nSQUARE RIVERSIDE DRIVE\n00600 Nairobi Kenya\nPIN P221296346U",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_descriptions": [
+        "Handling Out (per CBM)\nHandling Out of POS DEVICES(SUNMI\nV2PRO) on 19th May\n0.00686CBM * 40 units",
+        "Transport\nTransport of POS devices(SUNMI V2PRO) on 4th April",
+        "Transport\nTransport of POS DEVICES(SUNMI V2PRO) on 19th\nMay",
+        "Storage charges\nStorage charges for POS devices(SUNMI V2PRO) from\n1st to 19th May\n0.00686 CBM* 311units*19days",
+        "Storage charges\nStorage charges for POS devices(SUNMI V2PRO) from\n20th to 31st May\n0.00686 CBM* 271units*12days",
+        "Storage charges\nStorage charges for Food\ndeliverybag(insulated bag) from 1st to 31st May\n0.0297 CBM* 1788 units* 31 days",
+        "Stock Management fee\nMonthly stock Management fee"
+      ],
+      "line_quantities": [
+        "0.2744",
+        "1",
+        "1",
+        "40.53574",
+        "22.30872",
+        "1,646.2116",
+        "1"
+      ],
+      "line_uoms": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_unit_prices": [
+        "500.00",
+        "3,000.00",
+        "1,500.00",
+        "30.00",
+        "30.00",
+        "30.00",
+        "5,000.00"
+      ],
+      "line_price_units": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discounts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_discount_percents": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_totals": [
+        "137.20",
+        "3,000.00",
+        "1,500.00",
+        "1,216.07",
+        "669.26",
+        "49,386.35",
+        "5,000.00"
+      ],
+      "line_tax_names": [
+        "Std",
+        "Std",
+        "Std",
+        "Std",
+        "Std",
+        "Std",
+        "Std"
+      ],
+      "line_tax_rates": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_tax_amounts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "line_page_numbers": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "header_tax_names": [
+        "VAT @ 16%"
+      ],
+      "header_tax_rates": [
+        "16%"
+      ],
+      "header_tax_amounts": [
+        "9,745.42"
+      ],
+      "header_tax_base_amounts": [
+        "60,908.88"
+      ],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "60,908.88",
+      "printed_total_discount": "",
+      "printed_total_tax": "9,745.42",
+      "printed_gross_total": "70,654.30",
+      "printed_amount_due": "KES 70,654.30",
+      "other_total_labels": [
+        "TOTAL DUE"
+      ],
+      "other_total_amounts": [
+        "KES 70,654.30"
+      ],
+      "notes": [
+        "Warehosuing for May 2025",
+        "THANK YOU.",
+        "Account Name: Cloverdale Mobility Limited\nBank Name: Larkspur Bank\nBank Branch: Swissport\nSwift Code: PSDHKIZC\nBank Code: 07000\nKenya Shillings (KES): Account Number 6786517608\nUnited States Dollar (USD): Account Number 8672480023\nEuro (EUR): Account Number 8672480039"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}

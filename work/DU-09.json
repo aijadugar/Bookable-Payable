@@ -1,0 +1,92 @@
+{
+  "documents": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "title_text": "Donations and Sponsorship Form",
+      "invoice_number": "",
+      "invoice_date": "1/12/26",
+      "due_date": "",
+      "invoice_type_text": "",
+      "payment_terms_text": "",
+      "po_number": "AF-538013",
+      "currency_text": "USD",
+      "price_basis_text": "",
+      "supplier_name": "Ashford Systems",
+      "supplier_address": "402 Road SC 29526 USA",
+      "supplier_vat_id": "",
+      "supplier_tax_id": "",
+      "supplier_iban": "",
+      "buyer_name": "CADENCE udiology",
+      "buyer_address": "Halden Cybergate Tower 2\nMandaluyong, 1554 Metro Manila, Philippines",
+      "buyer_vat_id": "",
+      "line_item_numbers": [
+        ""
+      ],
+      "line_descriptions": [
+        "Sponsorship: Singular sponsor for Friday night Welcome, Jazz and cocktail 2 hour Primary logo on our website advertising Hearing Healthcare Conference Advertising via Constant Contact (x 4 ads) Logo on lanyards and/or name tags Logo on drink tickets Exhibit table (first choice on location) Ability to provide logo marked goodies to all attendees"
+      ],
+      "line_quantities": [
+        ""
+      ],
+      "line_uoms": [
+        ""
+      ],
+      "line_unit_prices": [
+        ""
+      ],
+      "line_price_units": [
+        ""
+      ],
+      "line_discounts": [
+        ""
+      ],
+      "line_discount_percents": [
+        ""
+      ],
+      "line_totals": [
+        "1995.00"
+      ],
+      "line_tax_names": [
+        ""
+      ],
+      "line_tax_rates": [
+        ""
+      ],
+      "line_tax_amounts": [
+        ""
+      ],
+      "line_page_numbers": [
+        1
+      ],
+      "header_tax_names": [],
+      "header_tax_rates": [],
+      "header_tax_amounts": [],
+      "header_tax_base_amounts": [],
+      "printed_discount_amount": "",
+      "printed_freight_charges": "",
+      "printed_insurance_charges": "",
+      "printed_extra_charges": "",
+      "printed_excise_duties": "",
+      "charge_labels": [],
+      "charge_amounts": [],
+      "printed_total_quantity": "",
+      "printed_subtotal": "",
+      "printed_total_discount": "",
+      "printed_total_tax": "",
+      "printed_gross_total": "$1995.00",
+      "printed_amount_due": "",
+      "other_total_labels": [],
+      "other_total_amounts": [],
+      "notes": [
+        "Requestor's Name: Kayce Vidal",
+        "Activity Name: South Hearing Aid Society",
+        "Expected fiscal year of the payment 2026",
+        "Contributions In Money",
+        "Gifts, Entertainment and Donations Policy - Donations and Sponsorship Form (Section 5) - 1 September 2020"
+      ]
+    }
+  ],
+  "unreadable_pages": []
+}
