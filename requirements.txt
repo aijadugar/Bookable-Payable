@@ -1,0 +1,11 @@
+# Bookable Payable - runtime dependencies
+#
+# Everything else in the pipeline (erp.py, build.py, check.py, masters.py,
+# run.py) uses the Python standard library only. These two are needed by
+# extract.py to turn PDFs in documents/ into parsed work/<ID>.json files.
+
+# PDF text extraction
+pypdf==6.19.0
+
+# LLM-powered invoice extraction from PDFs (requires INTERFAZE_API_KEY)
+interfaze==1.0.3
