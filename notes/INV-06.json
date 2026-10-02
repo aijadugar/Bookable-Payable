@@ -1,0 +1,44 @@
+[
+  {
+    "invoice_number": "8527907727",
+    "taxes": [
+      "V : no match",
+      "V : no match",
+      "V : no match",
+      "V : no match",
+      "VAT Amount : no match"
+    ],
+    "derived": [
+      "line 1: unit price taken from printed total (printed '44.99' does not foot)",
+      "line 2: unit price taken from printed total (printed '24.99' does not foot)",
+      "line 3: unit price taken from printed total (printed '25.00' does not foot)",
+      "line 4: unit price taken from printed total (printed '25.00' does not foot)",
+      "line 5: unit price taken from printed total (printed '25.00' does not foot)",
+      "line 6: unit price taken from printed total (printed '25.00' does not foot)",
+      "line 7: unit price taken from printed total (printed '56.99' does not foot)",
+      "line 8: unit price taken from printed total (printed '39.99' does not foot)",
+      "line 9: unit price taken from printed total (printed '39.99' does not foot)",
+      "line 10: unit price taken from printed total (printed '69.99' does not foot)",
+      "line 11: unit price taken from printed total (printed '72.99' does not foot)",
+      "line 12: unit price taken from printed total (printed '72.99' does not foot)",
+      "line 13: unit price taken from printed total (printed '69.99' does not foot)",
+      "line 14: unit price taken from printed total (printed '69.99' does not foot)",
+      "line 15: unit price taken from printed total (printed '113.99' does not foot)",
+      "line 16: unit price taken from printed total (printed '125.99' does not foot)",
+      "line 17: unit price taken from printed total (printed '39.99' does not foot)",
+      "line 18: unit price taken from printed total (printed '38.99' does not foot)",
+      "line 19: unit price taken from printed total (printed '57.99' does not foot)",
+      "line 20: unit price taken from printed total (printed '74.99' does not foot)",
+      "line 21: unit price taken from printed total (printed '74.99' does not foot)",
+      "line 22: unit price taken from printed total (printed '99.99' does not foot)",
+      "line 23: unit price taken from printed total (printed '159.99' does not foot)"
+    ],
+    "warnings": [
+      "charge 'Delivery Cost' 50.00 not placed: freight_charges already filled"
+    ],
+    "supplier": "no match",
+    "buyer": "no match",
+    "payment_term": "no match",
+    "po": "no match"
+  }
+]
